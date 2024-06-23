@@ -1,0 +1,6 @@
+{
+    "SUCCESS.lang.select": {
+        "de-DE": "<gray>Deine <aqua>Sprache</aqua> ist jetzt auf <aqua>[language]</aqua> gesetzt!</gray>",
+        "en-US": "<gray>Your <aqua>language</aqua> is now set to <aqua>[language]</aqua>!</gray>"
+    }
+}
