@@ -1,0 +1,37 @@
+{
+    "ERROR.action.notfound":
+    {
+        "de-DE": "$prefix <gray>Die Aktion <aqua>${args[0]}</aqua> ist <red>ungültig</red>! Bitte nutze <aqua>warn</aqua> oder <aqua>block</aqua></gray>",
+        "en-US": "$prefix <gray>The action <aqua>${args[0]}</aqua> is <red>invalid</red>! Please use <aqua>warn</aqua> or <aqua>block</aqua></gray>"
+    },
+    "ERROR.blacklist.add":
+    {
+        "de-DE": "$prefix <gray>Das Wort <aqua>${word.lowercase(Locale.getDefault())}</aqua> ist bereits auf der <aqua>Blacklist</aqua>!</gray>",
+        "en-US": "$prefix <gray>The word <aqua>${word.lowercase(Locale.getDefault())}</aqua> is already on the <aqua>Blacklist</aqua>!</gray>"
+    },
+    "ERROR.blacklist.remove":
+    {
+        "de-DE": "$prefix <gray>Das Wort <aqua>${word.lowercase(Locale.getDefault())}</aqua> ist nicht auf der <aqua>Blacklist</aqua>!</gray>",
+        "en-US": "$prefix <gray>The word <aqua>${word.lowercase(Locale.getDefault())}</aqua> is not on the <aqua>Blacklist</aqua>!</gray>"
+    },
+    "ERROR.blacklist.empty":
+    {
+        "de-DE": "$prefix <gray>Die <aqua>Blacklist</aqua> ist <red>leer</red>!</gray>",
+        "en-US": "$prefix <gray>The <aqua>Blacklist</aqua> is <red>empty</red>!</gray>"
+    },
+    "SUCCESS.blacklist.add":
+    {
+        "de-DE": "$prefix <gray>Das Wort <aqua>${word.lowercase(Locale.getDefault())}</aqua> wurde erfolgreich mit der Priorität <aqua>${args[1]}</aqua> zur <aqua>Blacklist</aqua> <green>hinzugefügt</green>!</gray>",
+        "en-US": "$prefix <gray>The word <aqua>${word.lowercase(Locale.getDefault())}</aqua> has been <green>successfully</green> added to the <aqua>Blacklist</aqua> with the priority <aqua>${args[1]}</aqua>!</gray>"
+    },
+    "SUCCESS.blacklist.remove":
+    {
+        "de-DE": "$prefix <gray>Das Wort <aqua>${word.lowercase(Locale.getDefault())}</aqua> wurde von der <aqua>Blacklist</aqua> entfernt!</gray>",
+        "en-US": "$prefix <gray>The word <aqua>${word.lowercase(Locale.getDefault())}</aqua> has been removed from the <aqua>Blacklist</a>!</gray>"
+    },
+    "SUCCESS.blacklist.show":
+    {
+        "de-DE": "$prefix <gray>Die <aqua>Blacklist</aqua> enthält folgende Wörter: <aqua>$wordListString</aqua></gray>",
+        "en-US": "$prefix <gray>The <aqua>Blacklist</aqua> contains the following words: <aqua>$wordListString</aqua></gray>"
+    }
+}
