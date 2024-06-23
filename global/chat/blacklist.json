@@ -1,0 +1,30 @@
+{
+    "ERROR.action.notfound": {
+        "de-DE": "<gray>Die Aktion <aqua>[action]</aqua> ist <red>ungültig</red>! Bitte nutze <aqua>warn</aqua> oder <aqua>block</aqua></gray>",
+        "en-US": "<gray>The action <aqua>[action]</aqua> is <red>invalid</red>! Please use <aqua>warn</aqua> or <aqua>block</aqua></gray>"
+    },
+    "ERROR.blacklist.add": {
+        "de-DE": "<gray>Das Wort <aqua>[word]</aqua> ist bereits auf der <aqua>Blacklist</aqua>!</gray>",
+        "en-US": "<gray>The word <aqua>[word]</aqua> is already on the <aqua>Blacklist</aqua>!</gray>"
+    },
+    "ERROR.blacklist.remove": {
+        "de-DE": "<gray>Das Wort <aqua>[word]</aqua> ist nicht auf der <aqua>Blacklist</aqua>!</gray>",
+        "en-US": "<gray>The word <aqua>[word]</aqua> is not on the <aqua>Blacklist</aqua>!</gray>"
+    },
+    "ERROR.blacklist.empty": {
+        "de-DE": "<gray>Die <aqua>Blacklist</aqua> ist <red>leer</red>!</gray>",
+        "en-US": "<gray>The <aqua>Blacklist</aqua> is <red>empty</red>!</gray>"
+    },
+    "SUCCESS.blacklist.add": {
+        "de-DE": "<gray>Das Wort <aqua>[word]</aqua> wurde erfolgreich mit der Priorität <aqua>[priority]</aqua> zur <aqua>Blacklist</aqua> <green>hinzugefügt</green>!</gray>",
+        "en-US": "<gray>The word <aqua>[word]</aqua> has been <green>successfully</green> added to the <aqua>Blacklist</aqua> with the priority <aqua>[priority]</aqua>!</gray>"
+    },
+    "SUCCESS.blacklist.remove": {
+        "de-DE": "<gray>Das Wort <aqua>[word]</aqua> wurde von der <aqua>Blacklist</aqua> entfernt!</gray>",
+        "en-US": "<gray>The word <aqua>[word]</aqua> has been removed from the <aqua>Blacklist</a>!</gray>"
+    },
+    "SUCCESS.blacklist.show": {
+        "de-DE": "<gray>Die <aqua>Blacklist</aqua> enthält folgende Wörter: <aqua>[wordlist]</aqua></gray>",
+        "en-US": "<gray>The <aqua>Blacklist</aqua> contains the following words: <aqua>[wordlist]</aqua></gray>"
+    }
+}
