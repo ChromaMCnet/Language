@@ -8,7 +8,7 @@
         "en-US": "<i:false><aqua>Settings</aqua>"
     },
     "ITEM.settings.lore": {
-        "de-DE": "<i:false><grey>Ändere <aqua>persönliche</aqua> einstellungen</grey><br><i:false><grey>wie z.B. die <aqua>Sichtbarkeit</aqua> anderer Spieler und vieles mehr</grey>",
+        "de-DE": "<i:false><grey>Ändere <aqua>persönliche</aqua> einstellungen</grey>\n<i:false><grey>wie z.B. die <aqua>Sichtbarkeit</aqua> anderer Spieler und vieles mehr</grey>",
         "en-US": "<i:false><grey>Change <aqua>personal</aqua> settings</grey><br><i:false><grey>like the <aqua>visibility</aqua> of other players and much more</grey>"
     },
     "ITEM.friends.name": {
