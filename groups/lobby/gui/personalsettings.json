@@ -1,0 +1,62 @@
+{
+    "SETTING.playerhider.lore.all": {
+        "de-DE": "<i:false><grey>Ändere die <aqua>Sichtbarkeit</aqua> anderer Spieler</grey><br><i:false><grey>Teammitglieder, Freunde und Medias werden <red>nicht</red> versteckt!</grey><br><br><br><br><i:false><green>> Alle Spieler</green><br><i:false><grey>Besondere Spieler</grey><br><i:false><grey>Keine Spieler</grey>",
+        "en-US": "<i:false><grey>Change the <aqua>visibility</aqua> of other players</grey><br><i:false><grey>Team members, friends and media are <red>not</red> hidden!</grey><br><br><br><br><i:false><green>> All players</green><br><i:false><grey>Special players</grey><br><i:false><grey>No players</grey>"
+    },
+    "SETTING.playerhider.lore.special": {
+        "de-DE": "<i:false><grey>Ändere die <aqua>Sichtbarkeit</aqua> anderer Spieler</grey><br><i:false><grey>Teammitglieder, Freunde und Medias werden <red>nicht</red> versteckt!</grey><br><br><br><br><i:false><grey>Alle Spieler</grey><br><i:false><green>> Besondere Spieler</green><br><i:false><grey>Keine Spieler</grey>",
+        "en-US": "<i:false><grey>Change the <aqua>visibility</aqua> of other players</grey><br><i:false><grey>Team members, friends and media are <red>not</red> hidden!</grey><br><br><br><br><i:false><grey>All players</grey><br><i:false><green>> Special players</green><br><i:false><grey>No players</grey>"
+    },
+    "SETTING.playerhider.lore.none": {
+        "de-DE": "<i:false><grey>Ändere die <aqua>Sichtbarkeit</aqua> anderer Spieler</grey><br><i:false><grey>Teammitglieder, Freunde und Medias werden <red>nicht</red> versteckt!</grey><br><br><br><br><i:false><grey>Alle Spieler</grey><br><i:false><grey>Besondere Spieler</grey><br><i:false><green>> Keine Spieler</green>",
+        "en-US": "<i:false><grey>Change the <aqua>visibility</aqua> of other players</grey><br><i:false><grey>Team members, friends and media are <red>not</red> hidden!</grey><br><br><br><br><i:false><grey>All players</grey><br><i:false><grey>Special players</grey><br><i:false><green>> No players</green>"
+    },
+    "SETTING.movement.lore.walk": {
+        "de-DE": "<i:false><grey>Ändere deinen <aqua>Movement</aqua> typ</grey><br><i:false><grey>Egal ob du gerne laufen oder fliegen möchtest!</grey><br><br><br><br><i:false><green>> Laufen</green><br><i:false><grey>Doppelsprung</grey><br><i:false><grey>Fliegen</grey>",
+        "en-US": "<i:false><grey>Change your <aqua>Movement</aqua> type</grey><br><i:false><grey>Whether you like to walk or fly!</grey><br><br><br><br><i:false><green>> Walk</green><br><i:false><grey>Double jump</grey><br><i:false><grey>Fly</grey>"
+    },
+    "SETTING.movement.lore.doublejump": {
+        "de-DE": "<i:false><grey>Ändere deinen <aqua>Movement</aqua> typ</grey><br><i:false><grey>Egal ob du gerne laufen oder fliegen möchtest!</grey><br><br><br><br><i:false><grey>Laufen</grey><br><i:false><green>> Doppelsprung</green><br><i:false><grey>Fliegen</grey>",
+        "en-US": "<i:false><grey>Change your <aqua>Movement</aqua> type</grey><br><i:false><grey>Whether you like to walk or fly!</grey><br><br><br><br><i:false><grey>Walk</grey><br><i:false><green>> Double jump</green><br><i:false><grey>Fly</grey>"
+    },
+    "SETTING.movement.lore.fly": {
+        "de-DE": "<i:false><grey>Ändere deinen <aqua>Movement</aqua> typ</grey><br><i:false><grey>Egal ob du gerne laufen oder fliegen möchtest!</grey><br><br><br><br><i:false><grey>Laufen</grey><br><i:false><grey>Doppelsprung</grey><br><i:false><green>> Fliegen</green>",
+        "en-US": "<i:false><grey>Change your <aqua>Movement</aqua> type</grey><br><i:false><grey>Whether you like to walk or fly!</grey><br><br><br><br><i:false><grey>Walk</grey><br><i:false><grey>Double jump</grey><br><i:false><green>> Fly</green>"
+    },
+    "SETTING.speedeffect.lore.enabled": {
+        "de-DE": "<i:false><grey><green>Aktiviere</green> oder <red>deaktiviere</red> den <aqua>Speed Effect</aqua></grey><br><i:false><grey>in der <aqua>Lobby,</aqua> um allen zu zeigen, wie <aqua>schnell</aqua> du bist!</grey><br><br><br><br><i:false><green>> Aktiviert</green><br><i:false><grey>Deaktiviert</grey>",
+        "en-US": "<i:false><grey><green>Enable</green> or <red>disable</red> the <aqua>Speed Effect</aqua></grey><br><i:false><grey>in the <aqua>lobby,</aqua> to show everyone how <aqua>fast</aqua> you are!</grey><br><br><br><br><i:false><green>> Enabled</green><br><i:false><grey>Disabled</grey>"
+    },
+    "SETTING.speedeffect.lore.disabled": {
+        "de-DE": "<i:false><grey><green>Aktiviere</green> oder <red>deaktiviere</red> den <aqua>Speed Effect</aqua></grey><br><i:false><grey>in der <aqua>Lobby,</aqua> um allen zu zeigen, wie <aqua>schnell</aqua> du bist!</grey><br><br><br><br><i:false><grey>Aktiviert</grey><br><i:false><green>> Deaktiviert</green>",
+        "en-US": "<i:false><grey><green>Enable</green> or <red>disable</red> the <aqua>Speed Effect</aqua></grey><br><i:false><grey>in the <aqua>lobby,</aqua> to show everyone how <aqua>fast</aqua> you are!</grey><br><br><br><br><i:false><grey>Enabled</grey><br><i:false><green>> Disabled</green>"
+    },
+    "SETTING.friendrequests.lore.enabled": {
+        "de-DE": "<i:false><grey><green>Aktiviere</green> oder <red>deaktiviere</red> <aqua>Freundschaftsanfragen</aqua></grey><br><i:false><grey>um zu entscheiden, wer dir <aqua>Anfragen</aqua> senden kann!</grey><br><br><br><br><i:false><green>> Aktiviert</green><br><i:false><grey>Deaktiviert</grey>",
+        "en-US": "<i:false><grey><green>Enable</green> or <red>disable</red> <aqua>friend requests</aqua></grey><br><i:false><grey>to decide who can send you <aqua>requests</aqua>!</grey><br><br><br><br><i:false><green>> Enabled</green><br><i:false><grey>Disabled</grey>"
+    },
+    "SETTING.friendrequests.lore.disabled": {
+        "de-DE": "<i:false><grey><green>Aktiviere</green> oder <red>deaktiviere</red> <aqua>Freundschaftsanfragen</aqua></grey><br><i:false><grey>um zu entscheiden, wer dir <aqua>Anfragen</aqua> senden kann!</grey><br><br><br><br><i:false><grey>Aktiviert</grey><br><i:false><green>> Deaktiviert</green>",
+        "en-US": "<i:false><grey><green>Enable</green> or <red>disable</red> <aqua>friend requests</aqua></grey><br><i:false><grey>to decide who can send you <aqua>requests</aqua>!</grey><br><br><br><br><i:false><grey>Enabled</grey><br><i:false><green>> Disabled</green>"
+    },
+    "SETTING.msg.lore.all": {
+        "de-DE": "<i:false><grey>Wähle aus, welche <aqua>Spieler</aqua> dir <aqua>Privatnachrichten</aqua> senden können sollen!</grey><br><i:false><grey>Entscheide selber mit wem du <aqua>chatten</aqua> möchtest, egal ob <aqua>Freunde</aqua> oder <aqua>Fremde</aqua>!</grey><br><br><br><br><i:false><green>> Alle Spieler</green><br><i:false><grey>Freunde</grey><br><i:false><grey>Keine Spieler</grey>",
+        "en-US": "<i:false><grey>Choose which <aqua>players</aqua> should be able to send you <aqua>private messages</aqua>!</grey><br><i:false><grey>Decide for yourself who you want to <aqua>chat</aqua> with, whether <aqua>friends</aqua> or <aqua>strangers</aqua>!</grey><br><br><br><br><i:false><green>> All players</green><br><i:false><grey>Friends</grey><br><i:false><grey>No players</grey>"
+    },
+    "SETTING.msg.lore.friends": {
+        "de-DE": "<i:false><grey>Wähle aus, welche <aqua>Spieler</aqua> dir <aqua>Privatnachrichten</aqua> senden können sollen!</grey><br><i:false><grey>Entscheide selber mit wem du <aqua>chatten</aqua> möchtest, egal ob <aqua>Freunde</aqua> oder <aqua>Fremde</aqua>!</grey><br><br><br><br><i:false><grey>Alle Spieler</grey><br><i:false><green>> Freunde</green><br><i:false><grey>Keine Spieler</grey>",
+        "en-US": "<i:false><grey>Choose which <aqua>players</aqua> should be able to send you <aqua>private messages</aqua>!</grey><br><i:false><grey>Decide for yourself who you want to <aqua>chat</aqua> with, whether <aqua>friends</aqua> or <aqua>strangers</aqua>!</grey><br><br><br><br><i:false><grey>All players</grey><br><i:false><green>> Friends</green><br><i:false><grey>No players</grey>"
+    },
+    "SETTING.msg.lore.none": {
+        "de-DE": "<i:false><grey>Wähle aus, welche <aqua>Spieler</aqua> dir <aqua>Privatnachrichten</aqua> senden können sollen!</grey><br><i:false><grey>Entscheide selber mit wem du <aqua>chatten</aqua> möchtest, egal ob <aqua>Freunde</aqua> oder <aqua>Fremde</aqua>!</grey><br><br><br><br><i:false><grey>Alle Spieler</grey><br><i:false><grey>Freunde</grey><br><i:false><green>> Keine Spieler</green>",
+        "en-US": "<i:false><grey>Choose which <aqua>players</aqua> should be able to send you <aqua>private messages</a>!</grey><br><i:false><grey>Decide for yourself who you want to <aqua>chat</aqua> with, whether <aqua>friends</aqua> or <aqua>strangers</aqua>!</grey><br><br><br><br><i:false><grey>All players</grey><br><i:false><grey>Friends</grey><br><i:false><green>> No players</green>"
+    },
+    "SETTING.hotbarsound.enabled": {
+        "de-DE": "<i:false><grey><green>Aktiviere</green> oder <red>deaktiviere</red> den <aqua>Hotbar Sound</aqua></grey><br><i:false><grey>um zu entscheiden, ob du <aqua>Sound</aqua> beim Wechseln des Hotbarslots hören möchtest!</grey><br><br><br><br><i:false><green>> Aktiviert</green><br><i:false><grey>Deaktiviert</grey>",
+        "en-US": "<i:false><grey><green>Enable</green> or <red>disable</red> the <aqua>Hotbar Sound</aqua></grey><br><i:false><grey>to decide if you want to hear <aqua>sound</aqua> when switching through the hotbar slot!</grey><br><br><br><br><i:false><green>> Enabled</green><br><i:false><grey>Disabled</grey>"
+    },
+    "SETTING.hotbarsound.disabled": {
+        "de-DE": "<i:false><grey><green>Aktiviere</green> oder <red>deaktiviere</red> den <aqua>Hotbar Sound</aqua></grey><br><i:false><grey>um zu entscheiden, ob du <aqua>Sound</aqua> beim Wechseln des Hotbarslots hören möchtest!</grey><br><br><br><br><i:false><grey>Aktiviert</grey><br><i:false><green>> Deaktiviert</green>",
+        "en-US": "<i:false><grey><green>Enable</green> or <red>disable</red> the <aqua>Hotbar Sound</aqua></grey><br><i:false><grey>to decide if you want to hear <aqua>sound</aqua> when switching through the hotbar slot!</grey><br><br><br><br><i:false><grey>Enabled</grey><br><i:false><green>> Disabled</green>"
+    }
+}

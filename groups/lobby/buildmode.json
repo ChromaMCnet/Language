@@ -1,0 +1,18 @@
+{
+    "BUILDMODE.enable": {
+        "de-DE": "<gray>Dein <aqua>Buildmode</aqua> wurde erfolgreich deaktiviert!</gray>",
+        "en-US": "<gray>Your <aqua>Buildmode</aqua> has been successfully deactivated!</gray>"
+    },
+    "BUILDMODE.disable": {
+        "de-DE": "<gray>Dein <aqua>Buildmode</aqua> wurde erfolgreich aktiviert!</gray>",
+        "en-US": "<gray>Your <aqua>Buildmode</aqua> has been successfully activated!</gray>"
+    },
+    "BUILDMODE.enable.other": {
+        "de-DE": "<gray>Du hast den <green>Buildmode</green> von <aqua>[player]</aqua> erfolgreich <green>aktiviert</green>!</gray>",
+        "en-US": "<gray>You have successfully <green>enabled</green> the <green>build mode</green> of <aqua>[player]</aqua>!</gray>"
+    },
+    "BUILDMODE.disable.other": {
+        "de-DE": "<gray>Du hast den <green>Buildmode</green> von <aqua>[player]</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
+        "en-US": "<gray>You have successfully <red>disabled</red> the <green>build mode</green> of <aqua>[player]</aqua>!</gray>"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "SETTING.friendrequests.disable": {
+        "de-DE": "<gray>Du hast <aqua>Freundschaftsanfragen</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
+        "en-US": "<gray>You have successfully <red>disabled</red> <aqua>friend requests</aqua>!</gray>"
+    },
+    "SETTING.friendrequests.enable": {
+        "de-DE": "<gray>Du hast <aqua>Freundschaftsanfragen</aqua> erfolgreich <green>aktiviert</green>!</gray>",
+        "en-US": "<gray>You have successfully <green>enabled</green> <aqua>friend requests</aqua>!</gray>"
+    },
+    "SETTING.msg.all": {
+        "de-DE": "<gray>Jeder kann dir nun <aqua>private Nachrichten</aqua> schreiben!</gray>",
+        "en-US": "<gray>Everyone can now send you <aqua>private messages</aqua>!</gray>"
+    },
+    "SETTING.msg.friends": {
+        "de-DE": "<gray>Nur <aqua>Freunde</aqua> können dir nun <aqua>private Nachrichten</aqua> schreiben!</gray>",
+        "en-US": "<gray>Only <aqua>friends</aqua> can now send you <aqua>private messages</aqua>!</gray>"
+    },
+    "SETTING.msg.none": {
+        "de-DE": "<gray>Du hast <aqua>private Nachrichten</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
+        "en-US": "<gray>You have successfully <red>disabled</red> <aqua>private messages</aqua>!</gray>"
+    },
+    "SETTING.hotbarsound.enable": {
+        "de-DE": "<gray>Du hast den <aqua>Hotbar-Sound</aqua> erfolgreich <green>aktiviert</green>!</gray>",
+        "en-US": "<gray>You have successfully <green>enabled</green> the <aqua>hotbar sound</aqua>!</gray>"
+    },
+    "SETTING.hotbarsound.disable": {
+        "de-DE": "<gray>Du hast den <aqua>Hotbar-Sound</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
+        "en-US": "<gray>You have successfully <red>disabled</red> the <aqua>hotbar sound</aqua>!</gray>"
+    },
+    "MOVEMENT.doublejump.activate": {
+        "de-DE": "<gray>Du hast deinen <aqua>Doppelsprung</aqua> erfolgreich <green>aktiviert!</green>!</gray>",
+        "en-US": "<gray>You have successfully <green>activated</green> your <aqua>double jump</aqua>!</gray>"
+    },
+    "MOVEMENT.doublejump.disable": {
+        "de-DE": "<gray>Du hast deinen <aqua>Doppelsprung</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
+        "en-US": "<gray>You have successfully <red>disabled</red> your <aqua>double jump</aqua>!</gray>"
+    },
+    "MOVEMENT.fly.enable": {
+        "de-DE": "<gray>Dein <aqua>Flugmodus</aqua> wurde erfolgreich <green>aktiviert</green>!</gray>",
+        "en-US": "<gray>Your <aqua>flight mode</aqua> got successfully <green>enabled</green>!</green>!</gray>"
+    },
+    "MOVEMENT.fly.disable": {
+        "de-DE": "<gray>Dein <aqua>Flugmodus</aqua> wurde erfolgreich <red>deaktiviert</red>!</gray>",
+        "en-US": "<gray>Your <aqua>flight mode</aqua> got successfully <green>disabled</green>!</green>!</gray>"
+    },
+    "MOVEMENT.fly.enable.other": {
+        "de-DE": "<gray>Du hast den <green>Flugmodus</green> von <aqua>[player]</aqua> erfolgreich <green>aktiviert</green>!</gray>",
+        "en-US": "<gray>You have successfully <green>enabled</green> the <green>flight mode</green> of <aqua>[player]</aqua>!</gray>"
+    },
+    "MOVEMENT.fly.disable.other": {
+        "de-DE": "<gray>Du hast den <green>Flugmodus</green> von <aqua>[player]</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
+        "en-US": "<gray>You have successfully <red>disabled</red> the <green>flight mode</green> of <aqua>[player]</aqua>!</gray>"
+    },
+    "PLAYERHIDER.all": {
+        "de-DE": "<gray>Du siehst nun <aqua>alle Spieler</aqua>!</gray>",
+        "en-US": "<gray>You can now see <aqua>all players</aqua>!</gray>"
+    },
+    "PLAYERHIDER.special": {
+        "de-DE": "<gray>Du siehst nun nur noch <aqua>spezielle Spieler</aqua>!</gray>",
+        "en-US": "<gray>You can now see only <aqua>special players</aqua>!</gray>"
+    },
+    "PLAYERHIDER.none": {
+        "de-DE": "<gray>Du siehst nun <aqua>keine Spieler</aqua> mehr!</gray>",
+        "en-US": "<gray>You can now see <aqua>no players</aqua> anymore!</gray>"
+    },
+    "SPEEDEFFECT.enable": {
+        "de-DE": "<gray>Du hast den <aqua>Geschwindigkeitseffekt</aqua> erfolgreich <green>aktiviert</green>!</gray>",
+        "en-US": "<gray>You have successfully <green>enabled</green> the <aqua>speed effect</aqua>!</gray>"
+    },
+    "SPEEDEFFECT.disable": {
+        "de-DE": "<gray>Du hast den <aqua>Geschwindigkeitseffekt</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
+        "en-US": "<gray>You have successfully <red>disabled</red> the <aqua>speed effect</aqua>!</gray>"
+    }
+}

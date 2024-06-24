@@ -1,0 +1,30 @@
+{
+    "ITEM.selector.lore": {
+        "de-DE": "<i:false><grey>Wähle den <aqua>Spielmodus</aqua> aus</grey><br><i:false><grey>den du auf <aqua>ChromaMC</aqua> spielen möchtest</grey>",
+        "en-US": "<i:false><grey>Choose the <aqua>game mode</aqua> you want to play on <aqua>ChromaMC</aqua></grey>"
+    },
+    "ITEM.settings.name": {
+        "de-DE": "<i:false><aqua>Einstellungen</aqua>",
+        "en-US": "<i:false><aqua>Settings</aqua>"
+    },
+    "ITEM.settings.lore": {
+        "de-DE": "<i:false><grey>Ändere <aqua>persönliche</aqua> einstellungen</grey><br><i:false><grey>wie z.B. die <aqua>Sichtbarkeit</aqua> anderer Spieler und vieles mehr</grey>",
+        "en-US": "<i:false><grey>Change <aqua>personal</aqua> settings</grey><br><i:false><grey>like the <aqua>visibility</aqua> of other players and much more</grey>"
+    },
+    "ITEM.friends.name": {
+        "de-DE": "<i:false><aqua>Freunde</aqua>",
+        "en-US": "<i:false><aqua>Friends</aqua>"
+    },
+    "ITEM.friends.lore": {
+        "de-DE": "<i:false><grey>Verwalte deine <aqua>Freundschaften</aqua> auf dem Server!</grey><br><i:false><grey>Füge Freunde hinzu, entferne sie, usw.</grey>",
+        "en-US": "<i:false><grey>Manage your <aqua>friendships</aqua> on the server!</grey><br><i:false><grey>Add friends, remove them, etc.</grey>"
+    },
+    "ITEM.cosmetics.name": {
+        "de-DE": "<i:false><aqua>Kosmetik</aqua>",
+        "en-US": "<i:false><aqua>Cosmetics</aqua>"
+    },
+    "ITEM.cosmetics.lore": {
+        "de-DE": "<i:false><grey>Wähle deine <aqua>Cosmetics</aqua> aus</grey><br><i:false><grey>und passe deinen <aqua>Charakter</aqua> an!</grey>",
+        "en-US": "<i:false><grey>Choose your <aqua>Cosmetics</aqua></grey><br><i:false><grey>and customize your <aqua>character</aqua>!</grey>"
+    }
+}

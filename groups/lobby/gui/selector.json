@@ -1,0 +1,14 @@
+{
+    "INFO.gamemode.soon": {
+        "de-DE": "<i:false><grey>Dieser <color:#ff0000>Modus</color> ist <color:#ff0000>noch nicht</color> verfügbar</grey><br><br><i:false><grey>Wenn du <color:#00FFFF>Ideen</color> hast, was es noch für <color:#00FFFF>Modi</color> geben könnte</grey><br><i:false><grey>nutze gerne unseren <color:#0066CC>Discord Server</color> um uns diese mitzuteilen!</grey><br><i:false><grey>Nutze <color:#0066CC>/discord</color> um den <color:#0066CC>Link</color> zu erhalten, oder öffne <color:#0066CC>dc.chromamc.net</color> in deinem Browser!</grey>",
+        "en-US": "<i:false><grey>This <color:#ff0000>mode</color> is <color:#ff0000>not yet</color> available</grey><br><br><i:false><grey>If you have <color:#00FFFF>ideas</color> what other <color:#00FFFF>modes</color> could be available</grey><br><i:false><grey>feel free to join our <color:#0066CC>Discord Server</color> to tell us!</grey><br><i:false><grey>Use <color:#0066CC>/discord</color> to get the <color:#0066CC>link</color>, or open <color:#0066CC>dc.chromamc.net</color> in your browser!</grey>"
+    },
+    "GAMEMODE.survival.lore": {
+        "de-DE": "<i:false><grey>Spiele <aqua>alleine</aqua> oder mit <aqua>Freunden</aqua></grey><br><i:false><grey>Deiner <aqua>Kreativität</aqua> sind <aqua>keine Grenzen</aqua> gesetzt!</grey><br><br><i:false><grey>Aktuell online: <aqua>[playercount]</aqua></grey>",
+        "en-US": "<i:false><grey>Play <aqua>alone</aqua> or with <aqua>friends</aqua></grey><br><i:false><grey>Your <aqua>creativity</aqua> knows <aqua>no bounds</aqua>!</grey><br><br><i:false><grey>Currently online: <aqua>[playercount]</aqua></grey>"
+    },
+    "GAMEMODE.kitpvp.lore": {
+        "de-DE": "<i:false><grey>Kämpfe gegen <aqua>andere Spieler</aqua></grey><br><i:false><grey>wähle dein Kit aus und <aqua>zeige ihnen,</aqua> wer der <aqua>Beste</aqua> ist!</grey><br><br><i:false><color:#ff0000>SOON</color>",
+        "en-US": "<i:false><grey>Fight against <aqua>other players</aqua></grey><br><i:false><grey>choose your kit and <aqua>show them</aqua> who is the <aqua>best</aqua>!</grey><br><br><i:false><color:#ff0000>SOON</color>"
+    }
+}
