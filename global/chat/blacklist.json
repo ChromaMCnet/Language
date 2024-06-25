@@ -15,6 +15,10 @@
         "de-DE": "<gray>Die <aqua>Blacklist</aqua> ist <red>leer</red>!</gray>",
         "en-US": "<gray>The <aqua>Blacklist</aqua> is <red>empty</red>!</gray>"
     },
+    "ERROR.message.blocked": {
+        "de-DE": "<grey>Bitte achte auf deine <aqua>Wortwahl,</aqua> deine Nachricht wurde von unserem System <dark_red>geblockt</dark_red>! Hier ist markiert, was du falsch gemacht hast: [message]</grey>",
+        "en-US": "<grey>Please watch your <aqua>language,</aqua> your message has been <dark_red>blocked</dark_red> by our system! Here is what you did wrong: [message]</grey>"
+    },
     "SUCCESS.blacklist.add": {
         "de-DE": "<gray>Das Wort <aqua>[word]</aqua> wurde erfolgreich mit der Priorität <aqua>[priority]</aqua> zur <aqua>Blacklist</aqua> <green>hinzugefügt</green>!</gray>",
         "en-US": "<gray>The word <aqua>[word]</aqua> has been <green>successfully</green> added to the <aqua>Blacklist</aqua> with the priority <aqua>[priority]</aqua>!</gray>"
