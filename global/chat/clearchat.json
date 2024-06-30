@@ -1,5 +1,5 @@
 {
-    "CLEARCHAT.clearchat": {
+    "SUCCESS.chat.cleared": {
         "de-DE": "<gray>Der Chat wurde von <aqua>[player]</aqua> geleert!</gray>",
         "en-US": "<gray>The chat got cleared by <aqua>[player]</aqua>!</gray>"
     }
