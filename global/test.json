@@ -1,5 +1,9 @@
 {
     "SUCCESS.give.single": {
+        "de-DE": "Du hast von <aqua>[sender]</aqua> <color:#0079FF>[item]</color> erhalten!",
+        "en-US": "You received from <aqua>[sender]</aqua> <color:#0079FF>[item]</color>!"
+    },
+    "SUCCESS.give.multiple": {
         "de-DE": "Du hast von <aqua>[sender]</aqua> <color:#0079FF>[amount]</color> <color:#0079FF>[item]</color> erhalten!",
         "en-US": "You received from <aqua>[sender]</aqua> <color:#0079FF>[amount]</color> <color:#0079FF>[item]</color>!"
     }
