@@ -1,6 +1,6 @@
 {
     "ERROR.development": {
-        "de-DE": "<red>Das Freunde System ist aktuell noch in Arbeit!</red>",
-        "en-US": "<red>The Friend System is currently still in development!</red>"
+        "de-DE": "<color:#ff0000>Das Freundesystem ist aktuell noch in Arbeit!</color>",
+        "en-US": "<color:#ff0000>The Friend System is currently still in development!</color>"
     }
 }

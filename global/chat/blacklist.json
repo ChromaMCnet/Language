@@ -1,34 +1,34 @@
 {
     "ERROR.action.notfound": {
-        "de-DE": "<gray>Die Aktion <aqua>[action]</aqua> ist <red>ungültig</red>! Bitte nutze <aqua>warn</aqua> oder <aqua>block</aqua></gray>",
-        "en-US": "<gray>The action <aqua>[action]</aqua> is <red>invalid</red>! Please use <aqua>warn</aqua> or <aqua>block</aqua></gray>"
+        "de-DE": "<color:#96a7b2>Die Aktion <aqua>[action]</aqua> ist <color:#ff0000>ungültig!</color> Bitte nutze <color:#4bfb00>warn</color> oder <color:#4bfb00>block</color></color>",
+        "en-US": "<color:#96a7b2>The action <aqua>[action]</aqua> is <color:#ff0000>invalid</color>! Please use <color:#4bfb00>warn</color> or <color:#4bfb00>block</color></color>"
     },
     "ERROR.blacklist.add": {
-        "de-DE": "<gray>Das Wort <aqua>[word]</aqua> ist bereits auf der <aqua>Blacklist</aqua>!</gray>",
-        "en-US": "<gray>The word <aqua>[word]</aqua> is already on the <aqua>Blacklist</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Das Wort <aqua>[word]</aqua> ist bereits auf der <aqua>Blacklist</aqua>!</color>",
+        "en-US": "<color:#96a7b2>The word <aqua>[word]</aqua> is already on the <aqua>Blacklist</aqua>!</color>"
     },
     "ERROR.blacklist.remove": {
-        "de-DE": "<gray>Das Wort <aqua>[word]</aqua> ist nicht auf der <aqua>Blacklist</aqua>!</gray>",
-        "en-US": "<gray>The word <aqua>[word]</aqua> is not on the <aqua>Blacklist</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Das Wort <aqua>[word]</aqua> ist <color:#ff0000>nicht</color> auf der <aqua>Blacklist</aqua>!</color>",
+        "en-US": "<color:#96a7b2>The word <aqua>[word]</aqua> is <color:#ff0000>not</color> on the <aqua>Blacklist</aqua>!</color>"
     },
     "ERROR.blacklist.empty": {
-        "de-DE": "<gray>Die <aqua>Blacklist</aqua> ist <red>leer</red>!</gray>",
-        "en-US": "<gray>The <aqua>Blacklist</aqua> is <red>empty</red>!</gray>"
+        "de-DE": "<color:#96a7b2>Die <aqua>Blacklist</aqua> ist <color:#ff0000>leer</color>!</color>",
+        "en-US": "<color:#96a7b2>The <aqua>Blacklist</aqua> is <color:#ff0000>empty</color>!</color>"
     },
     "ERROR.message.blocked": {
-        "de-DE": "<grey>Bitte achte auf deine <aqua>Wortwahl,</aqua> deine Nachricht wurde von unserem System <dark_red>geblockt</dark_red>! Hier ist markiert, was du falsch gemacht hast: [message]</grey>",
-        "en-US": "<grey>Please watch your <aqua>language,</aqua> your message has been <dark_red>blocked</dark_red> by our system! Here is what you did wrong: [message]</grey>"
+        "de-DE": "<grey>Bitte achte auf deine <aqua>Wortwahl,</aqua> deine Nachricht wurde von unserem System <color:#ff0000>geblockt</color>! Hier ist markiert, was du falsch gemacht hast: [message]</grey>",
+        "en-US": "<grey>Please watch your <aqua>language,</aqua> your message has been <color>blocked</color> by our system! Here is what you did wrong: [message]</grey>"
     },
     "SUCCESS.blacklist.add": {
-        "de-DE": "<gray>Das Wort <aqua>[word]</aqua> wurde erfolgreich mit der Priorität <aqua>[priority]</aqua> zur <aqua>Blacklist</aqua> <green>hinzugefügt</green>!</gray>",
-        "en-US": "<gray>The word <aqua>[word]</aqua> has been <green>successfully</green> added to the <aqua>Blacklist</aqua> with the priority <aqua>[priority]</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Das Wort <aqua>[word]</aqua> wurde <color:#4bfb00>erfolgreich</color> mit der Priorität <aqua>[priority]</aqua> zur <aqua>Blacklist</aqua> <color:#4bfb00>hinzugefügt</color>!</color>",
+        "en-US": "<color:#96a7b2>The word <aqua>[word]</aqua> has been <color:#4bfb00>successfully added</color> to the <aqua>Blacklist</aqua> with the priority <aqua>[priority]</aqua>!</color>"
     },
     "SUCCESS.blacklist.remove": {
-        "de-DE": "<gray>Das Wort <aqua>[word]</aqua> wurde von der <aqua>Blacklist</aqua> entfernt!</gray>",
-        "en-US": "<gray>The word <aqua>[word]</aqua> has been removed from the <aqua>Blacklist</a>!</gray>"
+        "de-DE": "<color:#96a7b2>Das Wort <aqua>[word]</aqua> wurde von der <aqua>Blacklist</aqua> <color:#ff0000>entfernt</color>!</color>",
+        "en-US": "<color:#96a7b2>The word <aqua>[word]</aqua> has been <color:#ff0000>color</color> from the <aqua>Blacklist</a>!</color>"
     },
-    "SUCCESS.blacklist.show": {
-        "de-DE": "<gray>Die <aqua>Blacklist</aqua> enthält folgende Wörter: <aqua>[wordlist]</aqua></gray>",
-        "en-US": "<gray>The <aqua>Blacklist</aqua> contains the following words: <aqua>[wordlist]</aqua></gray>"
+    "SUCCESS.blacklist.show": { 
+        "de-DE": "<color:#96a7b2>Die <aqua>Blacklist</aqua> enthält folgende Wörter: <aqua>[wordlist]</aqua></color>",
+        "en-US": "<color:#96a7b2>The <aqua>Blacklist</aqua> contains the following words: <aqua>[wordlist]</aqua></color>"
     }
 }
