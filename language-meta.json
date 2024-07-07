@@ -2,18 +2,21 @@
     "en-US": {
         "name": "English",
         "country": "United States",
+        "country-local": "United States",
         "code": "en-US",
         "fallback": "en-US"
     },
     "en-GB": {
         "name": "English",
         "country": "United Kingdom",
+        "country-local": "United Kingdom",
         "code": "en-GB",
         "fallback": "en-US"
     },
     "de-DE": {
         "name": "Deutsch",
-        "country": "Deutschland",
+        "country": "Germany",
+        "country-local": "Deutschland",
         "code": "de-DE",
         "fallback": "en-US"
     }
