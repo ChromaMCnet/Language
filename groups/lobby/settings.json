@@ -1,74 +1,74 @@
 {
     "SETTING.friendrequests.disable": {
-        "de-DE": "<gray>Du hast <aqua>Freundschaftsanfragen</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
-        "en-US": "<gray>You have successfully <red>disabled</red> <aqua>friend requests</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast <aqua>Freundschaftsanfragen</aqua> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#ff0000>disabled</color> <aqua>friend requests!</aqua></color>"
     },
     "SETTING.friendrequests.enable": {
-        "de-DE": "<gray>Du hast <aqua>Freundschaftsanfragen</aqua> erfolgreich <green>aktiviert</green>!</gray>",
-        "en-US": "<gray>You have successfully <green>enabled</green> <aqua>friend requests</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast <aqua>Freundschaftsanfragen</aqua> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#4bfb00>enabled</color> <aqua>friend requests!</aqua></color>"
     },
     "SETTING.msg.all": {
-        "de-DE": "<gray>Jeder kann dir nun <aqua>private Nachrichten</aqua> schreiben!</gray>",
-        "en-US": "<gray>Everyone can now send you <aqua>private messages</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2><aqua>Jeder</aqua> kann dir nun <aqua>private Nachrichten</aqua> schreiben!</color>",
+        "en-US": "<color:#96a7b2><aqua>Everyone</aqua> can now send you <aqua>private messages!</aqua></color>"
     },
     "SETTING.msg.friends": {
-        "de-DE": "<gray>Nur <aqua>Freunde</aqua> können dir nun <aqua>private Nachrichten</aqua> schreiben!</gray>",
-        "en-US": "<gray>Only <aqua>friends</aqua> can now send you <aqua>private messages</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Nur <aqua>Freunde</aqua> können dir nun <aqua>private Nachrichten</aqua> schreiben!</color>",
+        "en-US": "<color:#96a7b2>Only <aqua>friends</aqua> can now send you <aqua>private messages!</aqua></color>"
     },
     "SETTING.msg.none": {
-        "de-DE": "<gray>Du hast <aqua>private Nachrichten</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
-        "en-US": "<gray>You have successfully <red>disabled</red> <aqua>private messages</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast <aqua>private Nachrichten</aqua> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#ff0000>disabled</color> <aqua>private messages!</aqua></color>"
     },
     "SETTING.hotbarsound.enable": {
-        "de-DE": "<gray>Du hast den <aqua>Hotbar-Sound</aqua> erfolgreich <green>aktiviert</green>!</gray>",
-        "en-US": "<gray>You have successfully <green>enabled</green> the <aqua>hotbar sound</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast den <aqua>Hotbar-Sound</aqua> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#4bfb00>enabled</color> the <aqua>hotbar sound!</aqua></color>"
     },
     "SETTING.hotbarsound.disable": {
-        "de-DE": "<gray>Du hast den <aqua>Hotbar-Sound</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
-        "en-US": "<gray>You have successfully <red>disabled</red> the <aqua>hotbar sound</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast den <aqua>Hotbar-Sound</aqua> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#ff0000>disabled</color> the <aqua>hotbar sound!</aqua></color>"
     },
     "MOVEMENT.doublejump.activate": {
-        "de-DE": "<gray>Du hast deinen <aqua>Doppelsprung</aqua> erfolgreich <green>aktiviert!</green>!</gray>",
-        "en-US": "<gray>You have successfully <green>activated</green> your <aqua>double jump</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast deinen <aqua>Doppelsprung</aqua> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#4bfb00>activated</color> your <aqua>double jump!</aqua></color>"
     },
     "MOVEMENT.doublejump.disable": {
-        "de-DE": "<gray>Du hast deinen <aqua>Doppelsprung</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
-        "en-US": "<gray>You have successfully <red>disabled</red> your <aqua>double jump</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast deinen <aqua>Doppelsprung</aqua> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#ff0000>disabled</color> your <aqua>double jump!</aqua></color>"
     },
     "MOVEMENT.fly.enable": {
-        "de-DE": "<gray>Dein <aqua>Flugmodus</aqua> wurde erfolgreich <green>aktiviert</green>!</gray>",
-        "en-US": "<gray>Your <aqua>flight mode</aqua> got successfully <green>enabled</green>!</green>!</gray>"
+        "de-DE": "<color:#96a7b2>Dein <aqua>Flugmodus</aqua> wurde erfolgreich <color:#4bfb00>aktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>Your <aqua>flight mode</aqua> got successfully <color:#4bfb00>enabled!</color></color>!</color>"
     },
     "MOVEMENT.fly.disable": {
-        "de-DE": "<gray>Dein <aqua>Flugmodus</aqua> wurde erfolgreich <red>deaktiviert</red>!</gray>",
-        "en-US": "<gray>Your <aqua>flight mode</aqua> got successfully <green>disabled</green>!</green>!</gray>"
+        "de-DE": "<color:#96a7b2>Dein <aqua>Flugmodus</aqua> wurde erfolgreich <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>Your <aqua>flight mode</aqua> got successfully <color:#4bfb00>disabled!</color></color>!</color>"
     },
     "MOVEMENT.fly.enable.other": {
-        "de-DE": "<gray>Du hast den <green>Flugmodus</green> von <aqua>[player]</aqua> erfolgreich <green>aktiviert</green>!</gray>",
-        "en-US": "<gray>You have successfully <green>enabled</green> the <green>flight mode</green> of <aqua>[player]</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast den <aqua>Flugmodus</aqua> von <aqua>[player]</aqua> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#4bfb00>enabled</color> the <color:#4bfb00>flight mode</color> of <aqua>[player]!</aqua></color>"
     },
     "MOVEMENT.fly.disable.other": {
-        "de-DE": "<gray>Du hast den <green>Flugmodus</green> von <aqua>[player]</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
-        "en-US": "<gray>You have successfully <red>disabled</red> the <green>flight mode</green> of <aqua>[player]</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast den <color:#4bfb00>Flugmodus</color> von <aqua>[player]</aqua> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#ff0000>disabled</color> the <color:#4bfb00>flight mode</color> of <aqua>[player]!</aqua></color>"
     },
     "PLAYERHIDER.all": {
-        "de-DE": "<gray>Du siehst nun <aqua>alle Spieler</aqua>!</gray>",
-        "en-US": "<gray>You can now see <aqua>all players</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du siehst nun <aqua>alle Spieler!</aqua></color>",
+        "en-US": "<color:#96a7b2>You can now see <aqua>all players!</aqua></color>"
     },
     "PLAYERHIDER.special": {
-        "de-DE": "<gray>Du siehst nun nur noch <aqua>spezielle Spieler</aqua>!</gray>",
-        "en-US": "<gray>You can now see only <aqua>special players</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du siehst nun nur noch <aqua>spezielle Spieler!</aqua></color>",
+        "en-US": "<color:#96a7b2>You can now see only <aqua>special players!</aqua></color>"
     },
     "PLAYERHIDER.none": {
-        "de-DE": "<gray>Du siehst nun <aqua>keine Spieler</aqua> mehr!</gray>",
-        "en-US": "<gray>You can now see <aqua>no players</aqua> anymore!</gray>"
+        "de-DE": "<color:#96a7b2>Du siehst nun <aqua>keine Spieler</aqua> mehr!</color>",
+        "en-US": "<color:#96a7b2>You can now see <aqua>no players</aqua> anymore!</color>"
     },
     "SPEEDEFFECT.enable": {
-        "de-DE": "<gray>Du hast den <aqua>Geschwindigkeitseffekt</aqua> erfolgreich <green>aktiviert</green>!</gray>",
-        "en-US": "<gray>You have successfully <green>enabled</green> the <aqua>speed effect</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast den <aqua>Geschwindigkeitseffekt</aqua> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#4bfb00>enabled</color> the <aqua>speed effect!</aqua></color>"
     },
     "SPEEDEFFECT.disable": {
-        "de-DE": "<gray>Du hast den <aqua>Geschwindigkeitseffekt</aqua> erfolgreich <red>deaktiviert</red>!</gray>",
-        "en-US": "<gray>You have successfully <red>disabled</red> the <aqua>speed effect</aqua>!</gray>"
+        "de-DE": "<color:#96a7b2>Du hast den <aqua>Geschwindigkeitseffekt</aqua> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have successfully <color:#ff0000>disabled</color> the <aqua>speed effect!</aqua></color>"
     }
 }

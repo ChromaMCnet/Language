@@ -1,0 +1,20 @@
+{
+    "en-US": {
+        "name": "English",
+        "country": "United States",
+        "code": "en-US",
+        "fallback": "en-US"
+    },
+    "en-GB": {
+        "name": "English",
+        "country": "United Kingdom",
+        "code": "en-GB",
+        "fallback": "en-US"
+    },
+    "de-DE": {
+        "name": "Deutsch",
+        "country": "Deutschland",
+        "code": "de-DE",
+        "fallback": "en-US"
+    }
+}
