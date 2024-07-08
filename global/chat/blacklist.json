@@ -16,8 +16,8 @@
         "en-US": "<color:#96a7b2>The <aqua>Blacklist</aqua> is <color:#ff0000>empty</color>!</color>"
     },
     "ERROR.message.blocked": {
-        "de-DE": "<color:#96a7b2>Bitte achte auf deine <aqua>Wortwahl,</aqua> deine Nachricht wurde von unserem System <color:#ff0000>geblockt</color>! Hier ist markiert, was du falsch gemacht hast: [message]</gray>",
-        "en-US": "<color:#96a7b2>Please watch your <aqua>language,</aqua> your message has been <color:#ff0000>blocked</color> by our system! Here is what you did wrong: [message]</gray>"
+        "de-DE": "<color:#96a7b2>Bitte achte auf deine <aqua>Wortwahl,</aqua> deine Nachricht wurde von unserem System <color:#ff0000>geblockt</color>! Hier ist markiert, was du falsch gemacht hast: [message]</color>",
+        "en-US": "<color:#96a7b2>Please watch your <aqua>language,</aqua> your message has been <color:#ff0000>blocked</color> by our system! Here is what you did wrong: [message]</color>"
     },
     "SUCCESS.blacklist.add": {
         "de-DE": "<color:#96a7b2>Das Wort <aqua>[word]</aqua> wurde <color:#4bfb00>erfolgreich</color> mit der Priorität <aqua>[priority]</aqua> zur <aqua>Blacklist</aqua> <color:#4bfb00>hinzugefügt</color>!</color>",
@@ -25,7 +25,7 @@
     },
     "SUCCESS.blacklist.remove": {
         "de-DE": "<color:#96a7b2>Das Wort <aqua>[word]</aqua> wurde von der <aqua>Blacklist</aqua> <color:#ff0000>entfernt</color>!</color>",
-        "en-US": "<color:#96a7b2>The word <aqua>[word]</aqua> has been <color:#ff0000>color</color> from the <aqua>Blacklist</a>!</color>"
+        "en-US": "<color:#96a7b2>The word <aqua>[word]</aqua> has been <color:#ff0000>color</color> from the <aqua>Blacklist</aqua>!</color>"
     },
     "SUCCESS.blacklist.show": { 
         "de-DE": "<color:#96a7b2>Die <aqua>Blacklist</aqua> enthält folgende Wörter: <aqua>[wordlist]</aqua></color>",
