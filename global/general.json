@@ -1,0 +1,6 @@
+{
+    "ERROR.noperms": {
+        "de-DE": "<color:#96a7b2>Dir <color:#ff0000>fehlt</color> die Berechtigung um das zu tun!",
+        "en-US": "<color:#96a7b2>You <color:#ff0000>don't have</color> the permission to do that!"
+    }
+}
