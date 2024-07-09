@@ -1,4 +1,20 @@
 {
+    "GUI.settings.item.movement.name": {
+        "de-DE": "Bewegungsart",
+        "en-US": "Movement"
+    },
+    "GUI.settings.item.speedeffect.name": {
+        "de-DE": "Speedeffekt",
+        "en-US": "Speedeffect"
+    },
+    "GUI.settings.item.friendrequests.name": {
+        "de-DE": "Freundschaftsanfragen",
+        "en-US": "Friend requests"
+    },
+    "GUI.settings.item.msg.name": {
+        "de-DE": "Privatnachrichten",
+        "en-US": "Private messages"
+    },
     "SETTING.playerhider.lore.all": {
         "de-DE": "<i:false><color:#96a7b2>Ändere die <aqua>Sichtbarkeit</aqua> anderer Spieler</color><br><i:false><color:#96a7b2>Teammitglieder, Freunde und Medias werden <color:#ff0000>nicht</color> versteckt!</color><br><br><br><br><i:false><color:#4bfb00>> Alle Spieler</color><br><i:false><color:#96a7b2>Besondere Spieler</color><br><i:false><color:#96a7b2>Keine Spieler</color>",
         "en-US": "<i:false><color:#96a7b2>Change the <aqua>visibility</aqua> of other players</color><br><i:false><color:#96a7b2>Team members, friends and media are <color:#ff0000>not</color> hidden!</color><br><br><br><br><i:false><color:#4bfb00>> All players</color><br><i:false><color:#96a7b2>Special players</color><br><i:false><color:#96a7b2>No players</color>"
