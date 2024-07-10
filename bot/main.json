@@ -2,5 +2,9 @@
     "WHITELIST.admin.message.send": {
         "GERMAN":  "Die Whitelist Nachricht wurde erfolgreich in [channel] gesendet!",
         "ENGLISH_UK": "The whitelist message was successfully sent in [channel]!"
+    },
+    "IP.info": {
+        "GERMAN": "Wenn du auf den Server joinen möchtest, kannst du mit der IP **ChromaMC.net** joinen!",
+        "ENGLISH_UK": "If you want to join the server, you can join with the IP **ChromaMC.net**!"
     }
 }
