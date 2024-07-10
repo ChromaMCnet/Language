@@ -1,6 +1,6 @@
 {
     "WHITELIST.admin.message.send": {
-        "de":  "Die Whitelist Nachricht wurde erfolgreich in [channel] gesendet!",
-        "en-GB": "The whitelist message was successfully sent in [channel]!"
+        "GERMAN":  "Die Whitelist Nachricht wurde erfolgreich in [channel] gesendet!",
+        "ENGLISH_UK": "The whitelist message was successfully sent in [channel]!"
     }
 }
