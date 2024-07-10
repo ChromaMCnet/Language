@@ -1,6 +1,6 @@
 {
     "SUCCESS.chat.cleared": {
-        "de-DE": "<color:#96a7b2>Der Chat wurde von <aqua>[player]</aqua> geleert!</color>",
-        "en-US": "<color:#96a7b2>The chat got cleared by <aqua>[player]</aqua>!</color>"
+        "de-DE": "<color:#96a7b2>Der Chat wurde von <aqua>[player]</aqua> geleert</color>",
+        "en-US": "<color:#96a7b2>The chat got cleared by <aqua>[player]</aqua></color>"
     }
 }
