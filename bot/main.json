@@ -3,6 +3,10 @@
         "GERMAN":  "Die Whitelist Nachricht wurde erfolgreich in [channel] gesendet!",
         "ENGLISH_UK": "The whitelist message was successfully sent in [channel]!"
     },
+    "WHITELIST.application.sent": {
+        "GERMAN": "Deine Bewerbung wurde in den Kanal [channel] gesendet! Hier kannst du dem Team weitere Informationen mitteilen, falls du etwas vergessen hast.",
+        "ENGLISH_UK": "Your application has been sent to the channel [channel]! Here you can provide the team with more information if you have forgotten something."
+    },
     "WHITELIST.error.already_whitelisted": {
         "GERMAN": "Du bist bereits auf der Whitelist!",
         "ENGLISH_UK": "You are already whitelisted!"
