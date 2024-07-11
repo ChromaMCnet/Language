@@ -3,6 +3,14 @@
         "GERMAN":  "Die Whitelist Nachricht wurde erfolgreich in [channel] gesendet!",
         "ENGLISH_UK": "The whitelist message was successfully sent in [channel]!"
     },
+    "WHITELIST.admin.whitelist.add.error.already_whitelisted": {
+        "GERMAN":  "Der user [user] ist bereits auf der Whitelist.",
+        "ENGLISH_UK": "The user [user] is already whitelisted."
+    },
+    "WHITELIST.admin.whitelist.add.error.invalid_ign": {
+        "GERMAN":  "Der Minecraft Benutzername [ign] ist ungültig.",
+        "ENGLISH_UK": "The Minecraft username [ign] is invalid."
+    },
     "WHITELIST.application.sent": {
         "GERMAN": "Deine Bewerbung wurde in den Kanal [channel] gesendet! Hier kannst du dem Team weitere Informationen mitteilen, falls du etwas vergessen hast.",
         "ENGLISH_UK": "Your application has been sent to the channel [channel]! Here you can provide the team with more information if you have forgotten something."
