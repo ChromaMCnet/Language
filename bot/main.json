@@ -23,6 +23,10 @@
         "GERMAN":  "Der Benutzer [user] wurde erfolgreich von der Whitelist entfernt.",
         "ENGLISH_UK": "The user [user] was successfully removed from the whitelist."
     },
+    "WHITELIST.admin.whitelist.clear.success": {
+        "GERMAN":  "Die Whitelist wurde erfolgreich geleert.",
+        "ENGLISH_UK": "The whitelist was successfully cleared."
+    },
     "WHITELIST.application.sent": {
         "GERMAN": "Deine Bewerbung wurde in den Kanal [channel] gesendet! Hier kannst du dem Team weitere Informationen mitteilen, falls du etwas vergessen hast.",
         "ENGLISH_UK": "Your application has been sent to the channel [channel]! Here you can provide the team with more information if you have forgotten something."
@@ -42,5 +46,9 @@
     "EMBED.creator.description": {
         "GERMAN": "Benutze die Buttons unten um ein Embed zu laden oder ein neues zu erstellen.",
         "ENGLISH_UK": "Use the buttons below to load an embed or create a new one."
+    },
+    "GENERAL.error.report": {
+        "GERMAN": "Ein Fehler ist aufgetreten! Bitte melde diesen Fehler an das Team.",
+        "ENGLISH_UK": "An error occurred! Please report this error to the team."
     }
 }
