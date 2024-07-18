@@ -55,6 +55,10 @@
         "GERMAN": "Du bist bereits auf der Whitelist!",
         "ENGLISH_UK": "You are already whitelisted!"
     },
+    "WHITELIST.error.whitelist_denied": {
+        "GERMAN": "Deine Whitelist Bewerbung wurde abegelehnt, bitte versuche es in der nächsten Season erneut!",
+        "ENGLISH_UK": "Your whitelist application has been rejected, please try again next season!"
+    },
     "WHITELIST.error.invalid_ign": {
         "GERMAN": "Du hast einen ungültigen Minecraft Benutzernamen eingegeben! Bitte schaue das du alles richtig eingegeben hast und versuche es erneut.",
         "ENGLISH_UK": "You have entered an invalid Minecraft username! Please make sure you have entered everything correctly and try again."
