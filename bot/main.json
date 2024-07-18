@@ -15,6 +15,26 @@
         "GERMAN":  "Der Benutzer [user] wurde erfolgreich auf die Whitelist hinzugefügt.",
         "ENGLISH_UK": "The user [user] was successfully added to the whitelist."
     },
+    "WHITELIST.modal.ign": {
+        "GERMAN":  "Dein Minecraft IGN",
+        "ENGLISH_UK": "Your Minecraft IG."
+    },
+    "WHITELIST.modal.age": {
+        "GERMAN":  "Dein Alter",
+        "ENGLISH_UK": "Your age"
+    },
+    "WHITELIST.modal.reason": {
+        "GERMAN":  "Warum möchtest du mitspielen?",
+        "ENGLISH_UK": "Why would you like to play?"
+    },
+    "WHITELIST.modal.voicechat": {
+        "GERMAN":  "Wirst du den Ingame Voicechat nutzen?",
+        "ENGLISH_UK": "Will you be using the in-game voice chat?"
+    },
+    "WHITELIST.modal.other": {
+        "GERMAN":  "Möchtest du noch etwas sagen?",
+        "ENGLISH_UK": "Anything else?"
+    },
     "WHITELIST.admin.whitelist.remove.error.not_whitelisted": {
         "GERMAN":  "Der Benutzer [user] ist nicht auf der Whitelist.",
         "ENGLISH_UK": "The user [user] is not on the whitelist."
