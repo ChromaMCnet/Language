@@ -70,5 +70,9 @@
     "GENERAL.error.report": {
         "GERMAN": "Ein Fehler ist aufgetreten! Bitte melde diesen Fehler an das Team.",
         "ENGLISH_UK": "An error occurred! Please report this error to the team."
+    },
+    "GENERAL.error.noperms": {
+        "GERMAN": "Dafür hast du keine Rechte!",
+        "ENGLISH_UK": "You are lacking the permission to do that!"
     }
 }
