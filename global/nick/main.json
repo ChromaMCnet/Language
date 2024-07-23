@@ -10,9 +10,5 @@
     "NICK.error.invalid": {
         "de-DE": "<color:#96a7b2>Der <aqua>Nickname</aqua> ist ungültig!</color>",
         "en-US": "<color:#96a7b2>The <aqua>nickname</aqua> is invalid!</color>"
-    },
-    "NICK.error.invalid.length": {
-        "de-DE": "<color:#96a7b2>Der <aqua>Nickname</aqua> ist zu lang oder zu kurz!</color>",
-        "en-US": "<color:#96a7b2>The <aqua>nickname</aqua> is too long or too short!</color>"
     }
-}
+} 
