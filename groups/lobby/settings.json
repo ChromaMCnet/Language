@@ -37,11 +37,11 @@
     },
     "MOVEMENT.fly.enable": {
         "de-DE": "<color:#96a7b2>Dein <aqua>Flugmodus</aqua> wurde erfolgreich <color:#4bfb00>aktiviert!</color></color>",
-        "en-US": "<color:#96a7b2>Your <aqua>flight mode</aqua> got successfully <color:#4bfb00>enabled!</color></color>!</color>"
+        "en-US": "<color:#96a7b2>Your <aqua>flight mode</aqua> got successfully <color:#4bfb00>enabled!</color></color>"
     },
     "MOVEMENT.fly.disable": {
         "de-DE": "<color:#96a7b2>Dein <aqua>Flugmodus</aqua> wurde erfolgreich <color:#ff0000>deaktiviert!</color></color>",
-        "en-US": "<color:#96a7b2>Your <aqua>flight mode</aqua> got successfully <color:#4bfb00>disabled!</color></color>!</color>"
+        "en-US": "<color:#96a7b2>Your <aqua>flight mode</aqua> got successfully <color:#4bfb00>disabled!</color></color>"
     },
     "MOVEMENT.fly.enable.other": {
         "de-DE": "<color:#96a7b2>Du hast den <aqua>Flugmodus</aqua> von <aqua>[player]</aqua> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
