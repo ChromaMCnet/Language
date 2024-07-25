@@ -65,8 +65,8 @@
     },
     "WHITELIST.list.footer":
     {
-        "GERMAN": "Es sind aktuell **[count] Spieler** auf der Whitelist.",
-        "ENGLISH_UK": "There are currently **[count] players** on the whitelist."
+        "GERMAN": "Es sind aktuell [count] Spieler auf der Whitelist",
+        "ENGLISH_UK": "There are currently [count] players on the whitelist"
     },
     "WHITELIST.list.button.page": {
         "GERMAN": "[page] / [pages]",
