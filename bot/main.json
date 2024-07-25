@@ -63,7 +63,7 @@
         "GERMAN": "Du hast einen ungültigen Minecraft Benutzernamen eingegeben! Bitte schaue das du alles richtig eingegeben hast und versuche es erneut.",
         "ENGLISH_UK": "You have entered an invalid Minecraft username! Please make sure you have entered everything correctly and try again."
     },
-    "WHITELIST.list.count":
+    "WHITELIST.list.footer":
     {
         "GERMAN": "Es sind aktuell **[count] Spieler** auf der Whitelist.",
         "ENGLISH_UK": "There are currently **[count] players** on the whitelist."
