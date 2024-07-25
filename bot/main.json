@@ -63,6 +63,15 @@
         "GERMAN": "Du hast einen ungültigen Minecraft Benutzernamen eingegeben! Bitte schaue das du alles richtig eingegeben hast und versuche es erneut.",
         "ENGLISH_UK": "You have entered an invalid Minecraft username! Please make sure you have entered everything correctly and try again."
     },
+    "WHITELIST.list.count":
+    {
+        "GERMAN": "Es sind aktuell **[count] Spieler** auf der Whitelist.",
+        "ENGLISH_UK": "There are currently **[count] players** on the whitelist."
+    },
+    "WHITELIST.list.button.page": {
+        "GERMAN": "[page] / [pages]",
+        "ENGLISH_UK": "[page] / [pages]"
+    },
     "IP.info": {
         "GERMAN": "Wenn du auf den Server joinen möchtest, kannst du mit der IP **ChromaMC.net** joinen!\n\nAktuell sind **[playercount] Spieler** online!",
         "ENGLISH_UK": "If you want to join the server, you can join with the IP **ChromaMC.net**!\n\nCurrently there are **[playercount] players** are online!"

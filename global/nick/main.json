@@ -4,16 +4,16 @@
         "en-US": "<color:#96a7b2>Your <aqua>nickname</aqua> has been changed to <aqua>[name]</aqua>!</color>"
     },
     "NICK.success.changed.other": {
-        "de-DE": "<color:#96a7b2>Der <aqua>Nickname</aqua> von <aqua>[name]</aqua> wurde zu <aqua>[name]</aqua> geändert!</color>",
-        "en-US": "<color:#96a7b2>The <aqua>nickname</aqua> of <aqua>[name]</aqua> has been changed to <aqua>[name]</aqua>!</color>"
+        "de-DE": "<color:#96a7b2>Der <aqua>Nickname</aqua> von <aqua>[player]</aqua> wurde zu <aqua>[name]</aqua> geändert!</color>",
+        "en-US": "<color:#96a7b2>The <aqua>nickname</aqua> of <aqua>[player]</aqua> has been changed to <aqua>[name]</aqua>!</color>"
     },
     "NICK.success.remove": {
         "de-DE": "<color:#96a7b2>Dein <aqua>Nickname</aqua> wurde entfernt!</color>",
         "en-US": "<color:#96a7b2>Your <aqua>nickname</aqua> has been removed!</color>"
     },
     "NICK.success.remove.other": {
-        "de-DE": "<color:#96a7b2>Der <aqua>Nickname</aqua> von <aqua>[name]</aqua> wurde entfernt!</color>",
-        "en-US": "<color:#96a7b2>The <aqua>nickname</aqua> of <aqua>[name]</aqua> has been removed!</color>"
+        "de-DE": "<color:#96a7b2>Der <aqua>Nickname</aqua> von <aqua>[player]</aqua> wurde entfernt!</color>",
+        "en-US": "<color:#96a7b2>The <aqua>nickname</aqua> of <aqua>[player]</aqua> has been removed!</color>"
     },
     "NICK.error.invalid": {
         "de-DE": "<color:#96a7b2>Der <aqua>Nickname</aqua> ist ungültig!</color>",
