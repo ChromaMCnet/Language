@@ -10,5 +10,9 @@
     "GAMEMODE.kitpvp.lore": {
         "de-DE": "<i:false><color:#96a7b2>Kämpfe gegen <aqua>andere Spieler</aqua></color><br><i:false><color:#96a7b2>wähle dein Kit aus und <aqua>zeige ihnen,</aqua> wer der <aqua>Beste</aqua> ist!</color><br><br><i:false><color:#ff0000>SOON</color>",
         "en-US": "<i:false><color:#96a7b2>Fight against <aqua>other players</aqua></color><br><i:false><color:#96a7b2>choose your kit and <aqua>show them</aqua> who is the <aqua>best</aqua>!</color><br><br><i:false><color:#ff0000>SOON</color>"
+    },
+    "GAMEMODE.spleef.lore": {
+        "de-DE": "<i:false><color:#96a7b2>Spiele <aqua>gegen andere Spieler</aqua></color><br><i:false><color:#96a7b2>und versuche sie <aqua>in den Abgrund</aqua> zu stoßen!</color><br><br><i:false><color:#ff0000>SOON</color>",
+        "en-US": "<i:false><color:#96a7b2>Play <aqua>against other players</aqua></color><br><i:false><color:#96a7b2>and try to <aqua>push them</aqua> into the abyss!</color><br><br><i:false><color:#ff0000>SOON</color>"
     }
 }
