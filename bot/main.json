@@ -80,6 +80,10 @@
         "GERMAN": "Du bist bereits auf der letzten Seite!",
         "ENGLISH_UK": "You are already on the last page!"
     },
+    "ECHO.success": {
+        "GERMAN": "Die Nachricht wurde erfolgreich in den Kanal [channel] gesendet!",
+        "ENGLISH_UK": "The message was successfully sent in the channel [channel]!"
+    },
     "IP.info": {
         "GERMAN": "Wenn du auf den Server joinen möchtest, kannst du mit der IP **ChromaMC.net** joinen!\n\nAktuell sind **[playercount] Spieler** online!",
         "ENGLISH_UK": "If you want to join the server, you can join with the IP **ChromaMC.net**!\n\nCurrently there are **[playercount] players** are online!"
