@@ -92,6 +92,10 @@
         "GERMAN": "Benutze die Buttons unten um ein Embed zu laden oder ein neues zu erstellen.",
         "ENGLISH_UK": "Use the buttons below to load an embed or create a new one."
     },
+    "IQ.success": {
+        "GERMAN": "Der IQ von [user] beträgt [iq]",
+        "ENGLISH_UK": "The IQ of [user] is [iq]"
+    },
     "GENERAL.error.report": {
         "GERMAN": "Ein Fehler ist aufgetreten! Bitte melde diesen Fehler an das Team.",
         "ENGLISH_UK": "An error occurred! Please report this error to the team."
