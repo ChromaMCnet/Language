@@ -1,27 +1,27 @@
 {
     "ECONOMY.balance.add": {
-        "de-DE": "<color:#96a7b2>Du hast <gold>[amount]</gold> <aqua>[economy]</aqua> zum Kontostand von <aqua>[player]</aqua> <color:#4bfb00>hinzugefügt!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#4bfb00>added</color> <gold>[amount]</gold> <aqua>[economy]</aqua> to the balance of <aqua>[player]!</aqua></color>"
+        "de-DE": "<color:#96a7b2>Du hast [amount] <aqua>[economy]</aqua> zum Kontostand von <aqua>[player]</aqua> <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "<color:#96a7b2>You have <color:#4bfb00>added</color> [amount] <aqua>[economy]</aqua> to the balance of <aqua>[player]!</aqua></color>"
     },
     "ECONOMY.balance.add.other": {
-        "de-DE": "<color:#96a7b2><aqua>[player]</aqua> hat <gold>[amount]</gold> <aqua>[economy]</aqua> zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
-        "en-US": "<color:#96a7b2><aqua>[player]</aqua> has <color:#4bfb00>added</color> <gold>[amount]</gold> <aqua>[economy]</aqua> to your balance!</color>"
+        "de-DE": "<color:#96a7b2><aqua>[player]</aqua> hat [amount] <aqua>[economy]</aqua> zu deinem Kontostand <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "<color:#96a7b2><aqua>[player]</aqua> has <color:#4bfb00>added</color> [amount] <aqua>[economy]</aqua> to your balance!</color>"
     },
     "ECONOMY.balance.remove": {
-        "de-DE": "<color:#96a7b2>Du hast <gold>[amount]</gold> <aqua>[economy]</aqua> vom Kontostand von <aqua>[player]</aqua> <color:#ff0000>entfernt!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#ff0000>removed</color> <gold>[amount]</gold> <aqua>[economy]</aqua> from the balance of <aqua>[player]!</aqua></color>"
+        "de-DE": "<color:#96a7b2>Du hast [amount] <aqua>[economy]</aqua> vom Kontostand von <aqua>[player]</aqua> <color:#ff0000>entfernt!</color></color>",
+        "en-US": "<color:#96a7b2>You have <color:#ff0000>removed</color> [amount] <aqua>[economy]</aqua> from the balance of <aqua>[player]!</aqua></color>"
     },
     "ECONOMY.balance.remove.other": {
-        "de-DE": "<color:#96a7b2><aqua>[player]</aqua> hat <gold>[amount]</gold> <aqua>[economy]</aqua> von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
-        "en-US": "<color:#96a7b2><aqua>[player]</aqua> has <color:#ff0000>removed</color> <gold>[amount]</gold> <aqua>[economy]</aqua> from your balance!</color>"
+        "de-DE": "<color:#96a7b2><aqua>[player]</aqua> hat [amount] <aqua>[economy]</aqua> von deinem Kontostand <color:#ff0000>entfernt!</color></color>",
+        "en-US": "<color:#96a7b2><aqua>[player]</aqua> has <color:#ff0000>removed</color> [amount] <aqua>[economy]</aqua> from your balance!</color>"
     },
     "ECONOMY.balance.set": {
-        "de-DE": "<color:#96a7b2>Du hast den Kontostand von <aqua>[player]</aqua> auf <gold>[amount]</gold> <aqua>[economy]</aqua> <color:#4bfb00>gesetzt!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#4bfb00>set</color> the balance of <aqua>[player]</aqua> to <gold>[amount]</gold> <aqua>[economy]</aqua>!</color>"
+        "de-DE": "<color:#96a7b2>Du hast den Kontostand von <aqua>[player]</aqua> auf [amount] <aqua>[economy]</aqua> <color:#4bfb00>gesetzt!</color></color>",
+        "en-US": "<color:#96a7b2>You have <color:#4bfb00>set</color> the balance of <aqua>[player]</aqua> to [amount] <aqua>[economy]</aqua>!</color>"
     },
     "ECONOMY.balance.set.other": {
-        "de-DE": "<color:#96a7b2><aqua>[player]</aqua> hat deinen Kontostand auf <gold>[amount]</gold> <aqua>[economy]</aqua> <color:#4bfb00>gesetzt!</color></color>",
-        "en-US": "<color:#96a7b2><aqua>[player]</aqua> has <color:#4bfb00>set</color> your balance to <gold>[amount]</gold> <aqua>[economy]</aqua>!</color>"
+        "de-DE": "<color:#96a7b2><aqua>[player]</aqua> hat deinen Kontostand auf [amount] <aqua>[economy]</aqua> <color:#4bfb00>gesetzt!</color></color>",
+        "en-US": "<color:#96a7b2><aqua>[player]</aqua> has <color:#4bfb00>set</color> your balance to [amount] <aqua>[economy]</aqua>!</color>"
     },
     "ECONOMY.balance.reset": {
         "de-DE": "<color:#96a7b2>Du hast den <aqua>[economy]</aqua> Kontostand von <aqua>[player]</aqua> <color:#ff0000>zurückgesetzt!</color></color>",
@@ -32,12 +32,12 @@
         "en-US": "<color:#96a7b2><aqua>[player]</aqua> has <color:#ff0000>reset</color> your <aqua>[economy]</aqua> balance!</color>"
     },
     "ECONOMY.balance.get": {
-        "de-DE": "<color:#96a7b2>Dein Kontostand beträgt <gold>[amount]</gold> <aqua>[economy]</aqua>!</color>",
-        "en-US": "<color:#96a7b2>Your balance is <gold>[amount]</gold> <aqua>[economy]</aqua>!</color>"
+        "de-DE": "<color:#96a7b2>Dein <aqua>[economy]</aqua> Kontostand beträgt [amount]!</color>",
+        "en-US": "<color:#96a7b2>Your <aqua>[economy]</aqua> balance is [amount]!</color>"
     },
     "ECONOMY.balance.get.other": {
-        "de-DE": "<color:#96a7b2>Der Kontostand von <aqua>[player]</aqua> beträgt <gold>[amount]</gold> <aqua>[economy]</aqua>!</color>",
-        "en-US": "<color:#96a7b2>The balance of <aqua>[player]</aqua> is <gold>[amount]</gold> <aqua>[economy]</aqua>!</color>"
+        "de-DE": "<color:#96a7b2>Der <aqua>[economy]</aqua> Kontostand von <aqua>[player]</aqua> beträgt [amount]!</color>",
+        "en-US": "<color:#96a7b2>The <aqua>[economy]</aqua> balance of <aqua>[player]</aqua> is [amount]!</color>"
     },
     "ECONOMY.error": {
         "de-DE": "<color:#ff0000>Beim ausführen dieser Aktion ist ein <color:#ff0000>Fehler</color> aufgetreten!</color>",
