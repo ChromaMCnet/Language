@@ -39,6 +39,14 @@
         "de-DE": "<color:#96a7b2>Der [economy] Kontostand von <aqua>[player]</aqua> beträgt [amount]!</color>",
         "en-US": "<color:#96a7b2>The [economy] balance of <aqua>[player]</aqua> is [amount]!</color>"
     },
+    "ECONOMY.balance.pay": {
+        "de-DE": "<color:#96a7b2>Du hast <aqua>[player]</aqua> <gold>[amount] <gold>Gold</gold> <white>渴</white></gold> überwiesen!</color>",
+        "en-US": "<color:#96a7b2>You have payed <gold>[amount] <gold>Gold</gold> <white>渴</white></gold> to <aqua>[player]!</aqua></color>"
+    },
+    "ECONOMY.balance.pay.other": {
+        "de-DE": "<color:#96a7b2><aqua>[player]</aqua> hat dir <gold>[amount] <gold>Gold</gold> <white>渴</white></gold> überwiesen!</color>",
+        "en-US": "<color:#96a7b2><aqua>[player]</aqua> has payed you <gold>[amount] <gold>Gold</gold> <white>渴</white></gold>!</color>"
+    },
     "ECONOMY.error.money": {
         "de-DE": "<color:#ff0000>Du hast <color:#ff0000>nicht</color> genügend <gold>Gold</gold> <white>渴</white> um diese Aktion auszuführen!</color>",
         "en-US": "<color:#ff0000>You <color:#ff0000>do not</color> have enough <gold>Gold</gold> <white>渴</white> to perform this action!</color>"
