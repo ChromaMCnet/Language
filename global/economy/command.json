@@ -39,6 +39,10 @@
         "de-DE": "<color:#96a7b2>Der [economy] Kontostand von <aqua>[player]</aqua> beträgt [amount]!</color>",
         "en-US": "<color:#96a7b2>The [economy] balance of <aqua>[player]</aqua> is [amount]!</color>"
     },
+    "ECONOMY.error.money": {
+        "de-DE": "<color:#ff0000>Du hast nicht genügend [economy] um diese Aktion auszuführen!</color>",
+        "en-US": "<color:#ff0000>You do not have enough [economy] to perform this action!</color>"
+    },
     "ECONOMY.error": {
         "de-DE": "<color:#ff0000>Beim ausführen dieser Aktion ist ein <color:#ff0000>Fehler</color> aufgetreten!</color>",
         "en-US": "<color:#ff0000>An <color:#ff0000>error</color> occurred while performing this action!</color>"

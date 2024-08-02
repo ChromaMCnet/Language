@@ -3,6 +3,10 @@
         "de-DE": "<color:#96a7b2>Dir <color:#ff0000>fehlt</color> die Berechtigung um das zu tun!</color>",
         "en-US": "<color:#96a7b2>You <color:#ff0000>don't have</color> the permission to do that!</color>"
     },
+    "ERROR.player.offline": {
+        "de-DE": "<color:#96a7b2>Dieser Spieler ist <color:#ff0000>offline</color>!</color>",
+        "en-US": "<color:#96a7b2>This player is <color:#ff0000>offline</color>!</color>"
+    },
     "ERROR.neverseen": {
         "de-DE": "<color:#96a7b2>Dieser Spieler hat noch <color:#ff0000>nie</color> auf <aqua>ChromaMC</aqua> gespielt!</color>",
         "en-US": "<color:#96a7b2>This player has <color:#ff0000>never</color> played on <aqua>ChromaMC</aqua> before!</color>"
