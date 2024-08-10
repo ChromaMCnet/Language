@@ -100,6 +100,10 @@
         "GERMAN": "Die Zeit die du angegeben hast ist zu lang! Bitte nutze eine Zeit die unter 6 Stunden liegt!",
         "ENGLISH_UK": "The time you entered is too long! Please use a time that is less than 6 hours!"
     },
+    "SLOWMODE.success": {
+        "GERMAN": "Der Slowmode wurde erfolgreich auf [time] gesetzt!",
+        "ENGLISH_UK": "The slowmode was successfully set to [time]!"
+    },
     "GENERAL.error.report": {
         "GERMAN": "Ein Fehler ist aufgetreten! Bitte melde diesen Fehler an das Team.",
         "ENGLISH_UK": "An error occurred! Please report this error to the team."
