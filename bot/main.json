@@ -101,8 +101,13 @@
         "ENGLISH_UK": "The time you entered is too long! Please use a time that is less than 6 hours!"
     },
     "SLOWMODE.success": {
-        "GERMAN": "Der Slowmode wurde erfolgreich auf [time] gesetzt!",
-        "ENGLISH_UK": "The slowmode was successfully set to [time]!"
+        "GERMAN": "Der Slowmode im Kanal [channel] wurde erfolgreich auf **[time]** gesetzt!",
+        "ENGLISH_UK": "The slowmode in the channel [channel] was successfully set to **[time]!**"
+    },
+    "SLOWMODE.error.channel":
+    {
+        "GERMAN": "Du musst einen Textkanal angeben!",
+        "ENGLISH_UK": "You need to specify a text channel!"
     },
     "GENERAL.error.report": {
         "GERMAN": "Ein Fehler ist aufgetreten! Bitte melde diesen Fehler an das Team.",
