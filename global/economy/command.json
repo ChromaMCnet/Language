@@ -48,19 +48,19 @@
         "en-US": "<color:#96a7b2><aqua>[player]</aqua> has payed you <gold>[amount] <gold>Gold</gold> <white>渴!</white></gold></color>"
     },
     "ECONOMY.error.money": {
-        "de-DE": "<color:#ff0000>Du hast <color:#ff0000>nicht</color> genügend <gold>Gold</gold> <white>渴</white> um diese Aktion auszuführen!</color>",
-        "en-US": "<color:#ff0000>You <color:#ff0000>do not</color> have enough <gold>Gold</gold> <white>渴</white> to perform this action!</color>"
+        "de-DE": "<color:#96a7b2>Du hast <color:#ff0000>nicht</color> genügend <gold>Gold</gold> <white>渴</white> um diese Aktion auszuführen!</color>",
+        "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have enough <gold>Gold</gold> <white>渴</white> to perform this action!</color>"
     },
     "ECONOMY.error.pay.self": {
-        "de-DE": "<color:#ff0000>Du kannst dir <color:#ff0000>nicht</color> selbst <gold>Gold</gold> <white>渴</white> überweisen!</color>",
-        "en-US": "<color:#ff0000>You <color:#ff0000>can not</color> pay yourself <gold>Gold</gold> <white>渴!</white></color>"
+        "de-DE": "<color:#96a7b2>Du kannst dir <color:#ff0000>nicht</color> selbst <gold>Gold</gold> <white>渴</white> überweisen!</color>",
+        "en-US": "<color:#96a7b2>You <color:#ff0000>can not</color> pay yourself <gold>Gold</gold> <white>渴!</white></color>"
     },
     "ECONOMY.error.registered": {
-        "de-DE": "<color:#96a7b2>Dieser Spieler ist nich in unserem Economy System <color:#ff0000>registriert!</color> Vielleicht hat er noch nie auf diesem Server gespielt?</color>",
-        "en-US": "<color:#96a7b2>This player is <color:#ff0000>not</color> registered in our Economy System! Maybe he never played on this server before?</color>"
+        "de-DE": "<color:#96a7b2>Dieser Spieler ist <color:#ff0000>nicht</color> in unserem Economy System <aqua>registriert!</aqua> Vielleicht hat er noch <color:#ff0000>nie</color> auf diesem Server gespielt?</color>",
+        "en-US": "<color:#96a7b2>This player is <color:#ff0000>not</color> registered in our Economy System <aqua>yet!</aqua> Maybe he has <color:#ff0000>never</color> played on this server?</color>"
     },
     "ECONOMY.error": {
-        "de-DE": "<color:#ff0000>Beim ausführen dieser Aktion ist ein <color:#ff0000>Fehler</color> aufgetreten!</color>",
-        "en-US": "<color:#ff0000>An <color:#ff0000>error</color> occurred while performing this action!</color>"
+        "de-DE": "<color:#96a7b2>Beim ausführen dieser Aktion ist ein <color:#ff0000>Fehler</color> aufgetreten!</color>",
+        "en-US": "<color:#96a7b2>>An <color:#ff0000>error</color> occurred while performing this action!</color>"
     }
 }

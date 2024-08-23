@@ -1,5 +1,5 @@
 {
-    "GUI.settings.item.movement.name": {
+    "GUI.profile.item.movement.name": {
         "de-DE": "Bewegungsart",
         "en-US": "Movement"
     },
@@ -14,6 +14,22 @@
     "GUI.settings.item.msg.name": {
         "de-DE": "Privatnachrichten",
         "en-US": "Private messages"
+    },
+    "GUI.social.item.friends.name": {
+        "de-DE": "<aqua>Freunde</aqua>",
+        "en-US": "<aqua>Friends</aqua>"
+    },
+    "GUI.social.archivements.name": {
+        "de-DE": "<aqua>Erfolge</aqua>",
+        "en-US": "<aqua>Archivements</aqua>"
+    },
+    "GUI.social.item.friends.lore": {
+        "de-DE": "<i:false><color:#96a7b2>Verwalte deine <aqua>Freunde</aqua> und <aqua>Freundschaftsanfragen</aqua></color><br><i:false><color:#96a7b2>und finde neue <aqua>Freunde</aqua> auf dem Netzwerk!</color>",
+        "en-US": "<i:false><color:#96a7b2>Manage your <aqua>friends</aqua> and <aqua>friend requests</aqua></color><br><i:false><color:#96a7b2>and find new <aqua>friends</aqua> on the network!</color>"
+    },
+    "GUI.social.item.archivements.lore": {
+        "de-DE": "<i:false><br><br><color:#ff0000>Bald...</color><br><br>",
+        "en-US": "<i:false><br><br><color:#ff0000>Coming soon...</color><br><br>"
     },
     "SETTING.playerhider.lore.all": {
         "de-DE": "<i:false><color:#96a7b2>Ändere die <aqua>Sichtbarkeit</aqua> anderer Spieler</color><br><i:false><color:#96a7b2>Teammitglieder, Freunde und Medias werden <color:#ff0000>nicht</color> versteckt!</color><br><br><br><br><i:false><color:#4bfb00>> Alle Spieler</color><br><i:false><color:#96a7b2>Besondere Spieler</color><br><i:false><color:#96a7b2>Keine Spieler</color>",

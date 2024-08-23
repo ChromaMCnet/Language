@@ -104,10 +104,17 @@
         "GERMAN": "Der Slowmode im Kanal [channel] wurde erfolgreich auf **[time]** gesetzt!",
         "ENGLISH_UK": "The slowmode in the channel [channel] was successfully set to **[time]!**"
     },
-    "SLOWMODE.error.channel":
-    {
+    "SLOWMODE.error.channel": {
         "GERMAN": "Du musst einen Textkanal angeben!",
         "ENGLISH_UK": "You need to specify a text channel!"
+    },
+    "ONEWORD.error.word": {
+        "GERMAN": "Bitte gebe nur **ein Wort** pro Nachricht an!",
+        "ENGLISH_UK": "Please only write **one word** per message!"
+    },
+    "ONEWORD.error.self": {
+        "GERMAN": "Du darfst nicht mehrere Wörter hintereinander schreiben!",
+        "ENGLISH_UK": "You are not allowed to write multiple words in a row!"
     },
     "GENERAL.error.report": {
         "GERMAN": "Ein Fehler ist aufgetreten! Bitte melde diesen Fehler an das Team.",

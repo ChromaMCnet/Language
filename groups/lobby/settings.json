@@ -41,15 +41,15 @@
     },
     "MOVEMENT.fly.disable": {
         "de-DE": "<color:#96a7b2>Dein <aqua>Flugmodus</aqua> wurde erfolgreich <color:#ff0000>deaktiviert!</color></color>",
-        "en-US": "<color:#96a7b2>Your <aqua>flight mode</aqua> got successfully <color:#4bfb00>disabled!</color></color>"
+        "en-US": "<color:#96a7b2>Your <aqua>flight mode</aqua> got successfully <color:#ff0000>disabled!</color></color>"
     },
     "MOVEMENT.fly.enable.other": {
         "de-DE": "<color:#96a7b2>Du hast den <aqua>Flugmodus</aqua> von <aqua>[player]</aqua> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
-        "en-US": "<color:#96a7b2>You have successfully <color:#4bfb00>enabled</color> the <color:#4bfb00>flight mode</color> of <aqua>[player]!</aqua></color>"
+        "en-US": "<color:#96a7b2>You have successfully <color:#4bfb00>enabled</color> the <aqua>flight mode</aqua> of <aqua>[player]!</aqua></color>"
     },
     "MOVEMENT.fly.disable.other": {
         "de-DE": "<color:#96a7b2>Du hast den <color:#4bfb00>Flugmodus</color> von <aqua>[player]</aqua> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
-        "en-US": "<color:#96a7b2>You have successfully <color:#ff0000>disabled</color> the <color:#4bfb00>flight mode</color> of <aqua>[player]!</aqua></color>"
+        "en-US": "<color:#96a7b2>You have successfully <color:#ff0000>disabled</color> the <aqua>flight mode</aqua> of <aqua>[player]!</aqua></color>"
     },
     "PLAYERHIDER.all": {
         "de-DE": "<color:#96a7b2>Du siehst nun <aqua>alle Spieler!</aqua></color>",

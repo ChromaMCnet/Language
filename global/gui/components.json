@@ -1,0 +1,38 @@
+{
+    "PAGE.next.enabled": {
+        "de-DE": "<i:false><green>Nächste Seite</green>",
+        "en-US": "<i:false><green>Next Page</green>"
+    },
+    "PAGE.next.disabled": {
+        "de-DE": "<i:false><red>Nächste Seite</red>",
+        "en-US": "<i:false><red>Next Page</red>"
+    },
+    "PAGE.previous.enabled": {
+        "de-DE": "<i:false><green>Vorherige Seite</green>",
+        "en-US": "<i:false><green>Previous Page</green>"
+    },
+    "PAGE.previous.disabled": {
+        "de-DE": "<i:false><red>Vorherige Seite</red>",
+        "en-US": "<i:false><red>Previous Page</red>"
+    },
+    "PAGE.first.enabled": {
+        "de-DE": "<i:false><green>Erste Seite</green>",
+        "en-US": "<i:false><green>First Page</green>"
+    },
+    "PAGE.first.disabled": {
+        "de-DE": "<i:false><red>Erste Seite</red>",
+        "en-US": "<i:false><red>First Page</red>"
+    },
+    "PAGE.last.enabled": {
+        "de-DE": "<i:false><green>Letzte Seite</green>",
+        "en-US": "<i:false><green>Last Page</green>"
+    },
+    "PAGE.last.disabled": {
+        "de-DE": "<i:false><red>Letzte Seite</red>",
+        "en-US": "<i:false><red>Last Page</red>"
+    },
+    "PAGE.info": {
+        "de-DE": "<i:false><color:#96a7b2>Seite <aqua>[page]</aqua> von <aqua>[lastpage]</aqua></color>",
+        "en-US": "<i:false><color:#96a7b2>Page <aqua>[page]</aqua> of <aqua>[lastpage]</aqua></color>"
+    }
+}
