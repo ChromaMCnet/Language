@@ -113,8 +113,12 @@
         "ENGLISH_UK": "Please only write **one word** per message!"
     },
     "ONEWORD.error.self": {
-        "GERMAN": "Du darfst nicht mehrere Wörter hintereinander schreiben!",
-        "ENGLISH_UK": "You are not allowed to write multiple words in a row!"
+        "GERMAN": "Du darfst **nicht mehrere Wörter hintereinander** schreiben!",
+        "ENGLISH_UK": "You are **not** allowed to write **multiple words in a row!**"
+    },
+    "ONEWORD.error.same": {
+        "GERMAN": "Du darfst **nicht** das **gleiche** Wort wie der vorherige User schreiben!",
+        "ENGLISH_UK": "You are **not** allowed to write the **same** word as the previous user!"
     },
     "GENERAL.error.report": {
         "GERMAN": "Ein Fehler ist aufgetreten! Bitte melde diesen Fehler an das Team.",
