@@ -1,0 +1,10 @@
+{
+    "ITEM.lobby.lore.here": {
+        "de-DE": "<i:false><color:#96a7b2>Du befindest dich aktuell auf <aqua>dieser</aqua> Lobby!</color>",
+        "en-US": "<i:false><color:#96a7b2>You are currently connectet to <aqua>this</aqua> lobby!</color>"
+    },
+    "ITEM.lobby.lore.connect": {
+        "de-DE": "<i:false><color:#96a7b2><br>Aktuell sind <aqua>[players]</aqua> mit <aqua>[lobby]</aqua> verbunden<br><br><aqua>[Klicke um dich zu verbinden]</aqua></color>",
+        "en-US": "<i:false><color:#96a7b2><br>Currently <aqua>[players]</aqua> are connected to <aqua>[lobby]</aqua><br><br><aqua>[Click to connect]</aqua></color>"
+    }
+}

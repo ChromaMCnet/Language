@@ -9,7 +9,7 @@
     },
     "ITEM.profile.lore": {
         "de-DE": "<i:false><color:#96a7b2>Ändere <aqua>einstellungen</aqua>, greife auf deine <aqua>Freunde</aqua> zu und betrachte deine <aqua>Erfolge!</aqua></color>",
-        "en-US": "<i:false><color:#96a7b2>Change <aqua>settings</aqua>, access your <aqua>friends</a> and view your <aqua>achievements!</aqua></color>"
+        "en-US": "<i:false><color:#96a7b2>Change <aqua>settings</aqua>, access your <aqua>friends</aqua> and view your <aqua>achievements!</aqua></color>"
     },
     "ITEM.cosmetics.name": {
         "de-DE": "<i:false><aqua>Kosmetik</aqua>",
