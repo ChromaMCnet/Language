@@ -4,7 +4,7 @@
         "en-US": "<i:false><color:#96a7b2>You are currently connectet to <aqua>this</aqua> lobby!</color>"
     },
     "ITEM.lobby.lore.connect": {
-        "de-DE": "<i:false><color:#96a7b2><br><i:false><color:#96a7b2>Aktuell sind <aqua>[players]</aqua> mit <aqua>[lobby]</aqua> verbunden<br><br><i:false><color:#96a7b2><aqua>[Klicke um dich zu verbinden]</aqua></color>",
-        "en-US": "<i:false><color:#96a7b2><br><i:false><color:#96a7b2>Currently <aqua>[players]</aqua> are connected to <aqua>[lobby]</aqua><br><br><i:false><color:#96a7b2><aqua>[Click to connect]</aqua></color>"
+        "de-DE": "<i:false><color:#96a7b2><br><i:false><color:#96a7b2>Aktuell sind <aqua>[players] Spieler</aqua> mit <aqua>[lobby]</aqua> verbunden<br><br><i:false><color:#96a7b2><aqua>[Klicke um dich zu verbinden]</aqua></color>",
+        "en-US": "<i:false><color:#96a7b2><br><i:false><color:#96a7b2>Currently <aqua>[players] players</aqua> are connected to <aqua>[lobby]</aqua><br><br><i:false><color:#96a7b2><aqua>[Click to connect]</aqua></color>"
     }
 }
