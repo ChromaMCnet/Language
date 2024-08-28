@@ -27,7 +27,7 @@
         "de-DE": "<color:#96a7b2>Du hast den <aqua>Hotbar-Sound</aqua> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
         "en-US": "<color:#96a7b2>You have successfully <color:#ff0000>disabled</color> the <aqua>hotbar sound!</aqua></color>"
     },
-    "MOVEMENT.doublejump.activate": {
+    "MOVEMENT.doublejump.enable": {
         "de-DE": "<color:#96a7b2>Du hast deinen <aqua>Doppelsprung</aqua> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
         "en-US": "<color:#96a7b2>You have successfully <color:#4bfb00>activated</color> your <aqua>double jump!</aqua></color>"
     },
