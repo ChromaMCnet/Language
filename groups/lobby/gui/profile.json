@@ -55,6 +55,14 @@
         "de-DE": "<i:false><color:#96a7b2>Ändere deinen <aqua>Movement</aqua> typ</color><br><i:false><color:#96a7b2>Egal ob du gerne laufen oder fliegen möchtest!</color><br><br><br><br><i:false><color:#96a7b2>Laufen</color><br><i:false><color:#96a7b2>Doppelsprung</color><br><i:false><color:#4bfb00>> Fliegen</color>",
         "en-US": "<i:false><color:#96a7b2>Change your <aqua>Movement</aqua> type</color><br><i:false><color:#96a7b2>Whether you like to walk or fly!</color><br><br><br><br><i:false><color:#96a7b2>Walk</color><br><i:false><color:#96a7b2>Double jump</color><br><i:false><color:#4bfb00>> Fly</color>"
     },
+    "SETTING.movement.lore.walk.fly.noperm": {
+        "de-DE": "<i:false><color:#96a7b2>Ändere deinen <aqua>Movement</aqua> typ</color><br><i:false><color:#96a7b2>Egal ob du gerne laufen oder fliegen möchtest!</color><br><br><br><br><i:false><color:#4bfb00>> Laufen</color><br><i:false><color:#96a7b2>Doppelsprung</color><br><i:false><color:#96a7b2>Fliegen <red>[Benötigt einen höheren Rang]</color>",
+        "en-US": "<i:false><color:#96a7b2>Change your <aqua>Movement</aqua> type</color><br><i:false><color:#96a7b2>Whether you like to walk or fly!</color><br><br><br><br><i:false><color:#4bfb00>> Walk</color><br><i:false><color:#96a7b2>Double jump</color><br><i:false><color:#96a7b2>Fly <red>[Requires a higher rank]</color>"
+    },
+    "SETTING.movement.lore.doublejump.fly.noperm": {
+        "de-DE": "<i:false><color:#96a7b2>Ändere deinen <aqua>Movement</aqua> typ</color><br><i:false><color:#96a7b2>Egal ob du gerne laufen oder fliegen möchtest!</color><br><br><br><br><i:false><color:#96a7b2>Laufen</color><br><i:false><color:#4bfb00>> Doppelsprung</color><br><i:false><color:#96a7b2>Fliegen <red>[Benötigt einen höheren Rang]</color>",
+        "en-US": "<i:false><color:#96a7b2>Change your <aqua>Movement</aqua> type</color><br><i:false><color:#96a7b2>Whether you like to walk or fly!</color><br><br><br><br><i:false><color:#96a7b2>Walk</color><br><i:false><color:#4bfb00>> Double jump</color><br><i:false><color:#96a7b2>Fly <red>[Requires a higher rank]</color>"
+    },
     "SETTING.speedeffect.lore.enabled": {
         "de-DE": "<i:false><color:#96a7b2><color:#4bfb00>Aktiviere</color> oder <color:#ff0000>deaktiviere</color> den <aqua>Speed Effect</aqua></color><br><i:false><color:#96a7b2>in der <aqua>Lobby,</aqua> um allen zu zeigen, wie <aqua>schnell</aqua> du bist!</color><br><br><br><br><i:false><color:#4bfb00>> Aktiviert</color><br><i:false><color:#96a7b2>Deaktiviert</color>",
         "en-US": "<i:false><color:#96a7b2><color:#4bfb00>Enable</color> or <color:#ff0000>disable</color> the <aqua>Speed Effect</aqua></color><br><i:false><color:#96a7b2>in the <aqua>lobby,</aqua> to show everyone how <aqua>fast</aqua> you are!</color><br><br><br><br><i:false><color:#4bfb00>> Enabled</color><br><i:false><color:#96a7b2>Disabled</color>"
