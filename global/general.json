@@ -7,7 +7,7 @@
         "de-DE": "<color:#96a7b2>Dieser Spieler ist <color:#ff0000>offline</color>!</color>",
         "en-US": "<color:#96a7b2>This player is <color:#ff0000>offline</color>!</color>"
     },
-    "ERROR.neverseen": {
+    "ERROR.player.notfound": {
         "de-DE": "<color:#96a7b2>Dieser Spieler hat noch <color:#ff0000>nie</color> auf <aqua>ChromaMC</aqua> gespielt!</color>",
         "en-US": "<color:#96a7b2>This player has <color:#ff0000>never</color> played on <aqua>ChromaMC</aqua> before!</color>"
     }
