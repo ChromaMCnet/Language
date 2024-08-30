@@ -1,15 +1,15 @@
 {
     "GENERAL.friends.request.receive": {
         "de-DE": "<color:#96a7b2>Du hast eine Freundschaftsanfrage von <aqua>[player]</aqua> erhalten!<br>                               <color:#4bfb00><b><click:run_command:'/friend accept [player]'>[ANNEHMEN]</click></b></color> - <color:#FF0000><b><click:run_command:'/friend deny [player]'>[ABLEHNEN]</click></b></color></color>",
-        "en-US": "<color:#96a7b2>You have received a friend request from <aqua>[player]</aqua>!<br>                               <color:#4bfb00><b><click:run_command:'/friend accept [player]'>[ACCEPT]</click></b></color> - <color:#FF0000><b><click:run_command:'/friend deny [player]'>[DENY]</click></b></color></color>"
+        "en-US": "<color:#96a7b2>You have received a friend request from <aqua>[player]!</aqua><br>                               <color:#4bfb00><b><click:run_command:'/friend accept [player]'>[ACCEPT]</click></b></color> - <color:#FF0000><b><click:run_command:'/friend deny [player]'>[DENY]</click></b></color></color>"
     },
     "GENERAL.friends.request.send": {
         "de-DE": "<color:#96a7b2>Du hast eine Freundschaftsanfrage an <aqua>[player]</aqua> gesendet!</color>",
-        "en-US": "<color:#96a7b2>You have sent a friend request to <aqua>[player]</aqua>!</color>"
+        "en-US": "<color:#96a7b2>You have sent a friend request to <aqua>[player]!</aqua></color>"
     },
     "GENERAL.friends.request.accept": {
         "de-DE": "<color:#96a7b2>Du hast die Freundschaftsanfrage von <aqua>[player]</aqua> <color:#4bfb00>angenommen!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#4bfb00>accepted</color> the friend request from <aqua>[player]</aqua>!</color>"
+        "en-US": "<color:#96a7b2>You have <color:#4bfb00>accepted</color> the friend request from <aqua>[player]!</aqua></color>"
     },
     "GENERAL.friends.request.accept.other": {
         "de-DE": "<color:#96a7b2><aqua>[player]</aqua> hat deine Freundschaftsanfrage <color:#4bfb00>angenommen!</color></color>",
@@ -17,7 +17,7 @@
     },
     "GENERAL.friends.request.deny": {
         "de-DE": "<color:#96a7b2>Du hast die Freundschaftsanfrage von <aqua>[player]</aqua> <color:#ff0000>abgelehnt!</color></color>",
-        "en-US": "<color:#96a7b2>You have <color:#ff0000>denied</color> the friend request from <aqua>[player]</aqua>!</color>"
+        "en-US": "<color:#96a7b2>You have <color:#ff0000>denied</color> the friend request from <aqua>[player]!</aqua></color>"
     },
     "GENERAL.friends.request.deny.other": {
         "de-DE": "<color:#96a7b2><aqua>[player]</aqua> hat deine Freundschaftsanfrage <color:#ff0000>abgelehnt!</color></color>",
