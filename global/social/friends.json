@@ -30,5 +30,29 @@
     "GENERAL.friends.join.requests": {
         "de-DE": "<color:#96a7b2>Du hast aktuell <aqua>[count]</aqua> offene <aqua>Freundschaftsanfragen!</aqua></color>",
         "en-US": "<color:#96a7b2>You currently have <aqua>[count]</aqua> open <aqua>friend requests!</aqua></color>"
+    },
+    "ERROR.friends.request.notsent": {
+        "de-DE": "<color:#96a7b2>Du hast diesem Spieler <color:#ff0000>noch keine</color> <aqua>Freundschaftsanfrage</aqua> gesendet!</color>",
+        "en-US": "<color:#96a7b2>You have <color:#ff0000>not yet</color> sent a <aqua>friend request</aqua> to this player!</color>"
+    },
+    "ERROR.friends.request.sent": {
+        "de-DE": "<color:#96a7b2>Du hast diesem Spieler <color:#ff0000>schon eine</color> <aqua>Freundschaftsanfrage</aqua> gesendet!</color>",
+        "en-US": "<color:#96a7b2>You have <color:#ff0000>already</color> sent a <aqua>friend request</aqua> to this player!</color>"
+    },
+    "ERROR.friends.already": {
+        "de-DE": "<color:#96a7b2>Du bist bereits mit diesem Spieler <aqua>befreundet!</aqua></color>",
+        "en-US": "<color:#96a7b2>You are already <aqua>friends</aqua> with this player!</color>"
+    },
+    "GUI.friends.requests": {
+        "de-DE": "Freundschaftsanfragen",
+        "en-US": "Friend Requests"
+    },
+    "GUI.friends.requests.sent": {
+        "de-DE": "Gesendete Freundschaftsanfragen",
+        "en-US": "Sent Friend Requests"
+    },
+    "GUI.friends" : {
+        "de-DE": "Freunde",
+        "en-US": "Friends"
     }
 }
