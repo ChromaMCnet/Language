@@ -1,7 +1,7 @@
 {
     "GENERAL.friends.request.receive": {
-        "de-DE": "<color:#96a7b2>Du hast eine Freundschaftsanfrage von <aqua>[player]</aqua> erhalten!<br>                            <color:#4bfb00><b><click:run_command:'/friend accept [player]'>[ANNEHMEN]</click></b></color> - <color:#FF0000><b><click:run_command:'/friend deny [player]'>[ABLEHNEN]</click></b></color></color>",
-        "en-US": "<color:#96a7b2>You have received a friend request from <aqua>[player]!</aqua><br>                            <color:#4bfb00><b><click:run_command:'/friend accept [player]'>[ACCEPT]</click></b></color> - <color:#FF0000><b><click:run_command:'/friend deny [player]'>[DENY]</click></b></color></color>"
+        "de-DE": "<color:#96a7b2>Du hast eine Freundschaftsanfrage von <aqua>[player]</aqua> erhalten!<br>                         <color:#4bfb00><b><click:run_command:'/friend accept [player]'>[ANNEHMEN]</click></b></color> - <color:#FF0000><b><click:run_command:'/friend deny [player]'>[ABLEHNEN]</click></b></color></color>",
+        "en-US": "<color:#96a7b2>You have received a friend request from <aqua>[player]!</aqua><br>                         <color:#4bfb00><b><click:run_command:'/friend accept [player]'>[ACCEPT]</click></b></color> - <color:#FF0000><b><click:run_command:'/friend deny [player]'>[DENY]</click></b></color></color>"
     },
     "GENERAL.friends.request.send": {
         "de-DE": "<color:#96a7b2>Du hast eine Freundschaftsanfrage an <aqua>[player]</aqua> gesendet!</color>",
