@@ -39,7 +39,7 @@
         "de-DE": "<color:#96a7b2>Du hast diesem Spieler <color:#ff0000>schon eine</color> <aqua>Freundschaftsanfrage</aqua> gesendet!</color>",
         "en-US": "<color:#96a7b2>You have <color:#ff0000>already</color> sent a <aqua>friend request</aqua> to this player!</color>"
     },
-    "ERROR.friends.already": {
+    "ERROR.friends.request.already": {
         "de-DE": "<color:#96a7b2>Du bist bereits mit diesem Spieler <aqua>befreundet!</aqua></color>",
         "en-US": "<color:#96a7b2>You are already <aqua>friends</aqua> with this player!</color>"
     },
