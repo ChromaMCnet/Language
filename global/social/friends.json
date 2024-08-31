@@ -27,6 +27,10 @@
         "de-DE": "<color:#96a7b2>Du hast <aqua>[player]</aqua> aus deiner Freundesliste entfernt!</color>",
         "en-US": "<color:#96a7b2>You have removed <aqua>[player]</aqua> from your friends list!</color>"
     },
+    "GENERAL.friends.remove.other": {
+        "de-DE": "<color:#96a7b2><aqua>[player]</aqua> hat dich aus seiner Freundesliste entfernt!</color>",
+        "en-US": "<color:#96a7b2><aqua>[player]</aqua> has removed you from his friendlist!</color>"
+    },
     "GENERAL.friends.join.requests": {
         "de-DE": "<color:#96a7b2>Du hast aktuell <aqua>[count]</aqua> offene <aqua>Freundschaftsanfragen!</aqua></color>",
         "en-US": "<color:#96a7b2>You currently have <aqua>[count]</aqua> open <aqua>friend requests!</aqua></color>"
@@ -42,6 +46,10 @@
     "ERROR.friends.already": {
         "de-DE": "<color:#96a7b2>Du bist bereits mit diesem Spieler <aqua>befreundet!</aqua></color>",
         "en-US": "<color:#96a7b2>You are already <aqua>friends</aqua> with this player!</color>"
+    },
+    "ERROR.friend.notfriends": {
+        "de-DE": "<color:#96a7b2>Du bist nicht mit diesem Spieler <aqua>befreundet!</aqua></color>",
+        "en-US": "<color:#96a7b2>You are not <aqua>friends</aqua> with this player!</color>"
     },
     "GUI.friends.requests": {
         "de-DE": "Freundschaftsanfragen",
