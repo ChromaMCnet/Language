@@ -1,5 +1,6 @@
 {
     "en-US": {
+        "name-local": "English",
         "name": "English",
         "country": "United States",
         "country-local": "United States",
@@ -7,6 +8,7 @@
         "fallback": "en-US"
     },
     "en-GB": {
+        "name-local": "English",
         "name": "English",
         "country": "United Kingdom",
         "country-local": "United Kingdom",
@@ -14,10 +16,19 @@
         "fallback": "en-US"
     },
     "de-DE": {
-        "name": "Deutsch",
+        "name-local": "Deutsch",
+        "name": "German",
         "country": "Germany",
         "country-local": "Deutschland",
         "code": "de-DE",
+        "fallback": "en-US"
+    },
+    "ru-RU": {
+        "name-local": "Русский",
+        "name": "Russian",
+        "country": "Russia",
+        "country-local": "Россия",
+        "code": "ru-RU",
         "fallback": "en-US"
     }
 }
