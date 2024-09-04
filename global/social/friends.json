@@ -39,6 +39,10 @@
         "de-DE": "<color:#96a7b2>Du hast diesem Spieler <color:#ff0000>noch keine</color> <aqua>Freundschaftsanfrage</aqua> gesendet!</color>",
         "en-US": "<color:#96a7b2>You have <color:#ff0000>not yet</color> sent a <aqua>friend request</aqua> to this player!</color>"
     },
+    "ERROR.friends.request.receive": {
+        "de-DE": "<color:#96a7b2>Du hast von diesem Spieler <color:#ff0000>noch keine</color> <aqua>Freundschaftsanfrage</aqua> erhalten!</color>",
+        "en-US": "<color:#96a7b2>You <color:#ff0000>did not</color> received a <aqua>friend request</aqua> from this player!</color>"
+    },
     "ERROR.friends.request.send": {
         "de-DE": "<color:#96a7b2>Du hast diesem Spieler <color:#ff0000>schon eine</color> <aqua>Freundschaftsanfrage</aqua> gesendet!</color>",
         "en-US": "<color:#96a7b2>You have <color:#ff0000>already</color> sent a <aqua>friend request</aqua> to this player!</color>"
