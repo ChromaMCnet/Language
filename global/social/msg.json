@@ -2,5 +2,13 @@
     "GENERAL.msg.you": {
         "de-DE": "Du",
         "en-US": "You"
+    },
+    "ERROR.msg.friends": {
+        "de-DE": "<color:#96a7b2>Du musst mit diesem Spieler <aqua>befreundet</aqua> sein, um mit ihm zu chatten!</color>",
+        "en-US": "<color:#96a7b2>You have to be <aqua>friends</aqua> with this player to chat with him!</color>"
+    },
+    "ERROR.msg.disabled": {
+        "de-DE": "<color:#96a7b2>Dieser Spieler hat MSGs <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>This player has MSGs <color:#ff0000>disabled!</color></color>"
     }
 }
