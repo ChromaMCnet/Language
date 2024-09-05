@@ -7,8 +7,16 @@
         "de-DE": "<color:#96a7b2>Du musst mit diesem Spieler <aqua>befreundet</aqua> sein, um mit ihm zu chatten!</color>",
         "en-US": "<color:#96a7b2>You have to be <aqua>friends</aqua> with this player to chat with him!</color>"
     },
+    "ERROR.msg.friends.self": {
+        "de-DE": "<color:#96a7b2>Du kannst <color:#ff0000>nur</color> mit deinen <aqua>Freunden</aqua> chatten!</color>",
+        "en-US": "<color:#96a7b2>You can <color:#ff0000>only</color> chat with your <aqua>friends!</aqua></color>"
+    },
     "ERROR.msg.disabled": {
         "de-DE": "<color:#96a7b2>Dieser Spieler hat MSGs <color:#ff0000>deaktiviert!</color></color>",
         "en-US": "<color:#96a7b2>This player has MSGs <color:#ff0000>disabled!</color></color>"
+    },
+    "ERROR.msg.disabled.self": {
+        "de-DE": "<color:#96a7b2>Du hast MSGs <color:#ff0000>deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have MSGs <color:#ff0000>disabled!</color></color>"
     }
 }
