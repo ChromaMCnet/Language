@@ -18,5 +18,9 @@
     "ERROR.msg.disabled.self": {
         "de-DE": "<color:#96a7b2>Du hast MSGs <color:#ff0000>deaktiviert!</color></color>",
         "en-US": "<color:#96a7b2>You have MSGs <color:#ff0000>disabled!</color></color>"
+    },
+    "ERROR.msg.reply": {
+        "de-DE": "<color:#96a7b2>Es gibt <color:#ff0000>keinen</color> Spieler, dem du <aqua>antworten</aqua> könntest!</color>",
+        "en-US": "<color:#96a7b2>There is <color:#ff0000>no</color> player you could <aqua>reply</aqua> to!</color>"
     }
 }
