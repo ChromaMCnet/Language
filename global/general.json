@@ -14,5 +14,93 @@
     "ERROR.command.notfound": {
         "de-DE": "<color:#96a7b2>Der Command <aqua>/[command]</aqua> existiert <color:#ff0000>nicht!</color> </color>",
         "en-US": "<color:#96a7b2>The command <aqua>/[command]</aqua> does <color:#ff0000>not</color> exist!</color>"
+    },
+    "DATE.relative.minute.less.ago": {
+        "de-DE": "vor weniger als einer Minute",
+        "en-US": "less than a minute ago"
+    },
+    "DATE.relative.minute.less.in": {
+        "de-DE": "in weniger als einer Minute",
+        "en-US": "in less than a minute"
+    },
+    "DATE.relative.minute.ago": {
+        "de-DE": "vor einer Minuten",
+        "en-US": "one minute ago"
+    },
+    "DATE.relative.minute.in": {
+        "de-DE": "in einer Minute",
+        "en-US": "in one minute"
+    },
+    "DATE.relative.minutes.ago": {
+        "de-DE": "vor [amount] Minuten",
+        "en-US": "[amount] minutes ago"
+    },
+    "DATE.relative.minutes.in": {
+        "de-DE": "in [amount] Minuten",
+        "en-US": "in [amount] minutes"
+    },
+    "DATE.relative.hour.ago": {
+        "de-DE": "vor einer Stunde",
+        "en-US": "one hour ago"
+    },
+    "DATE.relative.hour.in": {
+        "de-DE": "in einer Stunde",
+        "en-US": "in one hour"
+    },
+    "DATE.relative.hours.ago": {
+        "de-DE": "vor [amount] Stunden",
+        "en-US": "[amount] hours ago"
+    },
+    "DATE.relative.hours.in": {
+        "de-DE": "in [amount] Stunden",
+        "en-US": "in [amount] hours"
+    },
+    "DATE.relative.day.ago": {
+        "de-DE": "gestern",
+        "en-US": "yesterday"
+    },
+    "DATE.relative.day.in": {
+        "de-DE": "morgen",
+        "en-US": "tomorrow"
+    },
+    "DATE.relative.days.ago": {
+        "de-DE": "vor [amount] Tagen",
+        "en-US": "[amount] days ago"
+    },
+    "DATE.relative.days.in": {
+        "de-DE": "in [amount] Tagen",
+        "en-US": "in [amount] days"
+    },
+    "DATE.relative.month.ago": {
+        "de-DE": "vor einem Monat",
+        "en-US": "one month ago"
+    },
+    "DATE.relative.month.in": {
+        "de-DE": "in einem Monat",
+        "en-US": "in one month"
+    },
+    "DATE.relative.months.ago": {
+        "de-DE": "vor [amount] Monaten",
+        "en-US": "[amount] months ago"
+    },
+    "DATE.relative.months.in": {
+        "de-DE": "in [amount] Monaten",
+        "en-US": "in [amount] months"
+    },
+    "DATE.relative.year.ago": {
+        "de-DE": "vor einem Jahr",
+        "en-US": "one year ago"
+    },
+    "DATE.relative.year.in": {
+        "de-DE": "in einem Jahr",
+        "en-US": "in one year"
+    },
+    "DATE.relative.years.ago": {
+        "de-DE": "vor [amount] Jahren",
+        "en-US": "[amount] years ago"
+    },
+    "DATE.relative.years.in": {
+        "de-DE": "in [amount] Jahren",
+        "en-US": "in [amount] years"
     }
 }
