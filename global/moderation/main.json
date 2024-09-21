@@ -22,5 +22,17 @@
     "PUNISH.command.reason.list": {
         "en-US": "<color:#96a7b2>Available reasons for punishments:</color><br><br>[reasons]",
         "de-DE": "<color:#96a7b2>Verfügbare Gründe für Bestrafungen:</color><br><br>[reasons]"
+    },
+    "PUNISH.command.reason.add.error.exists": {
+        "en-US": "<color:#96a7b2>The reason <aqua>[reason]</color> <color:#ff0000>already> exists</color in the list of available reasons for punishments.</color>",
+        "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</color> <color:#ff0000>existiert bereits</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
+    },
+    "PUNISH.command.reason.remove.error.notExists": {
+        "en-US": "<color:#96a7b2>The reason <aqua>[reason]</color> <color:#ff0000>does not exist</color> in the list of available reasons for punishments.</color>",
+        "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</color> <color:#ff0000>existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
+    },
+    "PUNISH.command.reason.add.error.invalid": {
+        "en-US": "<color:#96a7b2>The reason <aqua>[reason]</color> is <color:#ff0000>invalid! Please note that reasons have to be <aqua>all uppercase</aqua> and words have to be <aqua>separated by underscores.</aqua></color>",
+        "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</color> ist <color:#ff0000>ungültig! Bitte beachte, dass Gründe <aqua>komplett großgeschrieben</aqua> sein müssen und Wörter durch <aqua>Unterstriche</aqua> getrennt sein müssen.</color>"
     }
 }
