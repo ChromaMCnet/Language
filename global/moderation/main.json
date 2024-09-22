@@ -15,28 +15,12 @@
         "en-US": "<color:#96a7b2>The reason <aqua>[reason]</aqua> <color:#ff0000>does not exist</color> in the list of available reasons for punishments.</color>",
         "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</aqua> <color:#ff0000>existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
     },
-    "PUNISH.command.reason.add": {
-        "en-US": "<color:#96a7b2>You've added the reason <aqua>[reason]</aqua> with description <aqua>[description]</aqua> to the list of available reasons for punishments.",
-        "de-DE": "<color:#96a7b2>Du hast den Grund <aqua>[reason]</aqua> mit der Beschreibung <aqua>[description]</aqua> zur Liste der verfügbaren Gründe für Bestrafungen hinzugefügt."
-    },
-    "PUNISH.command.reason.remove": {
-        "en-US": "<color:#96a7b2>You've removed the reason <aqua>[reason]</aqua> from the list of available reasons for punishments.",
-        "de-DE": "<color:#96a7b2>Du hast den Grund <aqua>[reason]</aqua> aus der Liste der verfügbaren Gründe für Bestrafungen entfernt."
+    "PUNISH.command.admin.wipe": {
+        "en-US": "<color:#96a7b2>Successfully wiped all punishments for the player <aqua>[player]</aqua>!</color>",
+        "de-DE": "<color:#96a7b2>Alle Bestrafungen für den Spieler <aqua>[player]</aqua> wurden erfolgreich gelöscht!</color>"
     },
     "PUNISH.command.reason.list": {
         "en-US": "<color:#96a7b2>Available reasons for punishments:</color><br><br>[reasons]",
         "de-DE": "<color:#96a7b2>Verfügbare Gründe für Bestrafungen:</color><br><br>[reasons]"
-    },
-    "PUNISH.command.reason.add.error.exists": {
-        "en-US": "<color:#96a7b2>The reason <aqua>[reason]</aqua> <color:#ff0000>already exists</color in the list of available reasons for punishments.</color>",
-        "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</aqua> <color:#ff0000>existiert bereits</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
-    },
-    "PUNISH.command.reason.remove.error.notfound": {
-        "en-US": "<color:#96a7b2>The reason <aqua>[reason]</aqua> <color:#ff0000>does not exist</color> in the list of available reasons for punishments.</color>",
-        "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</aqua> <color:#ff0000>existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
-    },
-    "PUNISH.command.reason.add.error.invalid": {
-        "en-US": "<color:#96a7b2>The reason <aqua>[reason]</aqua> is <color:#ff0000>invalid!</color> Please note that reasons have to be <aqua>all uppercase</aqua> and words have to be <aqua>separated by underscores.</aqua></color>",
-        "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</aqua> ist <color:#ff0000>ungültig!</color> Bitte beachte, dass Gründe <aqua>komplett großgeschrieben</aqua> sein müssen und Wörter durch <aqua>Unterstriche</aqua> getrennt sein müssen.</color>"
     }
 }
