@@ -1,0 +1,78 @@
+{
+    "REASON.ILLEGAL_CLIENT_MODIFICATIONS": {
+        "de-DE": "Illegale Client-Modifikationen",
+        "en-US": "Illegal Client Modifications"
+    },
+    "REASON.OFFENSIVE_LANGUAGE": {
+        "de-DE": "Beleidigende Sprache",
+        "en-US": "Offensive Language"
+    },
+    "REASON.SPAMMING": {
+        "de-DE": "Spamming",
+        "en-US": "Spamming"
+    },
+    "REASON.TROLLING": {
+        "de-DE": "Trolling",
+        "en-US": "Trolling"
+    },
+    "REASON.TEAMING": {
+        "de-DE": "Teaming",
+        "en-US": "Teaming"
+    },
+    "REASON.UNNECESSARY_OVERLOADING_SERVER": {
+        "de-DE": "Unnötiges auslasten des Servers",
+        "en-US": "Unnecessary overloading the Server"
+    },
+    "REASON.ALT_ACCOUNT_USING": {
+        "de-DE": "Nutzen eines Alt-Accounts",
+        "en-US": "Using of an Alt-Account"
+    },
+    "REASON.GRIEFING": {
+        "de-DE": "Griefing",
+        "en-US": "Griefing"
+    },
+    "REASON.REAL_MONEY_TRADING": {
+        "de-DE": "Echtgeldhandel",
+        "en-US": "Trading with real money"
+    },
+    "REASON.ADVERTISING": {
+        "de-DE": "Werbung",
+        "en-US": "Advertising"
+    },
+    "REASON.ACCOUNT_SELLING": {
+        "de-DE": "Accountverkauf",
+        "en-US": "Account selling"
+    },
+    "REASON.ACCOUNT_SHARING": {
+        "de-DE": "Accountsharing",
+        "en-US": "Account sharing"
+    },
+    "REASON.BUG_ABUSE": {
+        "de-DE": "Bug-Abuse",
+        "en-US": "Bug Abuse"
+    },
+    "REASON.BEGGING_FOR_RANK_OR_EXTRA_PERMS": {
+        "de-DE": "Betteln um Rang oder extra Rechte",
+        "en-US": "Begging for rank or extra permissions"
+    },
+    "REASON.REPORT_ABUSING": {
+        "de-DE": "Report-Abuse",
+        "en-US": "Report Abuse"
+    },
+    "REASON.BYPASSING_PUNISHMENTS": {
+        "de-DE": "Umgehen von Strafen",
+        "en-US": "Bypassing punishments"
+    },
+    "REASON.SUPPORT_ABUSE": {
+        "de-DE": "Support-Missbrauch",
+        "en-US": "Support Abuse"
+    },
+    "REASON.DOXXING": {
+        "de-DE": "Doxxing",
+        "en-US": "Doxxing"
+    },
+    "REASON.HAUSVERBOT": {
+        "de-DE": "Hausverbot",
+        "en-US": "Excluded from playing"
+    }
+}
