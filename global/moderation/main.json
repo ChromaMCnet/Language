@@ -31,7 +31,7 @@
         "en-US": "<color:#96a7b2>The reason <aqua>[reason]</color> <color:#ff0000>already exists</color in the list of available reasons for punishments.</color>",
         "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</color> <color:#ff0000>existiert bereits</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
     },
-    "PUNISH.command.reason.remove.error.notExists": {
+    "PUNISH.command.reason.remove.error.notfound": {
         "en-US": "<color:#96a7b2>The reason <aqua>[reason]</aqua> <color:#ff0000>does not exist</color> in the list of available reasons for punishments.</color>",
         "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</aqua> <color:#ff0000>existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
     },
