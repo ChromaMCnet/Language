@@ -11,6 +11,10 @@
         "en-US": "<br><color:#96a7b2>You got <color:#ff0000><b>Muted!</b></color><br><br><aqua>Moderator:</aqua> [executor]<br><aqua>Reason:</aqua> [reason]<br><aqua>Duration:</aqua> [duration]<br><aqua>Punishment ID:</aqua> [id]<br><br>If you think that this <color:#ff0000><b>Mute</b></color> is a <aqua>mistake</aqua> or<br><aqua>unfair,</aqua> feel free to create a <aqua>Ticket</aqua> on our <color:#454FBF>Discord Server!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color></color>",
         "de-DE": "<br><color:#96a7b2>Du wurdest <color:#ff0000><b>Stummgeschaltet!</b></color><br><br><aqua>Moderator:</aqua> [executor]<br><aqua>Grund:</aqua> [reason]<br><aqua>Länge:</aqua> [duration]<br><aqua>Punishment ID:</aqua> [id]<br><br>Wenn du denkst, dass diese <color:#ff0000><b>Stummschaltung</b></color> ein <aqua>Fehler</aqua> oder <aqua>unfair</aqua> ist, kannst du gerne ein <aqua>Ticket</aqua> auf unserem <color:#454FBF>Discord Server</color> erstellen!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color>"
     },
+    "PUNISH.command.general.error.reason.notfound": {
+        "en-US": "<color:#96a7b2>The reason <aqua>[reason]</color> <color:#ff0000>does not exist</color> in the list of available reasons for punishments.</color>",
+        "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</color> <color:#ff0000>existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
+    },
     "PUNISH.command.reason.add": {
         "en-US": "<color:#96a7b2>You've added the reason <aqua>[reason]</color> with description <aqua>[description]</aqua> to the list of available reasons for punishments.",
         "de-DE": "<color:#96a7b2>Du hast den Grund <aqua>[reason]</color> mit der Beschreibung <aqua>[description]</aqua> zur Liste der verfügbaren Gründe für Bestrafungen hinzugefügt."
