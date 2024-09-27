@@ -55,7 +55,7 @@
         "de-DE": "Betteln um Rang oder extra Rechte",
         "en-US": "Begging for rank or extra permissions"
     },
-    "REPORT_ABUSING": {
+    "REPORT_ABUSE": {
         "de-DE": "Report-Abuse",
         "en-US": "Report Abuse"
     },
@@ -74,5 +74,9 @@
     "HAUSVERBOT": {
         "de-DE": "Hausverbot",
         "en-US": "Excluded from playing"
+    },
+    "VERY_GOOD_ROLEPLAY": {
+        "de-DE": "Sehr gutes Rollenspiel",
+        "en-US": "Very good roleplay"
     }
 }

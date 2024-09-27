@@ -16,7 +16,7 @@
         "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</aqua> <color:#ff0000>existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
     },
     "PUNISH.command.admin.wipe": {
-        "en-US": "<color:#96a7b2>Successfully wiped all punishments for the player <aqua>[player]</aqua>!</color>",
+        "en-US": "<color:#96a7b2>Successfully wiped all punishments for the player <aqua>[player]!</aqua></color>",
         "de-DE": "<color:#96a7b2>Alle Bestrafungen für den Spieler <aqua>[player]</aqua> wurden erfolgreich gelöscht!</color>"
     },
     "PUNISH.command.reason.list": {
