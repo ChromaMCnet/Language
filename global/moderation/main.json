@@ -20,7 +20,7 @@
         "de-DE": "<color:#96a7b2>Alle Bestrafungen für den Spieler <aqua>[player]</aqua> wurden erfolgreich gelöscht!</color>"
     },
     "PUNISH.command.reason.list": {
-        "en-US": "<color:#96a7b2>Available reasons for punishments:</color><br><br>[reasons]",
-        "de-DE": "<color:#96a7b2>Verfügbare Gründe für Bestrafungen:</color><br><br>[reasons]"
+        "en-US": "<color:#96a7b2>Available reasons for punishments:</color><br>[reasons]",
+        "de-DE": "<color:#96a7b2>Verfügbare Gründe für Bestrafungen:</color><br>[reasons]"
     }
 }
