@@ -102,5 +102,53 @@
     "DATE.relative.years.in": {
         "de-DE": "in [amount] Jahren",
         "en-US": "in [amount] years"
+    },
+    "DATE.relative.second.less": {
+        "de-DE": "[amount] Sekunde",
+        "en-US": "[amount] second"
+    },
+    "DATE.relative.second": {
+        "de-DE": "[amount] Sekunden",
+        "en-US": "[amount] seconds"
+    },
+    "DATE.relative.minute.less": {
+        "de-DE": "[amount] Minute",
+        "en-US": "[amount] minute"
+    },
+    "DATE.relative.minute": {
+        "de-DE": "[amount] Minuten",
+        "en-US": "[amount] minutes"
+    },
+    "DATE.relative.hour.less": {
+        "de-DE": "[amount] Stunde",
+        "en-US": "[amount] hour"
+    },
+    "DATE.relative.hour": {
+        "de-DE": "[amount] Stunden",
+        "en-US": "[amount] hours"
+    },
+    "DATE.relative.day.less": {
+        "de-DE": "[amount] Tag",
+        "en-US": "[amount] day"
+    },
+    "DATE.relative.day": {
+        "de-DE": "[amount] Tage",
+        "en-US": "[amount] days"
+    },
+    "DATE.relative.month.less": {
+        "de-DE": "[amount] Monat",
+        "en-US": "[amount] month"
+    },
+    "DATE.relative.month": {
+        "de-DE": "[amount] Monate",
+        "en-US": "[amount] months"
+    },
+    "DATE.relative.year.less": {
+        "de-DE": "[amount] Jahr",
+        "en-US": "[amount] year"
+    },
+    "DATE.relative.year": {
+        "de-DE": "[amount] Jahre",
+        "en-US": "[amount] years"
     }
 }
