@@ -51,6 +51,10 @@
         "de-DE": "Bug-Abuse",
         "en-US": "Bug Abuse"
     },
+    "PERMS_ABUSE": {
+        "de-DE": "Rechte-Missbrauch",
+        "en-US": "Permissions Abuse"
+    },
     "BEGGING_FOR_RANK_OR_EXTRA_PERMS": {
         "de-DE": "Betteln um Rang oder extra Rechte",
         "en-US": "Begging for rank or extra permissions"
