@@ -1,0 +1,14 @@
+{
+    "BOSSBAR.title.network": {
+        "en-US": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#00B4FF:#0079FF:#00B4FF><b>Minecraft Network</b></gradient>",
+        "de-DE": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#00B4FF:#0079FF:#00B4FF><b>Minecraft Netzwerk</b></gradient>"
+    },
+    "BOSSBAR.title.discord": {
+        "en-US": "<gradient:#0079FF:#00B4FF:#0079FF><b>Discord</b></gradient> <color:#96a7b2><b>◆</b></color> <color:#5865f1><b>discord.chromamc.net</b></color>",
+        "de-DE": "<gradient:#0079FF:#00B4FF:#0079FF><b>Discord</b></gradient> <color:#96a7b2><b>◆</b></color> <color:#5865f1><b>discord.chromamc.net</b></color>"
+    },
+    "BOSSBAR.title.release": {
+        "en-US": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#00B4FF:#0079FF:#00B4FF><b>Release</b></gradient>",
+        "de-DE": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#00B4FF:#0079FF:#00B4FF><b>Release</b></gradient>"
+    }
+}
