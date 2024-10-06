@@ -30,5 +30,9 @@
     "PUNISH.command.reason.list": {
         "en-US": "<color:#96a7b2>Available reasons for punishments:</color><br>[reasons]",
         "de-DE": "<color:#96a7b2>Verfügbare Gründe für Bestrafungen:</color><br>[reasons]"
+    },
+    "ERROR.reason.custom.permission": {
+        "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use <aqua>custom reasons</aqua> for punishments.</color>",
+        "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, <aqua>benutzerdefinierte Gründe</aqua> für Bestrafungen zu verwenden.</color>"
     }
 }
