@@ -163,5 +163,9 @@
     "COUNTING.error.enabled": {
         "GERMAN": "Das Zählen wurde bereits gestartet! Wenn du es neustarten möchtest, nutze erst **/counting stop** und dann **/counting start**!",
         "ENGLISH_UK": "Counting has already started! If you want to restart it, use **/counting stop** first and then **/counting start**!"
+    },
+    "COUNTING.error.disabled": {
+        "GERMAN": "Das Zählen wurde noch nicht gestartet! Wenn du es starten möchtest, nutze **/counting start**!",
+        "ENGLISH_UK": "Counting has not been started yet! If you want to start it, use **/counting start**!"
     }
 }
