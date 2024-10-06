@@ -131,5 +131,9 @@
     "GENERAL.error.time.invalid": {
         "GERMAN": "Die Zeit die du eingegeben hast ist ungültig! Bitte nutze das Format `2s` für 2 Sekunden, `5m` für 5 Minuten oder `6h` für 6 Stunden.",
         "ENGLISH_UK": "The time you entered is invalid! Please use the format `2s` for 2 seconds, `5m` for 5 minutes or `6h` for 6 hours."
+    },
+    "COUNTING.start": {
+        "GERMAN": "Das Zählen beginnt bei **1**! Schreibe die nächste Zahl!\n\nUnser ziel ist es bis **[goal]** zu zählen!",
+        "ENGLISH_UK": "Counting starts at **1**! Write the next number!\n\nOur goal is to count to **[goal]**!"
     }
 }

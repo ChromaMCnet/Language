@@ -15,7 +15,7 @@
         "de-DE": "Beleidigende Sprache",
         "en-US": "Offensive Language",
         "permission": "chromamc.punish.mute.offensive_language",
-        "type": "mute",
+        "type": ["mute", "kick"],
         "durations": [
             "1h",
             "3h",
@@ -29,7 +29,7 @@
         "de-DE": "Spamming",
         "en-US": "Spamming",
         "permission": "chromamc.punish.mute.spamming",
-        "type": "mute",
+        "type": ["mute", "kick"],
         "durations": [
             "1h",
             "3h",
@@ -54,7 +54,7 @@
         "de-DE": "Teaming",
         "en-US": "Teaming",
         "permission": "chromamc.punish.ban.teaming",
-        "type": "ban",
+        "type": ["ban", "kick"],
         "durations": [
             "1d",
             "3d",
@@ -139,7 +139,7 @@
         "de-DE": "Accountsharing",
         "en-US": "Account sharing",
         "permission": "chromamc.punish.ban.account_sharing",
-        "type": "ban",
+        "type": ["ban", "kick"],
         "durations": [
             "1d",
             "3d",
@@ -178,7 +178,7 @@
         "de-DE": "Betteln um Rang oder extra Rechte",
         "en-US": "Begging for rank or extra permissions",
         "permission": "chromamc.punish.mute.begging_for_rank_or_extra_perms",
-        "type": "mute",
+        "type": ["mute", "kick"],
         "durations": [
             "1h",
             "3h",
@@ -249,7 +249,7 @@
         "de-DE": "Sehr gutes ROLLENSPIEL",
         "en-US": "Sehr gutes ROLLENSPIEL",
         "permission": "chromamc.punish.ban.very_good_roleplay",
-        "type": "ban",
+        "type": ["ban", "kick", "mute"],
         "durations": [
             "permanent"
         ]
