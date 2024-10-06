@@ -144,6 +144,10 @@
         "GERMAN": "Das Zählen wurde gestoppt! Die letzte Zahl war **[number]**",
         "ENGLISH_UK": "Counting has been stopped! The last number was **[number]**"
     },
+    "COUNTING.stop.self": {
+        "GERMAN": "Das Zählen wurde von dir gestoppt! Die letzte Zahl war **[number]**",
+        "ENGLISH_UK": "Counting has been stopped by you! The last number was **[number]**"
+    },
     "COUNTING.error.number": {
         "GERMAN": "Du musst die **nächste Zahl** schreiben!",
         "ENGLISH_UK": "You have to write the **next number**!"
