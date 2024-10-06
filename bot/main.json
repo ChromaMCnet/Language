@@ -135,5 +135,29 @@
     "COUNTING.start": {
         "GERMAN": "Das Zählen beginnt bei **1**! Schreibe die nächste Zahl!\n\nUnser ziel ist es bis **[goal]** zu zählen!",
         "ENGLISH_UK": "Counting starts at **1**! Write the next number!\n\nOur goal is to count to **[goal]**!"
+    },
+    "COUNTING.stop": {
+        "GERMAN": "Das Zählen wurde gestoppt! Die letzte Zahl war **[number]**",
+        "ENGLISH_UK": "Counting has been stopped! The last number was **[number]**"
+    },
+    "COUNTING.error.number": {
+        "GERMAN": "Du musst die **nächste Zahl** schreiben!",
+        "ENGLISH_UK": "You have to write the **next number**!"
+    },
+    "COUNTING.error.user": {
+        "GERMAN": "Du muss warten, bis ein anderer User eine Zahl geschrieben hat, um selber wieder eine zu schreiben!",
+        "ENGLISH_UK": "You have to wait until another user has written a number in order to write one yourself!"
+    },
+    "COUNTING.error.string": {
+        "GERMAN": "Du darfst **nur Zahlen** schreiben!",
+        "ENGLISH_UK": "You are only allowed to write **numbers**!"
+    },
+    "COUNTING.error.same": {
+        "GERMAN": "Du darfst **nicht** die **gleiche** Zahl wie der vorherige User schreiben!",
+        "ENGLISH_UK": "You are **not** allowed to write the **same** number as the previous user!"
+    },
+    "COUNTING.error.enabled": {
+        "GERMAN": "Das Zählen wurde bereits gestartet! Wenn du es neustarten möchtest, nutze erst **/counting stop** und dann **/counting start**!",
+        "ENGLISH_UK": "Counting has already started! If you want to restart it, use **/counting stop** first and then **/counting start**!"
     }
 }
