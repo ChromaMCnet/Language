@@ -136,6 +136,10 @@
         "GERMAN": "Das Zählen beginnt bei **1**! Schreibe die nächste Zahl!\n\nUnser ziel ist es bis **[goal]** zu zählen!",
         "ENGLISH_UK": "Counting starts at **1**! Write the next number!\n\nOur goal is to count to **[goal]**!"
     },
+    "COUNTING.start.self": {
+        "GERMAN": "Das Zählen wurde gestartet! Du kannst mit der **ersten Zahl** beginnen!",
+        "ENGLISH_UK": "Counting has been started! You can start with the **first number!**"
+    },
     "COUNTING.stop": {
         "GERMAN": "Das Zählen wurde gestoppt! Die letzte Zahl war **[number]**",
         "ENGLISH_UK": "Counting has been stopped! The last number was **[number]**"
