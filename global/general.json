@@ -150,5 +150,9 @@
     "DATE.relative.year": {
         "de-DE": "[amount] Jahre",
         "en-US": "[amount] years"
+    },
+    "ERROR.time.format.invalid": {
+        "de-DE": "<color:#96a7b2>Die Zeit die du angegeben hast ist ungültig! Bitte nutze das Format <aqua>2s</aqua> für 2 Sekunden, <aqua>5m</aqua> für 5 Minuten oder <aqua>6h</aqua> für 6 Stunden.</color>",
+        "en-US": "<color:#96a7b2>The time you specified is invalid! Please use the format <aqua>2s</aqua> for 2 seconds, <aqua>5m</aqua> for 5 minutes or <aqua>6h</aqua> for 6 hours.</color>"
     }
 }
