@@ -1,0 +1,18 @@
+{
+    "ERROR.whitelisted": {
+        "de-DE": "<color:#96a7b2>Dieser <aqua>Befehl</aqua> ist bereits auf der <aqua>Whitelist</aqua></color>",
+        "en-US": "<color:#96a7b2>This <aqua>command</aqua> is already on the <aqua>whitelist</aqua></color>"
+    },
+    "ERROR.not.whitelisted": {
+        "de-DE": "<color:#96a7b2>Dieser <aqua>Befehl</aqua> ist <color:#ff0000>nicht</color> auf der <aqua>Whitelist</aqua></color>",
+        "en-US": "<color:#96a7b2>This <aqua>command</aqua> is <color:#ff0000>not</color on the <aqua>whitelist</aqua></color>"
+    },
+    "SUCCESS.added": {
+        "de-DE": "<color:#96a7b2>Der <aqua>Befehl</aqua> wurde <color:#4bfb00>erfolgreich</color> zur <aqua>Whitelist</aqua> <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "<color:#96a7b2>The <aqua>command</aqua> has been <color:#4bfb00>successfully added</color> to the <aqua>whitelist</a></color>"
+    },
+    "SUCCESS.removed": {
+        "de-DE": "<color:#96a7b2>Der <aqua>Befehl</aqua> wurde <color:#4bfb00>erfolgreich</color> von der <aqua>Whitelist</aqua> <color:#ff0000>entfernt</color></color>",
+        "en-US": "<color:#96a7b2>The <aqua>command</aqua> has been <color:#4bfb00>successfully</color> <color:#ff0000>entfernt</color> from the <aqua>whitelist</a></color>"
+    }
+}
