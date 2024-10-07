@@ -3,7 +3,7 @@
         "de-DE": "Illegale Client-Modifikationen",
         "en-US": "Illegal Client Modifications",
         "permission": "chromamc.punish.ban.illegal_client_modifications",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "2w",
             "1m",
@@ -43,7 +43,7 @@
         "de-DE": "Trolling",
         "en-US": "Trolling",
         "permission": "chromamc.punish.mute.trolling",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "1d",
             "3d",
@@ -67,7 +67,7 @@
         "de-DE": "Unnötiges auslasten des Servers",
         "en-US": "Unnecessary overloading the Server",
         "permission": "chromamc.punish.ban.unnecessary_overloading_server",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "1d",
             "3d",
@@ -81,7 +81,7 @@
         "de-DE": "Nutzen eines Alt-Accounts",
         "en-US": "Using of an Alt-Account",
         "permission": "chromamc.punish.ban.alt_account_using",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "1d",
             "3d",
@@ -94,7 +94,7 @@
         "de-DE": "Griefing",
         "en-US": "Griefing",
         "permission": "chromamc.punish.ban.griefing",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "1d",
             "3d",
@@ -108,7 +108,7 @@
         "de-DE": "Echtgeldhandel",
         "en-US": "Trading with real money",
         "permission": "chromamc.punish.ban.real_money_trading",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "permanent"
         ]
@@ -117,7 +117,7 @@
         "de-DE": "Werbung",
         "en-US": "Advertising",
         "permission": "chromamc.punish.ban.advertising",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "1d",
             "3d",
@@ -130,7 +130,7 @@
         "de-DE": "Accountverkauf",
         "en-US": "Account selling",
         "permission": "chromamc.punish.ban.account_selling",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "permanent"
         ]
@@ -152,7 +152,7 @@
         "de-DE": "Bug-Abuse",
         "en-US": "Bug Abuse",
         "permission": "chromamc.punish.ban.bug_abuse",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "1d",
             "3d",
@@ -165,7 +165,7 @@
         "de-DE": "Rechte-Missbrauch",
         "en-US": "Permissions Abuse",
         "permission": "chromamc.punish.ban.perms_abuse",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "1d",
             "3d",
@@ -192,7 +192,7 @@
         "de-DE": "Report-Abuse",
         "en-US": "Report Abuse",
         "permission": "chromamc.punish.ban.report_abuse",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "1d",
             "3d",
@@ -205,7 +205,7 @@
         "de-DE": "Umgehen von Strafen",
         "en-US": "Bypassing punishments",
         "permission": "chromamc.punish.ban.bypassing_punishments",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "1d",
             "3d",
@@ -218,7 +218,7 @@
         "de-DE": "Support-Missbrauch",
         "en-US": "Support Abuse",
         "permission": "chromamc.punish.ban.support_abuse",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "1d",
             "3d",
@@ -231,7 +231,7 @@
         "de-DE": "Doxxing",
         "en-US": "Doxxing",
         "permission": "chromamc.punish.ban.doxxing",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "permanent"
         ]
@@ -240,7 +240,7 @@
         "de-DE": "Hausverbot",
         "en-US": "Excluded from playing",
         "permission": "chromamc.punish.ban.hausverbot",
-        "type": "ban",
+        "type": ["ban"],
         "durations": [
             "permanent"
         ]
