@@ -8,11 +8,11 @@
         "en-US": "<color:#96a7b2>This <aqua>command</aqua> is <color:#ff0000>not</color on the <aqua>whitelist</aqua></color>"
     },
     "SUCCESS.added": {
-        "de-DE": "<color:#96a7b2>Der <aqua>Befehl</aqua> wurde <color:#4bfb00>erfolgreich</color> zur <aqua>Whitelist</aqua> <color:#4bfb00>hinzugefügt!</color></color>",
-        "en-US": "<color:#96a7b2>The <aqua>command</aqua> has been <color:#4bfb00>successfully added</color> to the <aqua>whitelist</a></color>"
+        "de-DE": "<color:#96a7b2>Der <aqua>Befehl [command]</aqua> wurde <color:#4bfb00>erfolgreich</color> zur <aqua>Whitelist</aqua> mit der Permission <aqua>[permission]</aqua> <color:#4bfb00>hinzugefügt!</color></color>",
+        "en-US": "<color:#96a7b2>The <aqua>command [command]</aqua> has been <color:#4bfb00>successfully</color> added to the <aqua>whitelist</a> with the permission <aqua>[permission]</aqua> <color:#4bfb00>added!</color></color>"
     },
     "SUCCESS.removed": {
-        "de-DE": "<color:#96a7b2>Der <aqua>Befehl</aqua> wurde <color:#4bfb00>erfolgreich</color> von der <aqua>Whitelist</aqua> <color:#ff0000>entfernt</color></color>",
-        "en-US": "<color:#96a7b2>The <aqua>command</aqua> has been <color:#4bfb00>successfully</color> <color:#ff0000>entfernt</color> from the <aqua>whitelist</a></color>"
+        "de-DE": "<color:#96a7b2>Der <aqua>Befehl [command]</aqua> wurde <color:#4bfb00>erfolgreich</color> von der <aqua>Whitelist</aqua> <color:#ff0000>entfernt</color></color>",
+        "en-US": "<color:#96a7b2>The <aqua>command [command]</aqua> has been <color:#4bfb00>successfully</color> <color:#ff0000>entfernt</color> from the <aqua>whitelist</a></color>"
     }
 }
