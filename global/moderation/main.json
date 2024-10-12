@@ -23,7 +23,7 @@
         "en-US": "<color:#96a7b2>Available reasons for punishments:</color><br>[reasons]",
         "de-DE": "<color:#96a7b2>Verfügbare Gründe für Bestrafungen:</color><br>[reasons]"
     },
-    "HISTORY.success": {
+    "PUNISH.history": {
         "en-US": "<color:#96a7b2>Punishment history for <aqua>[player]:</aqua></color><br>"
     },
     "ERROR.duration.custom.permission": {
