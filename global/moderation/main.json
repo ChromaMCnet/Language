@@ -23,6 +23,9 @@
         "en-US": "<color:#96a7b2>Available reasons for punishments:</color><br>[reasons]",
         "de-DE": "<color:#96a7b2>Verfügbare Gründe für Bestrafungen:</color><br>[reasons]"
     },
+    "HISTORY.success": {
+        "en-US": "<color:#96a7b2>Punishment history for <aqua>[player]:</aqua></color><br>"
+    },
     "ERROR.duration.custom.permission": {
         "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use <aqua>custom durations</aqua> for punishments.</color>",
         "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, <aqua>benutzerdefinierte Dauern</aqua> für Bestrafungen zu verwenden.</color>"
@@ -34,5 +37,9 @@
     "ERROR.duration.perma.perms": {
         "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use <aqua>permanent durations</aqua> for punishments.</color>",
         "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, <aqua>permanente Dauern</aqua> für Bestrafungen zu verwenden.</color>"
+    },
+    "ERROR.history.no.punishment": {
+        "en-US": "<color:#96a7b2>The player <aqua>[player]</aqua> has <color:#ff0000>no</color> punishment history for the punishment type <aqua>[type].</aqua></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> hat <color:#ff0000>keine</color> Bestrafungshistorie für den Bestrafungstypen <aqua>[type].</aqua>.</color>"
     }
 }
