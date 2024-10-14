@@ -35,6 +35,14 @@
         "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> banned the player <aqua>[player]</aqua> for <aqua>[duration]</aqua> and with reason <aqua>[reason]!</aqua></color>",
         "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> für <aqua>[duration]</aqua> und mit dem Grund <aqua>[reason]</aqua> gebannt!</color>"
     },
+    "PUNISH.command.unban": {
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> unbanned the player <aqua>[player]!</aqua></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> entbannt!</color>"
+    },
+    "PUNISH.command.unmute": {
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> unmuted the player <aqua>[player]!</aqua></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> entstummschaltet!</color>"
+    },
     "PUNISH.history": {
         "en-US": "<color:#96a7b2>Punishment history for <aqua>[player]:</aqua></color><br>"
     },
@@ -61,6 +69,10 @@
     "ERROR.punish.already.punished": {
         "en-US": "<color:#96a7b2>The player <aqua>[player]</aqua> does <color:#ff0000>already have</color> an active punishment of type <aqua>[type].</aqua></color>",
         "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> hat <color:#ff0000>bereits</color> eine aktive Bestrafung des Typs <aqua>[type].</aqua></color>"
+    },
+    "ERROR.punish.not.punished": {
+        "en-US": "<color:#96a7b2>The player <aqua>[player]</aqua> does <color:#ff0000>not have</color> an active punishment of type <aqua>[type].</aqua></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> hat <color:#ff0000>keine</color> aktive Bestrafung des Typs <aqua>[type].</aqua></color>"
     },
     "ERROR.duration.custom.permission": {
         "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use <aqua>custom durations</aqua> for punishments.</color>",
