@@ -1,0 +1,6 @@
+{
+    "TELEPORT.spawn.cancel": {
+        "de-DE": "<color:#96a7b2>Der Teleport wurde <color:#ff0000>abgebrochen,</color> da du dich <color:#ff0000>bewegt</color> hast!</color>",
+        "en-US": "<color:#96a7b2>The teleport was <color:#ff0000>canceled</color> because you <color:#ff0000>moved!</color></color>"
+    }
+}
