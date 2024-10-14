@@ -39,16 +39,24 @@
         "en-US": "<color:#96a7b2>Punishment history for <aqua>[player]:</aqua></color><br>"
     },
     "PUNISH.ban.notify": {
-        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>BANNED</color> <aqua>[player]</aqua> from the server!</color>",
-        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>HAT</color> <aqua>[player]</aqua> vom Server <color:#ff0000>GEBANNT!</color></color>"
+        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>BANNED</color> <aqua>[player]!</aqua></color>",
+        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> hat <aqua>[player]</aqua> <color:#ff0000>gebannt!</color></color>"
     },
     "PUNISH.kick.notify": {
-        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>kicked</color> <aqua>[player]</aqua> from the server!</color>",
-        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>HAT</color> <aqua>[player]</aqua> vom Server <color:#ff0000>GEKICKT!</color></color>"
+        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>kicked</color> <aqua>[player]!</aqua></color>",
+        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> hat <aqua>[player]</aqua> <color:#ff0000>gekickt!</color></color>"
     },
     "PUNISH.mute.notify": {
-        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>muted</color> <aqua>[player]</aqua> on the server!</color>",
-        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>hat</color> <aqua>[player]</aqua> auf dem Server <color:#ff0000>gemuted!</color></color>"
+        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>MUTED</color> <aqua>[player]!</aqua></color>",
+        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> hat <aqua>[player]</aqua> <color:#ff0000>gemuted!</color></color>"
+    },
+    "PUNISH.unban.notify": {
+        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#4bfb00>unbanned</color> <aqua>[player]!</aqua></color>",
+        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> hat <aqua>[player]</aqua> <color:#4bfb00>entbannt!</color></color>"
+    },
+    "PUNISH.unmute.notify": {
+        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#4bfb00>unmuted</color> <aqua>[player]!</aqua></color>",
+        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> hat <aqua>[player]</aqua> <color:#4bfb00>entmuted!</color></color>"
     },
     "ERROR.punish.already.punished": {
         "en-US": "<color:#96a7b2>The player <aqua>[player]</aqua> does <color:#ff0000>already have</color> an active punishment of type <aqua>[type].</aqua></color>",
