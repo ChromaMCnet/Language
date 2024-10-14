@@ -16,15 +16,43 @@
         "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</aqua> <color:#ff0000>existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
     },
     "PUNISH.command.admin.wipe": {
-        "en-US": "<color:#96a7b2>Successfully wiped all punishments for the player <aqua>[player]!</aqua></color>",
-        "de-DE": "<color:#96a7b2>Alle Bestrafungen für den Spieler <aqua>[player]</aqua> wurden erfolgreich gelöscht!</color>"
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> wiped all punishments for the player <aqua>[player]!</aqua></color>",
+        "de-DE": "<color:#96a7b2>Alle Bestrafungen für den Spieler <aqua>[player]</aqua> wurden <color:#4bfb00>erfolgreich</color> gelöscht!</color>"
     },
     "PUNISH.command.reason.list": {
         "en-US": "<color:#96a7b2>Available reasons for punishments:</color><br>[reasons]",
         "de-DE": "<color:#96a7b2>Verfügbare Gründe für Bestrafungen:</color><br>[reasons]"
     },
+    "PUNISH.command.kick": {
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> kicked the player <aqua>[player]</aqua> from the server with reason <aqua>[reason]!</aqua></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> mit dem Grund <aqua>[reason]</aqua> vom Server gekickt!</color>"
+    },
+    "PUNISH.command.mute": {
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> muted the player <aqua>[player]</aqua> for <aqua>[duration]</aqua> and with reason <aqua>[reason]!</aqua></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> für <aqua>[duration]</aqua> und mit dem Grund <aqua>[reason]</aqua> stummgeschaltet!</color>"
+    },
+    "PUNISH.command.ban": {
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> banned the player <aqua>[player]</aqua> for <aqua>[duration]</aqua> and with reason <aqua>[reason]!</aqua></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> für <aqua>[duration]</aqua> und mit dem Grund <aqua>[reason]</aqua> gebannt!</color>"
+    },
     "PUNISH.history": {
         "en-US": "<color:#96a7b2>Punishment history for <aqua>[player]:</aqua></color><br>"
+    },
+    "PUNISH.ban.notify": {
+        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>BANNED</color> <aqua>[player]</aqua> from the server!</color>",
+        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>HAT</color> <aqua>[player]</aqua> vom Server <color:#ff0000>GEBANNT!</color></color>"
+    },
+    "PUNISH.kick.notify": {
+        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>kicked</color> <aqua>[player]</aqua> from the server!</color>",
+        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>HAT</color> <aqua>[player]</aqua> vom Server <color:#ff0000>GEKICKT!</color></color>"
+    },
+    "PUNISH.mute.notify": {
+        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>muted</color> <aqua>[player]</aqua> on the server!</color>",
+        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>hat</color> <aqua>[player]</aqua> auf dem Server <color:#ff0000>gemuted!</color></color>"
+    },
+    "ERROR.punish.already.punished": {
+        "en-US": "<color:#96a7b2>The player <aqua>[player]</aqua> does <color:#ff0000>already have</color> an active punishment of type <aqua>[type].</aqua></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> hat <color:#ff0000>bereits</color> eine aktive Bestrafung des Typs <aqua>[type].</aqua></color>"
     },
     "ERROR.duration.custom.permission": {
         "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use <aqua>custom durations</aqua> for punishments.</color>",
