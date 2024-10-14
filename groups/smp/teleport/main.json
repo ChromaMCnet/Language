@@ -7,7 +7,7 @@
         "de-DE": "<color:#96a7b2>Du wirst in <aqua>[countdown]</aqua> Sekunden teleportiert, bewege dich <color:#ff0000>NICHT!</color></color>",
         "en-US": "<color:#96a7b2>You will be teleported in <aqua>[countdown]</aqua> seconds, do <color:#ff0000>NOT</color> move!</color>"
     },
-    "TELEPORT.spawm.success": {
+    "TELEPORT.spawn.success": {
         "de-DE": "<color:#96a7b2>Du wurdest <color:#4bfb00>erfolgreich</color> zum <aqua>Spawn</aqua> teleportiert!</color>",
         "en-US": "<color:#96a7b2>You have been <color:#4bfb00>successfully</color> teleported to the <aqua>Spawn!</aqua></color>"
     }
