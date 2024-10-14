@@ -1,0 +1,10 @@
+{
+    "GENERAL.death.no.entity": {
+        "de-DE": "<color:#ff2814>☠</color> <aqua>[player]</aqua> ist an <color:#ff0000>[reason]</color> gestorben.",
+        "en-US": "<color:#ff2814>☠</color> <aqua>[player]</aqua> died from <color:#ff0000>[reason]</color>."
+    },
+    "GENERAL.death.entity": {
+        "de-DE": "<color:#ff2814>☠</color> <aqua>[player]</aqua> wurde von <aqua>[entity]</aqua> <color:#ff0000>getötet.</color>",
+        "en-US": "<color:#ff2814>☠</color> <aqua>[player]</aqua> was <color:#ff0000>killed</color> by <aqua>[entity]</aqua>."
+    }
+}
