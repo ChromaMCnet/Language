@@ -4,8 +4,8 @@
         "en-US": "<color:#96a7b2><color:#ff0000>☠</color> <aqua>[player]</aqua> died from <color:#ff0000>[reason]</color></color>."
     },
     "GENERAL.death.entity": {
-        "de-DE": "<color:#96a7b2><color:#ff0000>☠</color> <aqua>[player]</aqua> wurde von <aqua>[entity]</aqua> <color:#ff0000>getötet.</color></color>",
-        "en-US": "<color:#96a7b2><color:#ff0000>☠</color> <aqua>[player]</aqua> was <color:#ff0000>killed</color> by <aqua>[entity]</aqua></color>."
+        "de-DE": "<color:#96a7b2><color:#ff0000>☠</color> <aqua>[player]</aqua> wurde von <aqua>[killer]</aqua> <color:#ff0000>getötet.</color></color>",
+        "en-US": "<color:#96a7b2><color:#ff0000>☠</color> <aqua>[player]</aqua> was <color:#ff0000>killed</color> by <aqua>[killer]</aqua></color>."
     },
     "GENERAL.join.first": {
         "de-DE": "<color:#96a7b2>ist zum ersten mal auf unserem <aqua>SMP.</aqua> Wir heißen ihn herzlich willkommen! Er ist Spieler <aqua>[joins]!</aqua></color>",
