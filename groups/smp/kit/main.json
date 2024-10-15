@@ -10,5 +10,9 @@
     "KIT.death.use.error": {
         "de-DE": "<color:#96a7b2>Du kannst das <aqua>Starterkit</aqua> nur bekommen, wenn du <color:#ff0000>gestorben</color> bist!</color>",
         "en-US": "<color:#96a7b2>You can only get the <aqua>starter kit</aqua> if you have <color:#ff0000>died</color>!</color>"
+    },
+    "KIT.give": {
+        "de-DE": "<color:#96a7b2>Du hast das <aqua>Starterkit</aqua> erhalten!</color>",
+        "en-US": "<color:#96a7b2>You have received the <aqua>starter kit</aqua>!</color>"
     }
 }
