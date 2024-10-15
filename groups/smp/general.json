@@ -10,5 +10,9 @@
     "GENERAL.join.first": {
         "de-DE": "<color:#96a7b2>ist zum ersten mal auf unserem <aqua>SMP.</aqua> Wir heißen ihn herzlich willkommen! Er ist der <aqua>[joins]</aqua> Spieler.</color>",
         "en-US": "<color:#96a7b2>is joining our <aqua>SMP</aqua> for the first time.  He is the <aqua>[joins]</aqua> player.</color>"
+    },
+    "GENERAL.scoreboard.deaths": {
+        "de-DE": "Tode",
+        "en-US": "Deaths"
     }
 }
