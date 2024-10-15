@@ -1,0 +1,10 @@
+{
+    "RTP.error.cooldown": {
+        "de-DE": "<color:#96a7b2>Du musst noch <aqua>[duration]</aqua> warten, um die erneut <aqua>teleportieren</aqua> zu können!</color>",
+        "en-US": "<color:#96a7b2>You have to wait <aqua>[duration]</aqua> to be able to <aqua>teleport</aqua> again!</color>"
+    },
+    "RTP.success": {
+        "de-DE": "<color:#96a7b2>Du wurdest <color:#4bfb00>erfolgreich</color> <aqua>teleportiert</aqua>!</color>",
+        "en-US": "<color:#96a7b2>You have been <color:#4bfb00>successfully</color> <aqua>teleported</aqua>!</color>"
+    }
+}
