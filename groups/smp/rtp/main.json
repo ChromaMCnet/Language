@@ -14,5 +14,9 @@
     "RTP.error.noSuitableLocation": {
         "de-DE": "<color:#96a7b2>Es konnte <color:#ff0000>kein</color> geeigneter Ort gefunden werden!</color>",
         "en-US": "<color:#96a7b2>There could be <color:#ff0000>no</color> suitable location found!</color>"
+    },
+    "RTP.error.world.only.overworld": {
+        "de-DE": "<color:#96a7b2>Du kannst den <aqua>/rtp</aqua> Command nur in der <dark_green>Overworld</dark_gree> nutzen!</color>",
+        "en-US": "<color:#96a7b2>You can only use the <aqua>/rtp</aqua> command in the <dark_green>Overworld</dark_green>!</color>"
     }
 }
