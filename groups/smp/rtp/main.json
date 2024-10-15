@@ -4,12 +4,16 @@
         "en-US": "<color:#96a7b2>You have to wait <aqua>[duration]</aqua> to be able to <aqua>teleport</aqua> again!</color>"
     },
     "RTP.success": {
-        "de-DE": "<color:#96a7b2>Du wurdest <color:#4bfb00>erfolgreich</color> <aqua>teleportiert</aqua>!</color>",
-        "en-US": "<color:#96a7b2>You have been <color:#4bfb00>successfully</color> <aqua>teleported</aqua>!</color>"
+        "de-DE": "<color:#96a7b2>Du wurdest <color:#4bfb00>erfolgreich</color> <aqua>teleportiert!</aqua></color>",
+        "en-US": "<color:#96a7b2>You have been <color:#4bfb00>successfully</color> <aqua>teleported!</aqua></color>"
+    },
+    "RTP.error.move": {
+        "de-DE": "<color:#96a7b2>Du hast dich <color:#ff0000>bewegt</color> und der <aqua>Teleport</aqua> wurde <color:#ff0000>abgebrochen!</color></color>",
+        "en-US": "<color:#96a7b2>You <color:#ff0000>moved</color> and the <aqua>teleport</aqua> was <color:#ff0000>cancelled!</color></color>"
     },
     "RTP.searching": {
-        "de-DE": "<color:#96a7b2>Suche nach einem <aqua>geeigneten</aqua> Ort...</color>",
-        "en-US": "<color:#96a7b2>Searching for a <aqua>suitable</aqua> location...</color>"
+        "de-DE": "<color:#96a7b2>Suche nach einem <aqua>geeigneten</aqua> Ort... Bewege dich <color:#ff0000>NICHT!</color></color>",
+        "en-US": "<color:#96a7b2>Searching for a <aqua>suitable</aqua> location... Do <color:#ff0000>NOT</color> move!</color>"
     },
     "RTP.error.noSuitableLocation": {
         "de-DE": "<color:#96a7b2>Es konnte <color:#ff0000>kein</color> geeigneter Ort gefunden werden!</color>",
