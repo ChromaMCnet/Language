@@ -1,11 +1,11 @@
 {
     "GENERAL.death.no.entity": {
-        "de-DE": "<color:#ff2814>☠</color> <aqua>[player]</aqua> ist an <color:#ff0000>[reason]</color> gestorben.",
-        "en-US": "<color:#ff2814>☠</color> <aqua>[player]</aqua> died from <color:#ff0000>[reason]</color>."
+        "de-DE": "<color:#96a7b2><color:#ff0000>☠</color> <aqua>[player]</aqua> ist an <color:#ff0000>[reason]</color> gestorben.</color>",
+        "en-US": "<color:#96a7b2><color:#ff0000>☠</color> <aqua>[player]</aqua> died from <color:#ff0000>[reason]</color></color>."
     },
     "GENERAL.death.entity": {
-        "de-DE": "<color:#ff2814>☠</color> <aqua>[player]</aqua> wurde von <aqua>[entity]</aqua> <color:#ff0000>getötet.</color>",
-        "en-US": "<color:#ff2814>☠</color> <aqua>[player]</aqua> was <color:#ff0000>killed</color> by <aqua>[entity]</aqua>."
+        "de-DE": "<color:#96a7b2><color:#ff0000>☠</color> <aqua>[player]</aqua> wurde von <aqua>[entity]</aqua> <color:#ff0000>getötet.</color></color>",
+        "en-US": "<color:#96a7b2><color:#ff0000>☠</color> <aqua>[player]</aqua> was <color:#ff0000>killed</color> by <aqua>[entity]</aqua></color>."
     },
     "GENERAL.join.first": {
         "de-DE": "<color:#96a7b2>ist zum ersten mal auf unserem <aqua>SMP.</aqua> Wir heißen ihn herzlich willkommen! Er ist Spieler <aqua>[joins]!</aqua></color>",
