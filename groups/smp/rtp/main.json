@@ -6,5 +6,13 @@
     "RTP.success": {
         "de-DE": "<color:#96a7b2>Du wurdest <color:#4bfb00>erfolgreich</color> <aqua>teleportiert</aqua>!</color>",
         "en-US": "<color:#96a7b2>You have been <color:#4bfb00>successfully</color> <aqua>teleported</aqua>!</color>"
+    },
+    "RTP.searching": {
+        "de-DE": "<color:#96a7b2>Suche nach einem <aqua>geeigneten</aqua> Ort...</color>",
+        "en-US": "<color:#96a7b2>Searching for a <aqua>suitable</aqua> location...</color>"
+    },
+    "RTP.error.noSuitableLocation": {
+        "de-DE": "<color:#96a7b2>Es konnte <color:#ff0000>kein</color> geeigneter Ort gefunden werden!</color>",
+        "en-US": "<color:#96a7b2>There could be <color:#ff0000>no</color> suitable location found!</color>"
     }
 }
