@@ -1,0 +1,14 @@
+{
+    "KIT.give.error.inv.full": {
+        "de-DE": "<color:#96a7b2>Dein <aqua>Inventar</aqua> ist zu <color:#ff0000>voll</color> um das Starterkit zu erhalten! Leere dein <aqua>Inventar</aqua> und versuche es erneut!</color>",
+        "en-US": "<color:#96a7b2>Your <aqua>inventory</aqua> is too <color:#ff0000>full</color> to receive the starter kit! Empty your <aqua>inventory</aqua> and try again!</color>"
+    },
+    "KIT.death.use": {
+        "de-DE": "<color:#96a7b2>Du kannst das <aqua>Starterkit</aqua> nun wieder bekommen, da du <color:#ff0000>gestorben</color> bist!</color>",
+        "en-US": "<color:#96a7b2>You can get use the <aqua>starter kit</aqua> again, as you have <color:#ff0000>died</color>!</color>"
+    },
+    "KIT.death.use.error": {
+        "de-DE": "<color:#96a7b2>Du kannst das <aqua>Starterkit</aqua> nur bekommen, wenn du <color:#ff0000>gestorben</color> bist!</color>",
+        "en-US": "<color:#96a7b2>You can only get the <aqua>starter kit</aqua> if you have <color:#ff0000>died</color>!</color>"
+    }
+}
