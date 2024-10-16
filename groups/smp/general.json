@@ -6,5 +6,9 @@
     "GENERAL.scoreboard.deaths": {
         "de-DE": "Tode",
         "en-US": "Deaths"
+    },
+    "GENERAL.spawn.leave": {
+        "de-DE": "<color:#96a7b2>Drücke <aqua><key:key.jump></aqua> für einen <aqua>boost!</aqua></color>",
+        "en-US": "<color:#96a7b2>Press <aqua><key:key.jump></aqua> for a <aqua>boost!</aqua></color>"
     }
 }
