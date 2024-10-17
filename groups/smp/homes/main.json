@@ -24,8 +24,8 @@
         "en-US": "<i:false><color:#96a7b2>Click to <color:#ff0000>delete</color> all your <aqua>homes.</aqua><br><color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color>"
     },
     "HOMES.list.gui.item.home.lore": {
-        "de-DE": "<i:false><color:#96a7b2><br>[blue]Location: X:</color> [x] [blue]Y:</color> [y] [blue]Z:</color> [z] [blue]Welt:</color> [world]</color><br>[blue]Server:</color> [server]<br>[blue]Aktiviert:</color> [status]<br><br>Klicke um dieses [blue]Home</color> zu [blue]verwalten</color></color>",
-        "en-US": "<i:false><color:#96a7b2><br>[blue]Location: X:</color> [x] [blue]Y:</color> [y] [blue]Z:</color> [z] [blue]World:</color> [world]</color><br>[blue]Server:</color> [server]<br>[blue]Enabled:</color> [status]<br><br>Click to [blue]manage</blue> this [blue]home</blue></color>"
+        "de-DE": "<i:false><color:#96a7b2><br>[blue]Location: X:</color> [x] [blue]Y:</color> [y] [blue]Z:</color> [z] [blue]Welt:</color> [world]<br>[blue]Server:</color> [server]<br>[blue]Aktiviert:</color> [status]<br><br>Klicke um dieses [blue]Home</color> zu [blue]verwalten</color></color>",
+        "en-US": "<i:false><color:#96a7b2><br>[blue]Location: X:</color> [x] [blue]Y:</color> [y] [blue]Z:</color> [z] [blue]World:</color> [world]<br>[blue]Server:</color> [server]<br>[blue]Enabled:</color> [status]<br><br>Click to [blue]manage</blue> this [blue]home</blue></color>"
     },
     "HOMES.manage.gui.title": {
         "de-DE": "<color:#96a7b2>[blue]Verwalte</color> das [blue]Home</color> <aqua>[name]</aqua></color>",
