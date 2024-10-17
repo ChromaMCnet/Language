@@ -10,5 +10,17 @@
     "GENERAL.spawn.leave": {
         "de-DE": "<color:#96a7b2>Drücke <aqua><key:key.sneak></aqua> für einen <aqua>boost!</aqua></color>",
         "en-US": "<color:#96a7b2>Press <aqua><key:key.sneak></aqua> for a <aqua>boost!</aqua></color>"
+    },
+    "GENERAL.death.use.back": {
+        "de-DE": "<color:#96a7b2>Nutze [blue]/back</color> um zu deinem Todespunkt zurück zu gelangen!</color>",
+        "en-US": "<color:#96a7b2>Use [blue]/back</color> to return to your deathlocation!</color>"
+    },
+    "GENERAL.cmd.back.notfound": {
+        "de-DE": "<color:#96a7b2>Es wurde kein Todespunkt gefunden!</color>",
+        "en-US": "<color:#96a7b2>No deathlocation found!</color>"
+    },
+    "GENERAL.cmd.back.teleport": {
+        "de-DE": "<color:#96a7b2>Teleportiere zu deinem Todespunkt...</color>",
+        "en-US": "<color:#96a7b2>Telporting to your deathlocation...</color>"
     }
 }
