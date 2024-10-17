@@ -25,7 +25,7 @@
     },
     "HOMES.list.gui.item.home.lore": {
         "de-DE": "<i:false><color:#96a7b2><br>[blue]Location: X:</color> [x] [blue]Y:</color> [y] [blue]Z:</color> [z] [blue]Welt:</color> [world]</color><br>[blue]Server:</color> [server]<br>[blue]Aktiviert:</color> [status]<br><br>Klicke um dieses [blue]Home</color> zu [blue]verwalten</color></color>",
-        "en-US": "<i:false><color:#96a7b2><br>[blue]Location: X:</color> [x] [blue]Y:</color> [y] [blue]Z:</color> [z] [blue]World:</color> [world]</color><br>[blue]Server:</color> [server]<br>[blue]Enabled:</color> [status]<br><br>Click to <blue>manage</blue> this <blue>home</blue></color>"
+        "en-US": "<i:false><color:#96a7b2><br>[blue]Location: X:</color> [x] [blue]Y:</color> [y] [blue]Z:</color> [z] [blue]World:</color> [world]</color><br>[blue]Server:</color> [server]<br>[blue]Enabled:</color> [status]<br><br>Click to [blue]manage</blue> this [blue]home</blue></color>"
     },
     "HOMES.manage.gui.title": {
         "de-DE": "<color:#96a7b2>[blue]Verwalte</color> das [blue]Home</color> <aqua>[name]</aqua></color>",
@@ -38,5 +38,21 @@
     "HOMES.list.gui.admin.disable.all.lore": {
         "de-DE": "<i:false><color:#96a7b2>Klicke um alle <aqua>homes</aqua> zu <color:#ff0000>deaktivieren.</color><br><color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color>",
         "en-US": "<i:false><color:#96a7b2>Click to <color:#ff0000>disable</color> all <aqua>homes.</aqua><br><color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color>"
+    },
+    "HOMES.manage.gui.item.teleport.name": {
+        "de-DE": "<i:false><color:#96a7b2>Teleportieren</color>",
+        "en-US": "<i:false><color:#96a7b2>Teleport</color>"
+    },
+    "HOMES.manage.gui.item.teleport.lore": {
+        "de-DE": "<i:false>[blue]Klicke</color> um dich zu deinem [blue]Home</color> zu [blue]teleportieren</color></color>",
+        "en-US": "<i:false>[blue]Click</color> to [blue]teleport</color> to your [blue]home</color></color>"
+    },
+    "HOMES.manage.gui.item.delete.name": {
+        "de-DE": "<i:false><color:#96a7b2>Löschen</color>",
+        "en-US": "<i:false><color:#96a7b2>Delete</color>"
+    },
+    "HOMES.manage.gui.item.delete.lore": {
+        "de-DE": "<i:false>[blue]Klicke</color> um dieses [blue]Home</color> zu [blue]löschen</color><br><color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color>",
+        "en-US": "<i:false>[blue]Click</color> to [blue]delete</color> this [blue]home</color></color><br><color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color>"
     }
 }
