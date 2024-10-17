@@ -11,7 +11,7 @@
         "de-DE": "<color:#96a7b2>Dein Home <aqua>[home]</aqua> wurde <color:#4bfb00>erfolgreich</color> erstellt!</color>",
         "en-US": "<color:#96a7b2>Your home <aqua>[home]</aqua> has been created <color:#4bfb00>successfully!</color></color>"
     },
-    "HOMES.create.limit": {
+    "HOMES.create.error.limit": {
         "de-DE": "<color:#96a7b2>Du hast bereits das <yellow>Maximum an Homes</yellow> <dark_grey>([[blue][limit]</color>)</dark_grey> erreicht!</color>",
         "en-US": "<color:#96a7b2>You have already reached the [yellow]maximum limit of homes</color> <dark_grey>([[blue][limit]</color>)</dark_grey>!</color>"
     },
