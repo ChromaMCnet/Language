@@ -15,6 +15,10 @@
         "de-DE": "<color:#96a7b2>Du hast bereits das <yellow>Maximum an Homes</yellow> <dark_grey>([red][limit]</color> [grey]/</color> [green][max]</color>)</dark_grey> erreicht!</color>",
         "en-US": "<color:#96a7b2>You have already reached the [yellow]maximum limit of homes</color> <dark_grey>([[blue][limit]</color>)</dark_grey>!</color>"
     },
+    "HOMES.view.self.error": {
+        "de-DE": "<color:#96a7b2>DU kannst deine [blue]eigenen Homes</color> nicht im [red]Admin-Modus</color> anschauen!</color>",
+        "en-US": "<color:#96a7b2>You can't view your [blue]own homes</color> in [red]Admin mode!</color></color>"
+    },
     "HOMES.delete.success": {
         "de-DE": "<color:#96a7b2>Dein Home <aqua>[home]</aqua> wurde <color:#4bfb00>erfolgreich</color> gelöscht!</color>",
         "en-US": "<color:#96a7b2>Your home <aqua>[home]</aqua> has been deleted <color:#4bfb00>successfully!</color></color>"
