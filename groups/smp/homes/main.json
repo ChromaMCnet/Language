@@ -23,6 +23,10 @@
         "de-DE": "<color:#96a7b2>Dein Home <aqua>[home]</aqua> wurde <color:#4bfb00>erfolgreich</color> gelöscht!</color>",
         "en-US": "<color:#96a7b2>Your home <aqua>[home]</aqua> has been deleted <color:#4bfb00>successfully!</color></color>"
     },
+    "HOMES.disable.all.success": {
+        "de-DE": "<color:#96a7b2>Du hast [green]erfolgreich</color> alle [blue]Homes</color> des Spielers [blue][player]</color> [red]deaktiviert!</color></color>",
+        "en-US": "<color:#96a7b2>You have [green]successfully</color> disabled all [blue]homes</color> of [blue][player]!</color></color>"
+    },
     "HOMES.list.gui.item.delete.all.name": {
         "de-DE": "<i:false><color:#96a7b2>Alle Homes <color:#ff0000>löschen</color></color>",
         "en-US": "<i:false><color:#96a7b2><color:#ff0000>Delete</color> all homes</color>"
@@ -82,5 +86,17 @@
     "HOMES.confirm.delete.all.gui.cancel.lore": {
         "de-DE": "<br><i:false><color:#96a7b2>Klicke um den <color:#ff0000>Löschvorgang</color> abzubrechen</color><br>",
         "en-US": "<br><i:false><color:#96a7b2>Click to cancel the <color:#ff0000>deletion</color> process</color><br>"
+    },
+    "HOMES.teleport.error.exist": {
+        "de-DE": "<color:#96a7b2>Das [blue]Home,</color> zu welchem du dich [blue]teleportieren</color> willst, existiert [red]nicht</color> mehr!</color>",
+        "en-US": "<color:#96a7b2>The [blue]home</color> you want to [blue]teleport</color> to doesn't exist [red]anymore!</color></color>"
+    },
+    "HOMES.confirm.delete.all.success": {
+        "de-DE": "<color:#96a7b2>Du hast [green]erfolgreich</color> alle [blue]Homes</color> gelöscht!</color>",
+        "en-US": "<color:#96a7b2>You have [green]successfully</color> deleted all [blue]homes!</color></color>"
+    },
+    "HOMES.confirm.delete.all.cancel": {
+        "de-DE": "<color:#96a7b2>Der <color:#ff0000>Löschvorgang</color> wurde <color:#ff0000>abgebrochen!</color></color>",
+        "en-US": "<color:#96a7b2>The <color:#ff0000>deletion</color> process has been <color:#ff0000>canceled!</color></color>"
     }
 }
