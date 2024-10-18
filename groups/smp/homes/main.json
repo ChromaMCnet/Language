@@ -29,7 +29,7 @@
     },
     "HOMES.list.gui.item.home.lore": {
         "de-DE": "<br><i:false><color:#96a7b2>[blue]Welt:</color> [world]<br><i:false><color:#96a7b2>[blue]Server:</color> [server]<br><i:false><color:#96a7b2>[blue]Aktiviert:</color> [status]<br><br><i:false><color:#96a7b2>Klicke um dieses [blue]Home</color> zu [blue]verwalten</color></color><br>",
-        "en-US": "<br><i:false><color:#96a7b2>[blue]World:</color> [world]<br><i:false><color:#96a7b2>[blue]Server:</color> [server]<br><i:false><color:#96a7b2>[blue]Enabled:</color> [status]<br><br><i:false><color:#96a7b2>Click to [blue]manage</blue> this [blue]home</blue></color><br>"
+        "en-US": "<br><i:false><color:#96a7b2>[blue]World:</color> [world]<br><i:false><color:#96a7b2>[blue]Server:</color> [server]<br><i:false><color:#96a7b2>[blue]Enabled:</color> [status]<br><br><i:false><color:#96a7b2>Click to [blue]manage</color> this [blue]home</color></color><br>"
     },
     "HOMES.manage.gui.title": {
         "de-DE": "<color:#96a7b2>[blue]Verwalte</color> das [blue]Home</color> <aqua>[name]</aqua></color>",
