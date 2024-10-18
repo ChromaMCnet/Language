@@ -35,11 +35,11 @@
         "de-DE": "<color:#96a7b2>[blue]Verwalte</color> das [blue]Home</color> <aqua>[name]</aqua></color>",
         "en-US": "<color:#96a7b2>[blue]Manage</color> the [blue]home</color> <aqua>[name]</aqua></color>"
     },
-    "HOMES.list.gui.admin.disable.all.name": {
+    "HOMES.list.gui.item.admin.disable.all.name": {
         "de-DE": "<i:false><color:#96a7b2>Alle Homes <color:#ff0000>deaktivieren</color></color>",
         "en-US": "<i:false><color:#96a7b2><color:#ff0000>Disable</color> all homes</color>"
     },
-    "HOMES.list.gui.admin.disable.all.lore": {
+    "HOMES.list.gui.item.admin.disable.all.lore": {
         "de-DE": "<i:false><color:#96a7b2>Klicke um alle <aqua>homes</aqua> zu <color:#ff0000>deaktivieren.</color><br><color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color>",
         "en-US": "<i:false><color:#96a7b2>Click to <color:#ff0000>disable</color> all <aqua>homes.</aqua><br><color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color>"
     },
