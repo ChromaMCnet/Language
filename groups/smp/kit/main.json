@@ -14,5 +14,9 @@
     "KIT.give": {
         "de-DE": "<color:#96a7b2>Du hast das <aqua>Starterkit</aqua> erhalten!</color>",
         "en-US": "<color:#96a7b2>You have received the <aqua>starter kit</aqua>!</color>"
+    },
+    "KIT.error.cooldown": {
+        "de-DE": "<color:#96a7b2>Du musst noch [blue][time]</color> warten, bevor du das <aqua>Starterkit</aqua> erneut erhalten kannst!</color>",
+        "en-US": "<color:#96a7b2>You have to wait [blue][time]</color> before you can receive the <aqua>starter kit</aqua> again!</color>"
     }
 }
