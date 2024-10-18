@@ -63,11 +63,11 @@
         "de-DE": "<color:#96a7b2>Du siehst nun <aqua>keine Spieler</aqua> mehr!</color>",
         "en-US": "<color:#96a7b2>You can now see <aqua>no players</aqua> anymore!</color>"
     },
-    "SPEEDEFFECT.enable": {
+    "SPEEDEFFECT.disable": {
         "de-DE": "<color:#96a7b2>Du hast den <aqua>Geschwindigkeitseffekt</aqua> erfolgreich <color:#4bfb00>aktiviert!</color></color>",
         "en-US": "<color:#96a7b2>You have successfully <color:#4bfb00>enabled</color> the <aqua>speed effect!</aqua></color>"
     },
-    "SPEEDEFFECT.disable": {
+    "SPEEDEFFECT.enable": {
         "de-DE": "<color:#96a7b2>Du hast den <aqua>Geschwindigkeitseffekt</aqua> erfolgreich <color:#ff0000>deaktiviert!</color></color>",
         "en-US": "<color:#96a7b2>You have successfully <color:#ff0000>disabled</color> the <aqua>speed effect!</aqua></color>"
     }
