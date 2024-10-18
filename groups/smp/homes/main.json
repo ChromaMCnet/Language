@@ -12,7 +12,7 @@
         "en-US": "<color:#96a7b2>Your home <aqua>[home]</aqua> has been created <color:#4bfb00>successfully!</color></color>"
     },
     "HOMES.create.error.limit": {
-        "de-DE": "<color:#96a7b2>Du hast bereits das <yellow>Maximum an Homes</yellow> <dark_grey>([[blue][limit]</color>)</dark_grey> erreicht!</color>",
+        "de-DE": "<color:#96a7b2>Du hast bereits das <yellow>Maximum an Homes</yellow> <dark_grey>([[red][limit]</color> / [red][max]</color)</dark_grey> erreicht!</color>",
         "en-US": "<color:#96a7b2>You have already reached the [yellow]maximum limit of homes</color> <dark_grey>([[blue][limit]</color>)</dark_grey>!</color>"
     },
     "HOMES.delete.success": {
@@ -48,15 +48,35 @@
         "en-US": "<i:false>[blue]Teleport</color>"
     },
     "HOMES.manage.gui.item.teleport.lore": {
-        "de-DE": "<i:false>[blue]Klicke</color> um dich zu deinem [blue]Home</color> zu [blue]teleportieren</color></color>",
-        "en-US": "<i:false>[blue]Click</color> to [blue]teleport</color> to your [blue]home</color></color>"
+        "de-DE": "<br><i:false>[blue]Klicke</color> um dich zu deinem [blue]Home</color> zu [blue]teleportieren</color></color><br>",
+        "en-US": "<br><i:false>[blue]Click</color> to [blue]teleport</color> to your [blue]home</color></color><br>"
     },
     "HOMES.manage.gui.item.delete.name": {
         "de-DE": "<i:false><color:#96a7b2>Löschen</color>",
         "en-US": "<i:false><color:#96a7b2>Delete</color>"
     },
     "HOMES.manage.gui.item.delete.lore": {
-        "de-DE": "<i:false>[blue]Klicke</color> um dieses [blue]Home</color> zu [blue]löschen</color><br><color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color>",
-        "en-US": "<i:false>[blue]Click</color> to [blue]delete</color> this [blue]home</color></color><br><color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color>"
+        "de-DE": "<br><i:false>[blue]Klicke</color> um dieses [blue]Home</color> zu [blue]löschen</color><br><color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color><br>",
+        "en-US": "<br><i:false>[blue]Click</color> to [blue]delete</color> this [blue]home</color></color><br><color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color><br>"
+    },
+    "HOMES.confirm.delete.all.gui.title": {
+        "de-DE": "<color:#96a7b2>Alle Homes <color:#ff0000>löschen</color></color>",
+        "en-US": "<color:#96a7b2><color:#ff0000>Delete</color> all homes</color>"
+    },
+    "HOMES.confirm.delete.all.gui.confirm.name": {
+        "de-DE": "<i:false><color:#96a7b2>Bestätigen</color>",
+        "en-US": "<i:false><color:#96a7b2>Confirm</color>"
+    },
+    "HOMES.confirm.delete.all.gui.confirm.lore": {
+        "de-DE": "<i:false><color:#96a7b2>Klicke um alle deine <aqua>homes</aqua> zu <color:#ff0000>löschen.</color><br><color:#ff0000>Aufpassen:</color> Dies kann <color:#ff0000>NICHT</color> rückgängig gemacht werden!</color>",
+        "en-US": "<i:false><color:#96a7b2>Click to <color:#ff0000>delete</color> all your <aqua>homes.</aqua><br><color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color>"
+    },
+    "HOMES.confirm.delete.all.gui.cancel.name": {
+        "de-DE": "<i:false><color:#96a7b2>Abbrechen</color>",
+        "en-US": "<i:false><color:#96a7b2>Cancel</color>"
+    },
+    "HOMES.confirm.delete.all.gui.cancel.lore": {
+        "de-DE": "<i:false><color:#96a7b2>Klicke um den <color:#ff0000>Löschvorgang</color> abzubrechen</color>",
+        "en-US": "<i:false><color:#96a7b2>Click to cancel the <color:#ff0000>deletion</color> process</color>"
     }
 }
