@@ -15,7 +15,7 @@
         "de-DE": "Beleidigende Sprache",
         "en-US": "Offensive Language",
         "permission": "chromamc.punish.mute.offensive_language",
-        "type": ["mute", "kick"],
+        "type": ["mute", "kick", "bans"],
         "durations": [
             "1h",
             "3h",
