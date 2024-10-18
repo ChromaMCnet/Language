@@ -22,5 +22,9 @@
     "RTP.error.world.only.overworld": {
         "de-DE": "<color:#96a7b2>Du kannst den <aqua>/rtp</aqua> Command nur in der <dark_green>Overworld</dark_gree> nutzen!</color>",
         "en-US": "<color:#96a7b2>You can only use the <aqua>/rtp</aqua> command in the <dark_green>Overworld</dark_green>!</color>"
+    },
+    "RTP.error.movement": {
+        "de-DE": "<color:#96a7b2>Der <aqua>Teleport</aqua> wurde <color:#ff0000>abgebrochen</color>, da du dich bewegt hast!</color>",
+        "en-US": "<color:#96a7b2>The <aqua>teleport</aqua> was <color:#ff0000>cancelled</color> because you moved!</color>"
     }
 }
