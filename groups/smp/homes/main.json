@@ -52,7 +52,7 @@
         "en-US": "<br><i:false><color:#96a7b2>Click to <color:#ff0000>disable</color> all <aqua>homes.</aqua><br><i:false><color:#96a7b2><color:#ff0000>Attention:</color> This can <color:#ff0000>NOT</color> be undone!</color><br>"
     },
     "HOMES.manage.gui.item.teleport.name": {
-        "de-DE": "<i:false><color:#96a7b2>Zu deinem Home [blue]teleportieren</color</color>",
+        "de-DE": "<i:false><color:#96a7b2>Zu deinem Home [blue]teleportieren</color></color>",
         "en-US": "<i:false><color:#96a7b2>[blue]Teleport</color> to your home</color>"
     },
     "HOMES.manage.gui.item.teleport.lore": {
