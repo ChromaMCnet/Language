@@ -5,10 +5,11 @@
         "permission": "chromamc.punish.ban.illegal_client_modifications",
         "type": ["ban"],
         "durations": [
+            "1w",
             "2w",
-            "1m",
-            "3m",
-            "6m"
+            "1M",
+            "3M",
+            "6M"
         ]
     },
     "OFFENSIVE_LANGUAGE": {
@@ -56,11 +57,14 @@
         "permission": "chromamc.punish.ban.teaming",
         "type": ["ban", "kick"],
         "durations": [
+            "1h",
+            "6h",
+            "12h",
             "1d",
             "3d",
             "1w",
             "2w",
-            "1m"
+            "1M"
         ]
     },
     "UNNECESSARY_OVERLOADING_SERVER": {
@@ -69,12 +73,11 @@
         "permission": "chromamc.punish.ban.unnecessary_overloading_server",
         "type": ["ban"],
         "durations": [
-            "1d",
-            "3d",
             "1w",
             "2w",
-            "1m",
-            "3m"
+            "1M",
+            "3M",
+            "6M"
         ]
     },
     "ALT_ACCOUNT_USING": {
@@ -87,7 +90,7 @@
             "3d",
             "1w",
             "2w",
-            "1m"
+            "1M"
         ]
     },
     "GRIEFING": {
@@ -100,8 +103,8 @@
             "3d",
             "1w",
             "2w",
-            "1m",
-            "3m"
+            "1M",
+            "3M"
         ]
     },
     "REAL_MONEY_TRADING": {
@@ -123,7 +126,7 @@
             "3d",
             "1w",
             "2w",
-            "1m"
+            "1M"
         ]
     },
     "ACCOUNT_SELLING": {
@@ -145,7 +148,7 @@
             "3d",
             "1w",
             "2w",
-            "1m"
+            "1M"
         ]
     },
     "BUG_ABUSE": {
@@ -154,11 +157,14 @@
         "permission": "chromamc.punish.ban.bug_abuse",
         "type": ["ban"],
         "durations": [
+            "1h",
+            "2h",
+            "12h",
             "1d",
             "3d",
             "1w",
             "2w",
-            "1m"
+            "1M"
         ]
     },
     "PERMS_ABUSE": {
@@ -171,7 +177,7 @@
             "3d",
             "1w",
             "2w",
-            "1m"
+            "1M"
         ]
     },
     "BEGGING_FOR_RANK_OR_EXTRA_PERMS": {
@@ -198,7 +204,7 @@
             "3d",
             "1w",
             "2w",
-            "1m"
+            "1M"
         ]
     },
     "BYPASSING_PUNISHMENTS": {
@@ -211,7 +217,9 @@
             "3d",
             "1w",
             "2w",
-            "1m"
+            "1M",
+            "2M",
+            "6M"
         ]
     },
     "SUPPORT_ABUSE": {
@@ -224,7 +232,7 @@
             "3d",
             "1w",
             "2w",
-            "1m"
+            "1M"
         ]
     },
     "DOXXING": {
@@ -241,15 +249,6 @@
         "en-US": "Excluded from playing",
         "permission": "chromamc.punish.ban.hausverbot",
         "type": ["ban"],
-        "durations": [
-            "permanent"
-        ]
-    },
-    "VERY_GOOD_ROLEPLAY": {
-        "de-DE": "Sehr gutes ROLLENSPIEL",
-        "en-US": "Sehr gutes ROLLENSPIEL",
-        "permission": "chromamc.punish.ban.very_good_roleplay",
-        "type": ["ban", "kick", "mute"],
         "durations": [
             "permanent"
         ]
