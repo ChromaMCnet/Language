@@ -12,8 +12,8 @@
         "en-US": "<color:#96a7b2>You <color:#ff0000>moved</color> and the <aqua>teleport</aqua> was <color:#ff0000>cancelled!</color></color>"
     },
     "RTP.searching": {
-        "de-DE": "<color:#96a7b2>Suche nach einem <aqua>geeigneten</aqua> Ort... Bewege dich <color:#ff0000>NICHT!</color></color>",
-        "en-US": "<color:#96a7b2>Searching for a <aqua>suitable</aqua> location... Do <color:#ff0000>NOT</color> move!</color>"
+        "de-DE": "<color:#96a7b2>Suche nach einem <aqua>geeigneten</aqua> Ort...</color>",
+        "en-US": "<color:#96a7b2>Searching for a <aqua>suitable</aqua> location...</color>"
     },
     "RTP.error.noSuitableLocation": {
         "de-DE": "<color:#96a7b2>Es konnte <color:#ff0000>kein</color> geeigneter Ort gefunden werden!</color>",
