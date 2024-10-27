@@ -23,6 +23,10 @@
         "de-DE": "<color:#96a7b2>Die [blue]TPA</color> an [blue][player]</color> ist abgelaufen!</color>",
         "en-US": "<color:#96a7b2>The [blue]TPA</color> to [blue][player] has expired!</color>"
     },
+    "TPA.request.timeout.other": {
+        "de-DE": "<color:#96a7b2>Die [blue]TPA</color> von [blue][player]</color> ist abgelaufen!</color>",
+        "en-US": "<color:#96a7b2>The [blue]TPA</color> von [blue][player] has expired!</color>"
+    },
     "TPA.request.teleport": {
         "de-DE": "<color:#96a7b2>Du wurdest zu [blue][player]</color> teleportiert!</color>",
         "en-US": "<color:#96a7b2>You've been teleported to [blue][player]!</color>"
@@ -34,5 +38,9 @@
     "TPA.request.cancel.other": {
         "de-DE": "<color:#96a7b2>[player]</color> hat die [blue]TPA</color> abgebrochen!</color>",
         "en-US": "<color:#96a7b2>[player]</color> has cancelled the [blue]TPA</color>!</color>"
+    },
+    "TPA.no.request": {
+        "de-DE": "<color:#96a7b2>Du hast keine [blue]TPA</color> Anfragen!</color>",
+        "en-US": "<color:#96a7b2>You have no [blue]TPA</color> requests!</color>"
     }
 }
