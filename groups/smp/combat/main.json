@@ -1,8 +1,4 @@
 {
-    "COMBAT.login.logout": {
-        "de-DE": "<color:#96a7b2>Da du dich im [blue]Kampf</color> ausgeloggt hast, bist du <color:#ff0000>gestorben!</color></color>",
-        "en-US": "<color:#96a7b2>Since you logged out in [blue]combat</color>, you <color:#ff0000>died!</color></color>"
-    },
     "COMBAT.kill.logout": {
         "de-DE": "<color:#96a7b2>[blue][player]</color> hat sich im <color:#ff0000>Kampf</color> ausgeloggt und ist deswegen <color:#ff0000>gestorben!</color></color>",
         "en-US": "<color:#96a7b2>[blue][player]</color> logged out in <color:#ff0000>combat</color> and therefore <color:#ff0000>died!</color></color>"
