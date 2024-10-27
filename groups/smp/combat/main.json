@@ -1,0 +1,22 @@
+{
+    "COMBAT.login.logout": {
+        "de-DE": "<color:#96a7b2>Da du dich im [blue]Kampf</color> ausgeloggt hast, bist du <color:#ff0000>gestorben!</color></color>",
+        "en-US": "<color:#96a7b2>Since you logged out in [blue]combat</color>, you <color:#ff0000>died!</color></color>"
+    },
+    "COMBAT.kill.logout": {
+        "de-DE": "<color:#96a7b2>[blue][player]</color> hat sich im <color:#ff0000>Kampf</color> ausgeloggt und ist deswegen <color:#ff0000>gestorben!</color></color>",
+        "en-US": "<color:#96a7b2>[blue][player]</color> logged out in <color:#ff0000>combat</color> and therefore <color:#ff0000>died!</color></color>"
+    },
+    "COMBAT.command.blocked": {
+        "de-DE": "<color:#96a7b2>Der Befehl <color:#ff0000>[blue]/[command]</color> ist im <color:#ff0000>Kampf</color> deaktiviert!</color>",
+        "en-US": "<color:#96a7b2>The command <color:#ff0000>[blue]/[command]</color> is disabled in <color:#ff0000>combat!</color></color>"
+    },
+    "COMBAT.disabled": {
+        "de-DE": "<color:#96a7b2>Du bist nun <color:#ff0000>nicht mehr</color> in einem <color:#ff0000>Kampf!</color></color>",
+        "en-US": "<color:#96a7b2>You are now <color:#ff0000>no longer</color> in <color:#ff0000>combat!</color></color>"
+    },
+    "COMBAT.enabled": {
+        "de-DE": "<color:#96a7b2>Du <color:#ff0000>kämpfst</color> nun mit [blue][player]!</color></color>",
+        "en-US": "<color:#96a7b2>You are now <color:#ff0000>in combat</color> with [blue][player]!</color></color>"
+    }
+}

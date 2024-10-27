@@ -1,0 +1,38 @@
+{
+    "TPA.request.send:": {
+        "de-DE": "<color:#96a7b2>Du hast eine [blue]TPA</color> and [blue][player]</color> gesendet!</color>",
+        "en-US": "<color:#96a7b2>You've sent a [blue]TPA</color> request to [blue][player]!</color></color>"
+    },
+    "TPA.request.receive": {
+        "de-DE": "<color:#96a7b2>[player]</color> hat dir eine [blue]TPA</color> gesendet!<br>                         <color:#4bfb00><b><click:run_command:'/tpaccept [player]'>[ANNEHMEN]</click></b></color> - <color:#FF0000><b><click:run_command:'/tpdeny [player]'>[ABLEHNEN]</click></b></color></color>",
+        "en-US": "<color:#96a7b2>[player]</color> has sent you a [blue]TPA!</color><br>                         <color:#4bfb00><b><click:run_command:'/tpaccept [player]'>[ACCEPT]</click></b></color> - <color:#FF0000><b><click:run_command:'/tpdeny [player]'>[DENY]</click></b></color></color>"
+    },
+    "TPA.request.accept": {
+        "de-DE": "<color:#96a7b2>Du hast die [blue]TPA</color> von [blue][player]</color> angenommen!</color>",
+        "en-US": "<color:#96a7b2>You've accepted the [blue]TPA</color> from [blue][player]!</color>"
+    },
+    "TPA.request.deny": {
+        "de-DE": "<color:#96a7b2>Du hast die [blue]TPA</color> von [blue][player]</color> abgelehnt!</color>",
+        "en-US": "<color:#96a7b2>You've denied the [blue]TPA</color> from [blue][player]!</color>"
+    },
+    "TPA.request.cancel": {
+        "de-DE": "<color:#96a7b2>Du hast die [blue]TPA</color> an [blue][player]</color> abgebrochen!</color>",
+        "en-US": "<color:#96a7b2>You've cancelled the [blue]TPA</color> to [blue][player]!</color>"
+    },
+    "TPA.request.timeout": {
+        "de-DE": "<color:#96a7b2>Die [blue]TPA</color> an [blue][player]</color> ist abgelaufen!</color>",
+        "en-US": "<color:#96a7b2>The [blue]TPA</color> to [blue][player] has expired!</color>"
+    },
+    "TPA.request.teleport": {
+        "de-DE": "<color:#96a7b2>Du wurdest zu [blue][player]</color> teleportiert!</color>",
+        "en-US": "<color:#96a7b2>You've been teleported to [blue][player]!</color>"
+    },
+    "TPA.request.deny.other": {
+        "de-DE": "<color:#96a7b2>[player]</color> hat deine [blue]TPA</color> abgelehnt!</color>",
+        "en-US": "<color:#96a7b2>[player]</color> has denied your [blue]TPA</color>!</color>"
+    },
+    "TPA.request.cancel.other": {
+        "de-DE": "<color:#96a7b2>[player]</color> hat die [blue]TPA</color> abgebrochen!</color>",
+        "en-US": "<color:#96a7b2>[player]</color> has cancelled the [blue]TPA</color>!</color>"
+    }
+}
