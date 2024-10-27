@@ -1,5 +1,5 @@
 {
-    "TPA.request.send:": {
+    "TPA.request.send": {
         "de-DE": "<color:#96a7b2>Du hast eine [blue]TPA</color> and [blue][player]</color> gesendet!</color>",
         "en-US": "<color:#96a7b2>You've sent a [blue]TPA</color> request to [blue][player]!</color></color>"
     },
@@ -57,6 +57,6 @@
     },
     "TPA.request.error.self": {
         "de-DE": "<color:#96a7b2>Du kannst dir nicht selber eine [blue]TPA</color> senden!</color",
-        "en-US": "<color:#96a7b2>you can not send yourself a [blue]TPA!</color></color",
+        "en-US": "<color:#96a7b2>you can not send yourself a [blue]TPA!</color></color"
     }
 }
