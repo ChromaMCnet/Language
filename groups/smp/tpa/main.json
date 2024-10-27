@@ -56,7 +56,7 @@
         "en-US": "<color:#96a7b2>[blue][player]</color> has already received a [blue]TPA</color> request from someone else!</color>"
     },
     "TPA.request.error.self": {
-        "de-DE": "<color:#96a7b2>Du kannst dir nicht selber eine [blue]TPA</color> senden!</color",
-        "en-US": "<color:#96a7b2>you can not send yourself a [blue]TPA!</color></color"
+        "de-DE": "<color:#96a7b2>Du kannst dir nicht selber eine [blue]TPA</color> senden!</color>",
+        "en-US": "<color:#96a7b2>you can not send yourself a [blue]TPA!</color></color>"
     }
 }
