@@ -43,7 +43,7 @@
         "de-DE": "<color:#96a7b2>Du hast keine [blue]TPA</color> Anfragen!</color>",
         "en-US": "<color:#96a7b2>You have no [blue]TPA</color> requests!</color>"
     },
-    "TPA.request.already": {
+    "TPA.request.already.sent": {
         "de-DE": "<color:#96a7b2>Du hast bereits eine [blue]TPA</color> Anfrage an [blue][player]</color> gesendet!</color>",
         "en-US": "<color:#96a7b2>You've already sent a [blue]TPA</color> request to [blue][player]!</color>"
     },
@@ -56,7 +56,11 @@
         "en-US": "<color:#96a7b2>[blue][player]</color> has already received a [blue]TPA</color> request from someone else!</color>"
     },
     "TPA.request.error.self": {
-        "de-DE": "<color:#96a7b2>Du kannst dir nicht selber eine [blue]TPA</color> senden!</color>",
-        "en-US": "<color:#96a7b2>you can not send yourself a [blue]TPA!</color></color>"
+        "de-DE": "<color:#96a7b2>Du kannst dir nicht selber eine [blue]TPA</color> senden!</color",
+        "en-US": "<color:#96a7b2>you can not send yourself a [blue]TPA!</color></color"
+    },
+    "TPA.request.not.multiple": {
+        "de-DE": "<color:#96a7b2>Du kannst nur eine [blue]TPA</color> Anfrage gleichzeitig senden!</color>",
+        "en-US": "<color:#96a7b2>You can only send one [blue]TPA</color> request at a time!</color>"
     }
 }
