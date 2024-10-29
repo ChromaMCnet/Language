@@ -4,12 +4,12 @@
         "en-US": "You"
     },
     "ERROR.msg.friends": {
-        "de-DE": "<color:#96a7b2>Du musst mit diesem Spieler <aqua>befreundet</aqua> sein, um mit ihm zu chatten!</color>",
-        "en-US": "<color:#96a7b2>You have to be <aqua>friends</aqua> with this player to chat with him!</color>"
+        "de-DE": "<color:#96a7b2>Du musst mit diesem Spieler [blue]befreundet</color> sein, um mit ihm zu chatten!</color>",
+        "en-US": "<color:#96a7b2>You have to be [blue]friends</color> with this player to chat with him!</color>"
     },
     "ERROR.msg.friends.self": {
-        "de-DE": "<color:#96a7b2>Du kannst <color:#ff0000>nur</color> mit deinen <aqua>Freunden</aqua> chatten!</color>",
-        "en-US": "<color:#96a7b2>You can <color:#ff0000>only</color> chat with your <aqua>friends!</aqua></color>"
+        "de-DE": "<color:#96a7b2>Du kannst <color:#ff0000>nur</color> mit deinen [blue]Freunden</color> chatten!</color>",
+        "en-US": "<color:#96a7b2>You can <color:#ff0000>only</color> chat with your [blue]friends!</color></color>"
     },
     "ERROR.msg.disabled": {
         "de-DE": "<color:#96a7b2>Dieser Spieler hat MSGs <color:#ff0000>deaktiviert!</color></color>",
@@ -20,7 +20,7 @@
         "en-US": "<color:#96a7b2>You have MSGs <color:#ff0000>disabled!</color></color>"
     },
     "ERROR.msg.reply": {
-        "de-DE": "<color:#96a7b2>Es gibt <color:#ff0000>keinen</color> Spieler, dem du <aqua>antworten</aqua> könntest!</color>",
-        "en-US": "<color:#96a7b2>There is <color:#ff0000>no</color> player you could <aqua>reply</aqua> to!</color>"
+        "de-DE": "<color:#96a7b2>Es gibt <color:#ff0000>keinen</color> Spieler, dem du [blue]antworten</color> könntest!</color>",
+        "en-US": "<color:#96a7b2>There is <color:#ff0000>no</color> player you could [blue]reply</color> to!</color>"
     }
 }

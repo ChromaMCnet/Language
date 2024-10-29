@@ -1,93 +1,93 @@
 {
     "PUNISH.kick": {
-        "en-US": "<br><color:#96a7b2>You got <color:#ff0000><b>KICKED</b></color> from the server!<br><br><aqua>Moderator:</aqua> [executor]<br><aqua>Reason:</aqua> [reason]<br><aqua>Punishment ID:</aqua> [id]<br><br>If you think that this <color:#ff0000><b>Kick</b></color> was a <aqua>mistake</aqua> or <aqua>unfair,</aqua><br> feel free to create a <aqua>Ticket</aqua> on our <color:#454FBF>Discord Server!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color></color>",
-        "de-DE": "<br><color:#96a7b2>Du wurdest vom Server <color:#ff0000><b>GEKICKT!</b></color><br><br><aqua>Moderator:</aqua> [executor]<br><aqua>Grund:</aqua> [reason]<br><aqua>Punishment ID:</aqua> [id]<br><br>Wenn du denkst, dass dieser <color:#ff0000><b>Kick</b></color> ein <aqua>Fehler</aqua> oder <aqua>unfair</aqua> war,<br> kannst du gerne ein <aqua>Ticket</aqua> auf unserem <color:#454FBF>Discord Server</color> erstellen!<br><br><color:#454FBF><b>discord.chromamc.net</b></color></color>"
+        "en-US": "<br><color:#96a7b2>You got <color:#ff0000><b>KICKED</b></color> from the server!<br><br>[blue]Moderator:</color> [executor]<br>[blue]Reason:</color> [reason]<br>[blue]Punishment ID:</color> [id]<br><br>If you think that this <color:#ff0000><b>Kick</b></color> was a [blue]mistake</color> or [blue]unfair,</color><br> feel free to create a [blue]Ticket</color> on our <color:#454FBF>Discord Server!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color></color>",
+        "de-DE": "<br><color:#96a7b2>Du wurdest vom Server <color:#ff0000><b>GEKICKT!</b></color><br><br>[blue]Moderator:</color> [executor]<br>[blue]Grund:</color> [reason]<br>[blue]Punishment ID:</color> [id]<br><br>Wenn du denkst, dass dieser <color:#ff0000><b>Kick</b></color> ein [blue]Fehler</color> oder [blue]unfair</color> war,<br> kannst du gerne ein [blue]Ticket</color> auf unserem <color:#454FBF>Discord Server</color> erstellen!<br><br><color:#454FBF><b>discord.chromamc.net</b></color></color>"
     },
     "PUNISH.ban": {
-        "en-US": "<br><color:#96a7b2>You got <color:#ff0000><b>BANNED</b></color> from the server!<br><br><aqua>Moderator:</aqua> [executor]<br><aqua>Reason:</aqua> [reason]<br><aqua>Duration:</aqua> [duration]<br><aqua>Servergroup:</aqua> [servergroup]<br><aqua>Punishment ID:</aqua> [id]<br><br>If you think that this <color:#ff0000><b>Ban</b></color> is a <aqua>mistake</aqua> or <aqua>unfair,</aqua><br> feel free to create a <aqua>Ticket</aqua> on our <color:#454FBF>Discord Server!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color></color>",
-        "de-DE": "<br><color:#96a7b2>DU wurdest vom Server <color:#ff0000><b>GEBANNT!</b></color><br><br><aqua>Moderator:</aqua> [executor]<br><aqua>Grund:</aqua> [reason]<br><aqua>Länge:</aqua> [duration]<br><aqua>Servergruppe:</aqua> [servergroup]<br><aqua>Punishment ID:</aqua> [id]<br><br>Wenn du denkst, dass dieser <color:#ff0000><b>Ban</b></color> ein <aqua>Fehler</aqua> oder <aqua>unfair</aqua> ist,<br> kannst du gerne ein <aqua>Ticket</aqua> auf unserem <color:#454FBF>Discord Server</color> erstellen!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color>"
+        "en-US": "<br><color:#96a7b2>You got <color:#ff0000><b>BANNED</b></color> from the server!<br><br>[blue]Moderator:</color> [executor]<br>[blue]Reason:</color> [reason]<br>[blue]Duration:</color> [duration]<br>[blue]Servergroup:</color> [servergroup]<br>[blue]Punishment ID:</color> [id]<br><br>If you think that this <color:#ff0000><b>Ban</b></color> is a [blue]mistake</color> or [blue]unfair,</color><br> feel free to create a [blue]Ticket</color> on our <color:#454FBF>Discord Server!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color></color>",
+        "de-DE": "<br><color:#96a7b2>DU wurdest vom Server <color:#ff0000><b>GEBANNT!</b></color><br><br>[blue]Moderator:</color> [executor]<br>[blue]Grund:</color> [reason]<br>[blue]Länge:</color> [duration]<br>[blue]Servergruppe:</color> [servergroup]<br>[blue]Punishment ID:</color> [id]<br><br>Wenn du denkst, dass dieser <color:#ff0000><b>Ban</b></color> ein [blue]Fehler</color> oder [blue]unfair</color> ist,<br> kannst du gerne ein [blue]Ticket</color> auf unserem <color:#454FBF>Discord Server</color> erstellen!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color>"
     },
     "PUNISH.mute": {
-        "en-US": "<br><color:#96a7b2>You got <color:#ff0000><b>Muted!</b></color><br><br><aqua>Moderator:</aqua> [executor]<br><aqua>Reason:</aqua> [reason]<br><aqua>Duration:</aqua> [duration]<br><aqua>Servergroup:</aqua> [servergroup]<br><aqua>Punishment ID:</aqua> [id]<br><br>If you think that this <color:#ff0000><b>Mute</b></color> is a <aqua>mistake</aqua> or<br><aqua>unfair,</aqua> feel free to create a <aqua>Ticket</aqua> on our <color:#454FBF>Discord Server!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color></color>",
-        "de-DE": "<br><color:#96a7b2>Du wurdest <color:#ff0000><b>Stummgeschaltet!</b></color><br><br><aqua>Moderator:</aqua> [executor]<br><aqua>Grund:</aqua> [reason]<br><aqua>Länge:</aqua> [duration]<br><aqua>Servergruppe:</aqua> [servergroup]<br><aqua>Punishment ID:</aqua> [id]<br><br>Wenn du denkst, dass diese <color:#ff0000><b>Stummschaltung</b></color> ein <aqua>Fehler</aqua> oder <aqua>unfair</aqua> ist, kannst du gerne ein <aqua>Ticket</aqua> auf unserem <color:#454FBF>Discord Server</color> erstellen!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color>"
+        "en-US": "<br><color:#96a7b2>You got <color:#ff0000><b>Muted!</b></color><br><br>[blue]Moderator:</color> [executor]<br>[blue]Reason:</color> [reason]<br>[blue]Duration:</color> [duration]<br>[blue]Servergroup:</color> [servergroup]<br>[blue]Punishment ID:</color> [id]<br><br>If you think that this <color:#ff0000><b>Mute</b></color> is a [blue]mistake</color> or<br>[blue]unfair,</color> feel free to create a [blue]Ticket</color> on our <color:#454FBF>Discord Server!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color></color>",
+        "de-DE": "<br><color:#96a7b2>Du wurdest <color:#ff0000><b>Stummgeschaltet!</b></color><br><br>[blue]Moderator:</color> [executor]<br>[blue]Grund:</color> [reason]<br>[blue]Länge:</color> [duration]<br>[blue]Servergruppe:</color> [servergroup]<br>[blue]Punishment ID:</color> [id]<br><br>Wenn du denkst, dass diese <color:#ff0000><b>Stummschaltung</b></color> ein [blue]Fehler</color> oder [blue]unfair</color> ist, kannst du gerne ein [blue]Ticket</color> auf unserem <color:#454FBF>Discord Server</color> erstellen!</color><br><br><color:#454FBF><b>discord.chromamc.net</b></color>"
     },
     "PUNISH.command.general.error.reason.notfound": {
-        "en-US": "<color:#96a7b2>The reason <aqua>[reason]</aqua> <color:#ff0000>does not exist</color> in the list of available reasons for punishments.</color>",
-        "de-DE": "<color:#96a7b2>Der Grund <aqua>[reason]</aqua> <color:#ff0000>existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
+        "en-US": "<color:#96a7b2>The reason [blue][reason]</color> <color:#ff0000>does not exist</color> in the list of available reasons for punishments.</color>",
+        "de-DE": "<color:#96a7b2>Der Grund [blue][reason]</color> <color:#ff0000>existiert nicht</color> in der Liste der verfügbaren Gründe für Bestrafungen.</color>"
     },
     "PUNISH.command.admin.wipe": {
-        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> wiped all punishments for the player <aqua>[player]!</aqua></color>",
-        "de-DE": "<color:#96a7b2>Alle Bestrafungen für den Spieler <aqua>[player]</aqua> wurden <color:#4bfb00>erfolgreich</color> gelöscht!</color>"
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> wiped all punishments for the player [blue][player]!</color></color>",
+        "de-DE": "<color:#96a7b2>Alle Bestrafungen für den Spieler [blue][player]</color> wurden <color:#4bfb00>erfolgreich</color> gelöscht!</color>"
     },
     "PUNISH.command.reason.list": {
         "en-US": "<color:#96a7b2>Available reasons for punishments:</color><br>[reasons]",
         "de-DE": "<color:#96a7b2>Verfügbare Gründe für Bestrafungen:</color><br>[reasons]"
     },
     "PUNISH.command.kick": {
-        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> kicked the player <aqua>[player]</aqua> from the server with reason <aqua>[reason]!</aqua></color>",
-        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> mit dem Grund <aqua>[reason]</aqua> vom Server gekickt!</color>"
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> kicked the player [blue][player]</color> from the server with reason [blue][reason]!</color></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> wurde <color:#4bfb00>erfolgreich</color> mit dem Grund [blue][reason]</color> vom Server gekickt!</color>"
     },
     "PUNISH.command.mute": {
-        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> muted the player <aqua>[player]</aqua> for <aqua>[duration]</aqua> and with reason <aqua>[reason]!</aqua></color>",
-        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> für <aqua>[duration]</aqua> und mit dem Grund <aqua>[reason]</aqua> stummgeschaltet!</color>"
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> muted the player [blue][player]</color> for [blue][duration]</color> and with reason [blue][reason]!</color></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> wurde <color:#4bfb00>erfolgreich</color> für [blue][duration]</color> und mit dem Grund [blue][reason]</color> stummgeschaltet!</color>"
     },
     "PUNISH.command.ban": {
-        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> banned the player <aqua>[player]</aqua> for <aqua>[duration]</aqua> and with reason <aqua>[reason]!</aqua></color>",
-        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> für <aqua>[duration]</aqua> und mit dem Grund <aqua>[reason]</aqua> gebannt!</color>"
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> banned the player [blue][player]</color> for [blue][duration]</color> and with reason [blue][reason]!</color></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> wurde <color:#4bfb00>erfolgreich</color> für [blue][duration]</color> und mit dem Grund [blue][reason]</color> gebannt!</color>"
     },
     "PUNISH.command.unban": {
-        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> unbanned the player <aqua>[player]!</aqua></color>",
-        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> entbannt!</color>"
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> unbanned the player [blue][player]!</color></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> wurde <color:#4bfb00>erfolgreich</color> entbannt!</color>"
     },
     "PUNISH.command.unmute": {
-        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> unmuted the player <aqua>[player]!</aqua></color>",
-        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> wurde <color:#4bfb00>erfolgreich</color> entstummschaltet!</color>"
+        "en-US": "<color:#96a7b2><color:#4bfb00>Successfully</color> unmuted the player [blue][player]!</color></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> wurde <color:#4bfb00>erfolgreich</color> entstummschaltet!</color>"
     },
     "PUNISH.history": {
-        "en-US": "<color:#96a7b2>Punishment history for <aqua>[player]:</aqua></color><br>"
+        "en-US": "<color:#96a7b2>Punishment history for [blue][player]:</color></color><br>"
     },
     "PUNISH.ban.notify": {
-        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>BANNED</color> <aqua>[player]!</aqua></color>",
-        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> hat <aqua>[player]</aqua> <color:#ff0000>gebannt!</color></color>"
+        "en-US": "<color:#96a7b2>[blue][executor]</color> <color:#ff0000>BANNED</color> [blue][player]!</color></color>",
+        "de-DE": "<color:#96a7b2>[blue][executor]</color> hat [blue][player]</color> <color:#ff0000>gebannt!</color></color>"
     },
     "PUNISH.kick.notify": {
-        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>kicked</color> <aqua>[player]!</aqua></color>",
-        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> hat <aqua>[player]</aqua> <color:#ff0000>gekickt!</color></color>"
+        "en-US": "<color:#96a7b2>[blue][executor]</color> <color:#ff0000>kicked</color> [blue][player]!</color></color>",
+        "de-DE": "<color:#96a7b2>[blue][executor]</color> hat [blue][player]</color> <color:#ff0000>gekickt!</color></color>"
     },
     "PUNISH.mute.notify": {
-        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#ff0000>MUTED</color> <aqua>[player]!</aqua></color>",
-        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> hat <aqua>[player]</aqua> <color:#ff0000>gemuted!</color></color>"
+        "en-US": "<color:#96a7b2>[blue][executor]</color> <color:#ff0000>MUTED</color> [blue][player]!</color></color>",
+        "de-DE": "<color:#96a7b2>[blue][executor]</color> hat [blue][player]</color> <color:#ff0000>gemuted!</color></color>"
     },
     "PUNISH.unban.notify": {
-        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#4bfb00>unbanned</color> <aqua>[player]!</aqua></color>",
-        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> hat <aqua>[player]</aqua> <color:#4bfb00>entbannt!</color></color>"
+        "en-US": "<color:#96a7b2>[blue][executor]</color> <color:#4bfb00>unbanned</color> [blue][player]!</color></color>",
+        "de-DE": "<color:#96a7b2>[blue][executor]</color> hat [blue][player]</color> <color:#4bfb00>entbannt!</color></color>"
     },
     "PUNISH.unmute.notify": {
-        "en-US": "<color:#96a7b2><aqua>[executor]</aqua> <color:#4bfb00>unmuted</color> <aqua>[player]!</aqua></color>",
-        "de-DE": "<color:#96a7b2><aqua>[executor]</aqua> hat <aqua>[player]</aqua> <color:#4bfb00>entmuted!</color></color>"
+        "en-US": "<color:#96a7b2>[blue][executor]</color> <color:#4bfb00>unmuted</color> [blue][player]!</color></color>",
+        "de-DE": "<color:#96a7b2>[blue][executor]</color> hat [blue][player]</color> <color:#4bfb00>entmuted!</color></color>"
     },
     "ERROR.punish.already.punished": {
-        "en-US": "<color:#96a7b2>The player <aqua>[player]</aqua> does <color:#ff0000>already have</color> an active punishment of type <aqua>[type].</aqua></color>",
-        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> hat <color:#ff0000>bereits</color> eine aktive Bestrafung des Typs <aqua>[type].</aqua></color>"
+        "en-US": "<color:#96a7b2>The player [blue][player]</color> does <color:#ff0000>already have</color> an active punishment of type [blue][type].</color></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> hat <color:#ff0000>bereits</color> eine aktive Bestrafung des Typs [blue][type].</color></color>"
     },
     "ERROR.punish.not.punished": {
-        "en-US": "<color:#96a7b2>The player <aqua>[player]</aqua> does <color:#ff0000>not have</color> an active punishment of type <aqua>[type].</aqua></color>",
-        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> hat <color:#ff0000>keine</color> aktive Bestrafung des Typs <aqua>[type].</aqua></color>"
+        "en-US": "<color:#96a7b2>The player [blue][player]</color> does <color:#ff0000>not have</color> an active punishment of type [blue][type].</color></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> hat <color:#ff0000>keine</color> aktive Bestrafung des Typs [blue][type].</color></color>"
     },
     "ERROR.duration.custom.permission": {
-        "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use <aqua>custom durations</aqua> for punishments.</color>",
-        "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, <aqua>benutzerdefinierte Dauern</aqua> für Bestrafungen zu verwenden.</color>"
+        "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use [blue]custom durations</color> for punishments.</color>",
+        "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, [blue]benutzerdefinierte Dauern</color> für Bestrafungen zu verwenden.</color>"
     },
     "ERROR.reason.custom.permission": {
-        "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use <aqua>custom reasons</aqua> for punishments.</color>",
-        "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, <aqua>benutzerdefinierte Gründe</aqua> für Bestrafungen zu verwenden.</color>"
+        "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use [blue]custom reasons</color> for punishments.</color>",
+        "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, [blue]benutzerdefinierte Gründe</color> für Bestrafungen zu verwenden.</color>"
     },
     "ERROR.duration.perma.perms": {
-        "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use <aqua>permanent durations</aqua> for punishments.</color>",
-        "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, <aqua>permanente Dauern</aqua> für Bestrafungen zu verwenden.</color>"
+        "en-US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to use [blue]permanent durations</color> for punishments.</color>",
+        "de-DE": "<color:#96a7b2>Du <color:#ff0000>hast nicht</color> die Berechtigung, [blue]permanente Dauern</color> für Bestrafungen zu verwenden.</color>"
     },
     "ERROR.history.no.punishment": {
-        "en-US": "<color:#96a7b2>The player <aqua>[player]</aqua> has <color:#ff0000>no</color> punishment history for the punishment type <aqua>[type].</aqua></color>",
-        "de-DE": "<color:#96a7b2>Der Spieler <aqua>[player]</aqua> hat <color:#ff0000>keine</color> Bestrafungshistorie für den Bestrafungstypen <aqua>[type].</aqua>.</color>"
+        "en-US": "<color:#96a7b2>The player [blue][player]</color> has <color:#ff0000>no</color> punishment history for the punishment type [blue][type].</color></color>",
+        "de-DE": "<color:#96a7b2>Der Spieler [blue][player]</color> hat <color:#ff0000>keine</color> Bestrafungshistorie für den Bestrafungstypen [blue][type].</color>.</color>"
     }
 }

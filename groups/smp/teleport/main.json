@@ -4,11 +4,11 @@
         "en-US": "<color:#96a7b2>The teleport was <color:#ff0000>canceled</color> because you <color:#ff0000>moved!</color></color>"
     },
     "TELEPORT.spawn.countdown": {
-        "de-DE": "<color:#96a7b2>Du wirst in <aqua>[countdown]</aqua> Sekunden teleportiert, bewege dich <color:#ff0000>NICHT!</color></color>",
-        "en-US": "<color:#96a7b2>You will be teleported in <aqua>[countdown]</aqua> seconds, do <color:#ff0000>NOT</color> move!</color>"
+        "de-DE": "<color:#96a7b2>Du wirst in [blue][countdown]</color> Sekunden teleportiert, bewege dich <color:#ff0000>NICHT!</color></color>",
+        "en-US": "<color:#96a7b2>You will be teleported in [blue][countdown]</color> seconds, do <color:#ff0000>NOT</color> move!</color>"
     },
     "TELEPORT.spawn.success": {
-        "de-DE": "<color:#96a7b2>Du wurdest <color:#4bfb00>erfolgreich</color> zum <aqua>Spawn</aqua> teleportiert!</color>",
-        "en-US": "<color:#96a7b2>You have been <color:#4bfb00>successfully</color> teleported to the <aqua>Spawn!</aqua></color>"
+        "de-DE": "<color:#96a7b2>Du wurdest <color:#4bfb00>erfolgreich</color> zum [blue]Spawn</color> teleportiert!</color>",
+        "en-US": "<color:#96a7b2>You have been <color:#4bfb00>successfully</color> teleported to the [blue]Spawn!</color></color>"
     }
 }

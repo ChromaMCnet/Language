@@ -1,10 +1,10 @@
 {
     "PACK.update.new": {
-        "de-DE": "<color:#96a7b2>Ein neues <color:#4bfb00>Update</color> für unser Texturepack ist jetzt verfügbar. Du kannst <aqua><click:run_command:'/loadpack'>hier</click></aqua> klicken, um es dir zu installieren oder einfach den Command <aqua><click:run_command:'/loadpack'>/loadpack</click></aqua> ausführen.</color>",
-        "en-US": "<color:#96a7b2>A new <color:#4bfb00>update</color> for our texture pack is now available. You can click <aqua><click:run_command:'/loadpack'>here</click></aqua> to install it or simply run the command <aqua><click:run_command:'/loadpack'>/loadpack</click>.</aqua></color>"
+        "de-DE": "<color:#96a7b2>Ein neues <color:#4bfb00>Update</color> für unser Texturepack ist jetzt verfügbar. Du kannst [blue]<click:run_command:'/loadpack'>hier</click></color> klicken, um es dir zu installieren oder einfach den Command [blue]<click:run_command:'/loadpack'>/loadpack</click></color> ausführen.</color>",
+        "en-US": "<color:#96a7b2>A new <color:#4bfb00>update</color> for our texture pack is now available. You can click [blue]<click:run_command:'/loadpack'>here</click></color> to install it or simply run the command [blue]<click:run_command:'/loadpack'>/loadpack</click>.</color></color>"
     },
     "PACK.command.apply": {
-        "de-DE": "<color:#96a7b2>Das <aqua>Texturepack</aqua> wurde <color:#4bfb00>erfolgreich</color> heruntergeladen und installiert!</color>",
-        "en-US": "<color:#96a7b2>The <aqua>texture pack</aqua> has been <color:#4bfb00>successfully</color> downloaded and installed!</color>"
+        "de-DE": "<color:#96a7b2>Das [blue]Texturepack</color> wurde <color:#4bfb00>erfolgreich</color> heruntergeladen und installiert!</color>",
+        "en-US": "<color:#96a7b2>The [blue]texture pack</color> has been <color:#4bfb00>successfully</color> downloaded and installed!</color>"
     }
 }

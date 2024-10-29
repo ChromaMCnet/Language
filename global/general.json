@@ -1,19 +1,19 @@
 {
     "ERROR.noperms": {
-        "de-DE": "<color:#96a7b2>Dir <color:#ff0000>fehlt</color> die Berechtigung um das zu tun!</color>",
-        "en-US": "<color:#96a7b2>You <color:#ff0000>don't have</color> the permission to do that!</color>"
+        "de-DE": "<color:#96a7b2>Dir <color:#ff0000>fehlt</color> die [blue]Berechtigung</color> um das zu tun!</color>",
+        "en-US": "<color:#96a7b2>You <color:#ff0000>don't have</color> the [blue]permission</color> to do that!</color>"
     },
     "ERROR.player.offline": {
         "de-DE": "<color:#96a7b2>Dieser Spieler ist aktuell <color:#ff0000>offline!</color></color>",
         "en-US": "<color:#96a7b2>This player is currently <color:#ff0000>offline!</color></color>"
     },
     "ERROR.player.notfound": {
-        "de-DE": "<color:#96a7b2>Dieser Spieler hat noch <color:#ff0000>nie</color> auf <aqua>ChromaMC</aqua> gespielt!</color>",
-        "en-US": "<color:#96a7b2>This player has <color:#ff0000>never</color> played on <aqua>ChromaMC</aqua> before!</color>"
+        "de-DE": "<color:#96a7b2>Dieser Spieler hat noch <color:#ff0000>nie</color> auf [blue]ChromaMC</color> gespielt!</color>",
+        "en-US": "<color:#96a7b2>This player has <color:#ff0000>never</color> played on [blue]ChromaMC</color> before!</color>"
     },
     "ERROR.command.notfound": {
-        "de-DE": "<color:#96a7b2>Der Command <aqua>/[command]</aqua> existiert <color:#ff0000>nicht!</color> </color>",
-        "en-US": "<color:#96a7b2>The command <aqua>/[command]</aqua> does <color:#ff0000>not</color> exist!</color>"
+        "de-DE": "<color:#96a7b2>Der Command [blue]/[command]</color> existiert <color:#ff0000>nicht!</color> </color>",
+        "en-US": "<color:#96a7b2>The command [blue]/[command]</color> does <color:#ff0000>not</color> exist!</color>"
     },
     "DATE.relative.minute.less.ago": {
         "de-DE": "vor weniger als einer Minute",
@@ -160,8 +160,8 @@
         "en-US": "[amount] years"
     },
     "ERROR.time.format.invalid": {
-        "de-DE": "<color:#96a7b2>Die Zeit die du angegeben hast ist ungültig! Bitte nutze das Format <aqua>2s</aqua> für 2 Sekunden, <aqua>5m</aqua> für 5 Minuten oder <aqua>6h</aqua> für 6 Stunden, <aqua>5d</aqua> für 5 Tage, <aqua>3M</aqua> für 3 Monate oder <aqua>2y</aqua> für 2 Jahre.</color>",
-        "en-US": "<color:#96a7b2>The time you specified is invalid! Please use the format <aqua>2s</aqua> for 2 seconds, <aqua>5m</aqua> for 5 minutes or <aqua>6h</aqua> for 6 hours, <aqua>5d</aqua> for 5 days, <aqua>3M</aqua> for 3 months or <aqua>2y</aqua> for 2 years.</color>"
+        "de-DE": "<color:#96a7b2>Die Zeit die du angegeben hast ist ungültig! Bitte nutze das Format [blue]2s</color> für 2 Sekunden, [blue]5m</color> für 5 Minuten oder [blue]6h</color> für 6 Stunden, [blue]5d</color> für 5 Tage, [blue]3M</color> für 3 Monate oder [blue]2y</color> für 2 Jahre.</color>",
+        "en-US": "<color:#96a7b2>The time you specified is invalid! Please use the format [blue]2s</color> for 2 seconds, [blue]5m</color> for 5 minutes or [blue]6h</color> for 6 hours, [blue]5d</color> for 5 days, [blue]3M</color> for 3 months or [blue]2y</color> for 2 years.</color>"
     },
     "GENERAL.yes": {
         "de-DE": "Ja",

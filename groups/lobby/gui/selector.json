@@ -4,15 +4,11 @@
         "en-US": "<i:false><color:#96a7b2>This <color:#ff0000>mode</color> is <color:#ff0000>not yet</color> available</color><br><br><i:false><color:#96a7b2>If you have <color:#00FFFF>ideas</color> what other <color:#00FFFF>modes</color> could be available</color><br><i:false><color:#96a7b2>feel free to join our <color:#0066CC>Discord Server</color> to tell us!</color><br><i:false><color:#96a7b2>Use <color:#0066CC>/discord</color> to get the <color:#0066CC>link</color>, or open <color:#0066CC>dc.chromamc.net</color> in your browser!</color>"
     },
     "GAMEMODE.smp.lore": {
-        "de-DE": "<i:false><color:#96a7b2>Spiele <aqua>alleine</aqua> oder mit <aqua>Freunden</aqua></color><br><i:false><color:#96a7b2>Deiner <aqua>Kreativität</aqua> sind <aqua>keine Grenzen</aqua> gesetzt!</color><br><br><i:false><color:#96a7b2>Aktuell online: <aqua>[playercount]</aqua></color>",
-        "en-US": "<i:false><color:#96a7b2>Play <aqua>alone</aqua> or with <aqua>friends</aqua></color><br><i:false><color:#96a7b2>Your <aqua>creativity</aqua> knows <aqua>no bounds</aqua>!</color><br><br><i:false><color:#96a7b2>Currently online: <aqua>[playercount]</aqua></color>"
+        "de-DE": "<i:false><color:#96a7b2>Spiele [blue]alleine</color> oder mit [blue]Freunden</color></color><br><i:false><color:#96a7b2>Deiner [blue]Kreativität</color> sind [blue]keine Grenzen</color> gesetzt!</color><br><br><i:false><color:#96a7b2>Aktuell online: [blue][playercount]</color></color>",
+        "en-US": "<i:false><color:#96a7b2>Play [blue]alone</color> or with [blue]friends</color></color><br><i:false><color:#96a7b2>Your [blue]creativity</color> knows [blue]no bounds</color>!</color><br><br><i:false><color:#96a7b2>Currently online: [blue][playercount]</color></color>"
     },
-    "GAMEMODE.kitpvp.lore": {
-        "de-DE": "<i:false><color:#96a7b2>Kämpfe gegen <aqua>andere Spieler</aqua></color><br><i:false><color:#96a7b2>wähle dein Kit aus und <aqua>zeige ihnen,</aqua> wer der <aqua>Beste</aqua> ist!</color><br><br><i:false><color:#ff0000>SOON</color>",
-        "en-US": "<i:false><color:#96a7b2>Fight against <aqua>other players</aqua></color><br><i:false><color:#96a7b2>choose your kit and <aqua>show them</aqua> who is the <aqua>best</aqua>!</color><br><br><i:false><color:#ff0000>SOON</color>"
-    },
-    "GAMEMODE.spleef.lore": {
-        "de-DE": "<i:false><color:#96a7b2>Spiele <aqua>gegen andere Spieler</aqua></color><br><i:false><color:#96a7b2>und versuche sie <aqua>in den Abgrund</aqua> zu stoßen!</color><br><br><i:false><color:#ff0000>SOON</color>",
-        "en-US": "<i:false><color:#96a7b2>Play <aqua>against other players</aqua></color><br><i:false><color:#96a7b2>and try to <aqua>push them</aqua> into the abyss!</color><br><br><i:false><color:#ff0000>SOON</color>"
+    "GAMEMODE.skywars.lore": {
+        "de-DE": "<i:false><color:#96a7b2>Spiele [blue]alleine</color> oder mit [blue]Freunden</color></color><br><i:false><color:#96a7b2>und [blue]gewinne</color> gegen deine [blue]Gegner!</color></color><br><br><i:false><color:#96a7b2>Aktuell online: [blue][playercount]</color></color>",
+        "en-US": "<i:false><color:#96a7b2>Play [blue]alone</color> or with [blue]friends</color></color><br><i:false><color:#96a7b2>and [blue]win</color> against your [blue]enemies!</color></color><br><br><i:false><color:#96a7b2>Currently online: [blue][playercount]</color></color>"
     }
 }
