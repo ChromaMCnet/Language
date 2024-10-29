@@ -135,6 +135,14 @@
         "de-DE": "[amount] Tage",
         "en-US": "[amount] days"
     },
+    "DATE.relative.week.less": {
+        "de-DE": "[amount] Woche",
+        "en-US": "[amount] week"
+    },
+    "DATE.relative.week": {
+        "de-DE": "[amount] Wochen",
+        "en-US": "[amount] weeks"
+    },
     "DATE.relative.month.less": {
         "de-DE": "[amount] Monat",
         "en-US": "[amount] month"
