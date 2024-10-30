@@ -1,4 +1,8 @@
 {
+    "GUI.list.title": {
+        "de-DE": "<i:false>[blue][player]'s Homes</color>",
+        "en-US": "<i:false>[blue][player]'s homes</color>"
+    },
     "HOMES.teleport.success": {
         "de-DE": "<color:#96a7b2>Du wurdest zu deinem Home [blue][home]</color> teleportiert!</color>",
         "en-US": "<color:#96a7b2>You have been teleported to your home [blue][home]</color>!</color>"

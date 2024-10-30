@@ -1,4 +1,12 @@
 {
+    "GUI.settings.item.category.name": {
+        "de-DE": "<i:false>[blue]Einstellungen</color>",
+        "en-US": "<i:false>[blue]Settings</color>"
+    },
+    "GUI.settings.item.playerhider.name": {
+        "de-DE": "<i:false>[blue]Spielerhider</color>",
+        "en-US": "<i:false>[blue]Player hider</color>"
+    },
     "GUI.settings.item.movement.name": {
         "de-DE": "<i:false>[blue]Bewegungsart</color>",
         "en-US": "<i:false>[blue]Movement</color>"
@@ -15,6 +23,10 @@
         "de-DE": "<i:false>[blue]Privatnachrichten</color>",
         "en-US": "<i:false>[blue]Private messages</color>"
     },
+    "GUI.settings.item.hotbarsound.name": {
+        "de-DE": "<i:false>[blue]Hotbar Sound</color>",
+        "en-US": "<i:false>[blue]Hotbar Sound</color>"
+    },
     "GUI.social.item.friends.name": {
         "de-DE": "<i:false>[blue]Freunde</color>",
         "en-US": "<i:false>[blue]Friends</color>"
@@ -24,8 +36,8 @@
         "en-US": "<i:false>[blue]Archivements</color>"
     },
     "GUI.social.item.friends.lore": {
-        "de-DE": "<i:false><color:#96a7b2>Verwalte deine [blue]Freunde</color> und [blue]Freundschaftsanfragen</color></color><br><i:false><color:#96a7b2>und finde neue [blue]Freunde</color> auf dem Netzwerk!</color>",
-        "en-US": "<i:false><color:#96a7b2>Manage your [blue]friends</color> and [blue]friend requests</color></color><br><i:false><color:#96a7b2>and find new [blue]friends</color> on the network!</color>"
+        "de-DE": "<i:false><color:#96a7b2>Verwalte deine [blue]Freunde</color> und [blue]Freundschaftsanfragen</color></color><br><i:false><color:#96a7b2>und finde neue [blue]Freunde</color> auf dem Netzwerk!<br><br><color:#ff0000>Bald...</color><br><br></color>",
+        "en-US": "<i:false><color:#96a7b2>Manage your [blue]friends</color> and [blue]friend requests</color></color><br><i:false><color:#96a7b2>and find new [blue]friends</color> on the network!<br><br><color:#ff0000>Soon...</color><br><br></color>"
     },
     "GUI.social.item.archivements.lore": {
         "de-DE": "<i:false><br><br><color:#ff0000>Bald...</color><br><br>",
