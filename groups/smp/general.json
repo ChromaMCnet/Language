@@ -22,5 +22,13 @@
     "GENERAL.cmd.back.teleport": {
         "de-DE": "<color:#96a7b2>Teleportiere zu deinem Todespunkt...</color>",
         "en-US": "<color:#96a7b2>Telporting to your deathlocation...</color>"
+    },
+    "GENERAL.chat.msg.death": {
+        "de-DE": "<color:#96a7b2>[red]💀</color> [blue][player]</color> ist [red]gestorben</color></color>",
+        "en-US": "<color:#96a7b2>[red]💀</color> [blue][player]</color> [red]died</color></color></color>"
+    },
+    "GENERAL.chat.msg.death.player": {
+        "de-DE": "<color:#96a7b2>[red]💀</color> [blue][player]</color> ist [red]gestorben</color> während er mit [blue][attacker]</color> gekämpft hat!</color>",
+        "en-US": "<color:#96a7b2>[red]💀</color> [blue][player]</color> [red]died</color> while fighting [blue][attacker]</color>!</color>"
     }
 }
