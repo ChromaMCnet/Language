@@ -93,6 +93,19 @@
             "1M"
         ]
     },
+    "NOT_ALLOWED_SKIN": {
+        "de-DE": "Nicht erlaubter Skin",
+        "en-US": "Not allowed Skin",
+        "permission": "chromamc.punish.ban.not_allowed_skin",
+        "type": ["ban", "kick"],
+        "durations": [
+            "1d",
+            "3d",
+            "1w",
+            "2w",
+            "1M"
+        ]
+    },
     "GRIEFING": {
         "de-DE": "Griefing",
         "en-US": "Griefing",
