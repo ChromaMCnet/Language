@@ -1,4 +1,8 @@
 {
+    "ITEM.selector.name": {
+        "de-DE": "<i:false>[blue]Game-Selector</color>",
+        "en-US": "<i:false>[blue]Game-Selector</color>"
+    },
     "ITEM.selector.lore": {
         "de-DE": "<i:false><color:#96a7b2>Wähle den [blue]Spielmodus</color> aus</color><br><i:false><color:#96a7b2>den du auf <color:#96a7b2>ChromaMC</color> spielen möchtest</color>",
         "en-US": "<i:false><color:#96a7b2>Choose the [blue]game mode</color> you want to play on <color:#96a7b2>ChromaMC</color></color>"
