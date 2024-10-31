@@ -8,8 +8,8 @@
         "en-US": "[grey][red]<b>➖</color> [blue][player]</color> has left the network. <dark_grey>([blue][proxy]</color>)</dark_grey></color>"
     },
     "NOTIFY.server.switch": {
-        "de-DE": "[grey][yellow]<b>↺</b></color> [blue][player]</color> hat den Server gewechselt. <dark_grey>([blue][previous-server]</color> -> [blue][current-server]</color>)</dark_grey></color>",
-        "en-US": "[grey][yellow]<b>↺</b></color> [blue][player]</color> has switched servers. <dark_grey>([blue][previous-server]</color> -> [blue][current-server]</color>)</dark_grey></color>"
+        "de-DE": "[grey][blue][player]</color> hat den Server gewechselt. <dark_grey>([blue][previous-server]</color> -> [blue][current-server]</color>)</dark_grey></color>",
+        "en-US": "[grey][blue][player]</color> has switched servers. <dark_grey>([blue][previous-server]</color> -> [blue][current-server]</color>)</dark_grey></color>"
     },
     "NOTIFY.enable": {
         "de-DE": "[grey]Du hast nun [blue]Benachrichtigungen</color> vom Typen [blue][type]</color> [green]aktiviert!</color></color>",
