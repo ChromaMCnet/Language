@@ -23,6 +23,10 @@
         "de-DE": "<i:false><color:#96a7b2>Wähle deine [blue]Cosmetics</color> aus</color><br><i:false><color:#96a7b2>und passe deinen [blue]Charakter</color> an!</color>",
         "en-US": "<i:false><color:#96a7b2>Choose your [blue]Cosmetics</color></color><br><i:false><color:#96a7b2>and customize your [blue]character</color>!</color>"
     },
+    "ITEM.lobbyselector.name": {
+        "de-DE": "<i:false>[blue]Lobby-Selector</color>",
+        "en-US": "<i:false>[blue]Lobby-Selector</color>"
+    },
     "ITEM.lobbyselector.lore": {
         "de-DE": "<i:false><color:#96a7b2>Wähle die [blue]Lobby</color> in der du dich aufhalten möchtest!</color>",
         "en-US": "<i:false><color:#96a7b2>Choose the [blue]lobby</color> you want to be in!</color>"
