@@ -6,5 +6,9 @@
     "VANISH.disable": {
         "de-DE": "[grey]Du bist nun [blue]sichtbar!</color> Andere Spieler [green]sehen dich</color> nun wieder.</color>",
         "en-US": "[grey]You are now [blue]visible!</color> Other players can [green]see you</color> again.</color>"
+    },
+    "VANISH.info.actionbar": {
+        "de-DE": "[grey]Du bist aktuell [blue]unsichtbar</color></color>",
+        "en-US": "[grey]You are currently [blue]invisible</color></color>"
     }
 }
