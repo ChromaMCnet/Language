@@ -1,0 +1,10 @@
+{
+    "SPEED.set.fly": {
+        "de-DE": "[grey]Du hast deine [blue]Flug-Geschwindigkeit</color> auf [blue][speed]</color> geändert!</color>",
+        "en-US": "[grey]You have changed your [blue]fly speed</color> to [blue][speed]!</color></color>"
+    },
+    "SPEED.set.walk": {
+        "de-DE": "[grey]Du hast deine [blue]Lauf-Geschwindigkeit</color> auf [blue][speed]</color> geändert!</color>",
+        "en-US": "[grey]You have changed your [blue]walk speed</color> to [blue][speed]!</color></color>"
+    }
+}
