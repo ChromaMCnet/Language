@@ -170,5 +170,9 @@
     "GENERAL.no": {
         "de-DE": "Nein",
         "en-US": "No"
+    },
+    "GENERAL.command.discord": {
+        "de-DE": "[grey]Trete unserem [blue]Discord-Server</color> bei:<br>[blue]<click:open_url:'https://discord.gg/chromamc'><hover:show_text:'[blue]Klicke hier um den Link in deinem Browser zu öffnen!</color>'>https://discord.gg/chromamc</hover></click></color></color>",
+        "en-US": "[grey]Join our [blue]Discord server:</color><br>[blue]<click:open_url:'https://discord.gg/chromamc'><hover:show_text:'[blue]Click here to open the link in your browser!</color>'>https://discord.gg/chromamc</hover></click></color></color>"
     }
 }
