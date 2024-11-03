@@ -28,7 +28,7 @@
         "en-US": "<color:#96a7b2>The word <aqua>[word]</aqua> has been <color:#ff0000>color</color> from the <aqua>Blacklist</aqua>!</color>"
     },
     "SUCCESS.blacklist.show": { 
-        "de-DE": "<color:#96a7b2>Die <aqua>Blacklist</aqua> enthält folgende Wörter: <aqua>[wordlist]</aqua></color>",
-        "en-US": "<color:#96a7b2>The <aqua>Blacklist</aqua> contains the following words: <aqua>[wordlist]</aqua></color>"
+        "de-DE": "<color:#96a7b2>Die <aqua>Blacklist</aqua> enthält folgende Wörter: <aqua>[words]</aqua></color>",
+        "en-US": "<color:#96a7b2>The <aqua>Blacklist</aqua> contains the following words: <aqua>[words]</aqua></color>"
     }
 }
