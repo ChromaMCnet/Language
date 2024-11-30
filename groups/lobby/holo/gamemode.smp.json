@@ -1,6 +1,6 @@
 {
     "holo.smp.online": {
-        "de-DE": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON 1</gradient></b><br>[grey][blue][players]</color> / [orange]250</color> Spieler</color>",
+        "de-DE": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON 1</gradient></b><br>[grey][blue][players]</color> / [blue]250</color> Spieler</color>",
         "en-US": "<b><gradient:#33FB08:#066B00:#33FB08>SMP SEASON 1</gradient></b><br>[grey][blue][players]</color> / [orange]250</color> players</color>",
         "location": {
             "x": -268.500,
