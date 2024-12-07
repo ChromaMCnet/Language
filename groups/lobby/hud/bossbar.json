@@ -17,10 +17,10 @@
     },
     "BOSSBAR.title.smp.factions": {
         "en-US": "<gradient:#0079FF:#00B4FF:#0079FF><b>SMP UPDATE</b></gradient> <color:#96a7b2><b>◆</b></color> <b><gradient:#3494E6:#EC6EAD>FACTION SYSTEM </gradient><gradient:#EC6EAD:#3494E6>NOW AVAILABLE</gradient></b>",
-        "de-DE": "<gradient:#0079FF:#00B4FF:#0079FF><b>SMP UPDATE</b></gradient> <b><gradient:#3494E6:#EC6EAD>FAKTIONS-SYSTEM </gradient><gradient:#EC6EAD:#3494E6>JETZT VERFÜGBAR</gradient></b>"
+        "de-DE": "<gradient:#0079FF:#00B4FF:#0079FF><b>SMP UPDATE</b></gradient> <color:#96a7b2><b>◆</b></color> <b><gradient:#3494E6:#EC6EAD>FAKTIONS-SYSTEM </gradient><gradient:#EC6EAD:#3494E6>JETZT VERFÜGBAR</gradient></b>"
     },
     "BOSSBAR.title.lobby.map": {
         "en-US": "<b><gradient:#0079FF:#00B4FF:#0079FF>LOBBY UPDATE</b> <color:#96a7b2><b>◆</b></color> <b><gradient:#27B700:#00FF1C>EXPLORE OUR</gradient><gradient:#00FF1C:#27B700> NEW LOBBY</gradient></b>",
-        "de-DE": "<b><gradient:#0079FF:#00B4FF:#0079FF>LOBBY UPDATE</b> <b><gradient:#27B700:#00FF1C>ERKUNDE UNSER</gradient><gradient:#00FF1C:#27B700>E NEUE LOBBY</gradient></b>"
+        "de-DE": "<b><gradient:#0079FF:#00B4FF:#0079FF>LOBBY UPDATE</b> <color:#96a7b2><b>◆</b></color> <b><gradient:#27B700:#00FF1C>ERKUNDE UNSER</gradient><gradient:#00FF1C:#27B700>E NEUE LOBBY</gradient></b>"
     }
 }
