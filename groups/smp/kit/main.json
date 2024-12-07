@@ -11,7 +11,7 @@
         "de-DE": "<color:#96a7b2>Du kannst das [blue]Starterkit</color> nur bekommen, wenn du <color:#ff0000>gestorben</color> bist!</color>",
         "en-US": "<color:#96a7b2>You can only get the [blue]starter kit</color> if you have <color:#ff0000>died</color>!</color>"
     },
-    "KIT.give": {
+    "KIT.success": {
         "de-DE": "<color:#96a7b2>Du hast das [blue]Starterkit</color> erhalten!</color>",
         "en-US": "<color:#96a7b2>You have received the [blue]starter kit</color>!</color>"
     },
