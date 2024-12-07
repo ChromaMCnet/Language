@@ -14,21 +14,5 @@
     "BOSSBAR.title.smp": {
         "en-US": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#19FF00:#11B000:#19FF00><b>SMP QOL UPDATE</b></gradient>",
         "de-DE": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#19FF00:#11B000:#19FF00><b>SMP QOL UPDATE</b></gradient>"
-    },
-    "BOSSBAR.title.lobby.quests": {
-        "en-US": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#FF9100:#FF0000:#FF9100><b>Lobby QUESTS NOW available</b></gradient>",
-        "de-DE": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#FF9100:#FF0000:#FF9100><b>Lobby QUESTS sind JETZT verfügbar</b></gradient>"
-    },
-    "BOSSBAR.title.lobby.rework": {
-        "en-US": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#D200FF:#FF009B:#D200FF><b>BIG LOBBY REWORK</b></gradient>",
-        "de-DE": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#D200FF:#FF009B:#D200FF><b>GROSSES LOBBY UPDATE</b></gradient>"
-    },
-    "BOSSBAR.title.skywars.beta": {
-        "en-US": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#00F5FF:#0098FF:#00F5FF><b>SKYWARS OPEN BETA</b></gradient>",
-        "de-DE": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#00F5FF:#0098FF:#00F5FF><b>SKYWARS OPEN BETA</b></gradient>"
-    },
-    "BOSSBAR.title.event.skywars": {
-        "en-US": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#0098FF:#00F5FF:#0098FF><b>BIG SKYWARS BETA TOURNAMENT ON 19/03/2025 AT 16:00</b></gradient>",
-        "de-DE": "<gradient:#0079FF:#00B4FF:#0079FF><b>ChromaMC.net</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#0098FF:#00F5FF:#0098FF><b>GROSSES SKYWARS BETA TURNIER AM xx.xx.xxxx UM xx:xx UHR</b></gradient>"
     }
 }
