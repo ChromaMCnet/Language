@@ -8,8 +8,8 @@
         "de-DE": "<gradient:#0079FF:#00FFF5:#0079FF><b>Discord</b></gradient> <color:#96a7b2><b>◆</b></color> <color:#5865f1><b>discord.chromamc.net</b></color>"
     },
     "BOSSBAR.title.release": {
-        "en-US": "<gradient:#0079FF:#00FFF5:#0079FF><b>CHROMAMC</b></gradient> <color:#96a7b2><b>◆</b></color> <b><gradient:#CB2D3E:#EF473A>RELE</gradient><gradient:#EF473A:#CB2D3E>ASE </b>🔥</gradient>",
-        "de-DE": "<gradient:#0079FF:#00FFF5:#0079FF><b>CHROMAMC</b></gradient> <color:#96a7b2><b>◆</b></color> <b><gradient:#CB2D3E:#EF473A>RELE</gradient><gradient:#EF473A:#CB2D3E>ASE </b>🔥</gradient>"
+        "en-US": "<gradient:#0079FF:#00FFF5:#0079FF><b>CHROMAMC</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#CB2D3E:#EF473A:#CB2D3E><b>RELEASE</b> 🔥</gradient>",
+        "de-DE": "<gradient:#0079FF:#00FFF5:#0079FF><b>CHROMAMC</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#CB2D3E:#EF473A:#CB2D3E><b>RELEASE</b> 🔥</gradient>"
     },
     "BOSSBAR.title.smp": {
         "en-US": "<gradient:#0079FF:#00FFF5:#0079FF><b>CHROMAMC</b></gradient> <color:#96a7b2><b>◆</b></color> <gradient:#19FF00:#11B000:#19FF00><b>SMP QOL UPDATE</b></gradient>",
